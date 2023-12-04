@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Catalogue Description of Royal Library, Copenhagen, Nks 1220</title>
+                <respStmt>
+                    Catalogued by 
+                    <name>
+                        <persName>
+                            <forename>Sheryl</forename> 
+                            <surname>McDonald Werronen</surname>
+                        </persName>
+                        <orgName type="affiliation">Københavns Universitet</orgName>
+                    </name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+                    </licence>
+                </availability>
+                <authority>Den Arnamagnæanske Samling, København</authority>
+                <date when="2018-02-01">1 February 2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="Nks1220" xml:lang="en">
+                    <msIdentifier>
+                        <repository>Det Kongelige Bibliotek, København</repository>
+                        <idno>Nks 1220</idno>
+                        <altIdentifier>
+                            <nickname>Vigursbók</nickname>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <idno>Suhms samling 395 fol.</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <title type="supplied">Saga</title>
+                        </summary>
+                        <textLang mainLang="is">Icelandic</textLang>
+                        <titlePage type="ms">
+                            <docTitle>
+                                <titlePart type="supplied">
+                                    Njáls saga
+                                </titlePart>
+                            </docTitle>
+                        </titlePage>
+                        <msItem n="1">
+                            <locus from="1r" to="108r">1r–108r</locus>
+                            <title>
+                                Njáls saga
+                            </title>
+                            <rubric>
+                                Hier Bÿriar Niꜳls Saugu
+                            </rubric>
+                            <incipit>
+                                <highlight>Maurdur heet maþur, Er kall</highlight>aþ<ex>ur</ex> v<ex>ar</ex> Gÿgia, 
+                                h<ex>an</ex>n v<ex>ar</ex> son<ex>ur</ex> Sighvatz hin<ex>n</ex>s Rauþa, 
+                                han<ex>n</ex> biö ꜳ Velle i Hvolhrepp at Rängꜳr Vꜷllu<ex>m</ex>,
+                                h<ex>an</ex>n v<ex>ar</ex> Rijk<ex>ur</ex> hꜷfþinge, <ex>og</ex> 
+                                mälam<ex>adur</ex> m<ex>ik</ex>ill, <ex>og</ex> sva mikell lagm<ex>adur</ex> at 
+                                ꜷngvum<ex>m</ex> þötte lꜷgl<ex>e</ex>g<ex>er</ex> Döm<ex>ar</ex> 
+                                nema h<ex>ann</ex> væ<ex>re</ex> v<ex>it</ex>, h<ex>an</ex>n ꜳtti dött<ex>ur</ex> 
+                                eina er Wn<ex>n</ex>ur heet, hun v<ex>ar</ex> væn kona <ex>og</ex> k<ex>ur</ex>teis, 
+                                <ex>og</ex> so v<ex>el</ex> at si<ex>er</ex>, at sä þötte beste kost<ex>ur</ex> ꜳ Rꜳngꜳrvꜷllum<ex>m</ex>.
+                            </incipit>
+                            <explicit>
+                                stee h<ex>ann</ex> þꜳ ꜳ sk
+                                ip <ex>og</ex> leet i haf, <ex>og</ex> hef<ex>er</ex> t<ex>il</ex> þesz skipz allþrei spurztt
+                                sijþan<ex>n</ex>. Þesse varu bꜷrn þ<ex>ei</ex>r<ex>r</ex>a kꜳra Sꜷlmun
+                                d<ex>ar</ex>s<ex>ie</ex>ar <ex>og</ex> Helgo Niꜳlzdöt<ex>t</ex>r, þörge<ex>r</ex>þr, Ragn
+                                eijþr, Valgeerþr <ex>og</ex> þörþr, er in<ex>n</ex>e bran<ex>n</ex>. en<ex>n</ex> 
+                                bꜷrn þ<ex>ei</ex>r<ex>r</ex>a Hillþegun<ex>n</ex>ar <ex>og</ex> Kꜳra varo 
+                                þ<ex>ei</ex>r starcaþr þ<ex>or</ex>þr <ex>og</ex> Flose. Kolbe<ex>i</ex>n 
+                                heet s<ex>er</ex> b<ex>re</ex>n<ex>n</ex>o, Flosa, er ꜳgiaitaztur 
+                                maþr h<ex>efe</ex>r v<ex>er</ex><ex>it</ex> einhu<ex>er</ex> i þ<ex>ei</ex>r<ex>r</ex>e ait. 
+                                Ok lwkom<ex>m</ex> veer sva 
+                                Niꜳlz sꜷgo.
+                            </explicit>
+                            <colophon>
+                                Skrifuþt, <ex>og</ex> enþuþt aþt Wigr ꜳ Isafiarþar 
+                                Diwpe Af <persName>Magnuse Ketilssyne</persName>, Anno. 1698. –
+                            </colophon>
+                            <note>119 chapters.</note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>Codex
+                            <supportDesc material="chart">
+                                <support>Paper</support>
+                            </supportDesc>
+                            <support_num_bb>108</support_num_bb>
+                            <support_num_bfl>i</support_num_bfl>
+                            <dimensions_leaf>
+                                <height unit="mm">297 mm</height>
+                                <width unit="mm">194 mm</width>
+                            </dimensions_leaf>
+                        </objectDesc>
+                        <foliation>None</foliation>
+                        <condition>Good</condition>
+                    </physDesc>
+                </msDesc>
+                <handDesc>Magnús Ketilsson</handDesc>
+                <decoDesc>This manuscript has a moderate level of decoration.
+                    <list>
+                        <ul>
+                            <li>Initials at chapter beginnings, in gold ink for chs 1–9, otherwise in black ink.</li>
+                        </ul>
+                    </list>
+                </decoDesc>
+            </sourceDesc>
+            <history>
+                <orig>
+                    <origDate>1698</origDate>
+                    <origPlace>Iceland</origPlace>
+                </orig>
+                <provenance>
+                    The manuscript was acquired by the Royal Library between 1788 and 1831 
+                    according to the online catalogue <a href="https://rex.kb.dk/">REX</a>.
+                    <persName>Magnús Jónsson í Vigur</persName> (1637–1702): Commissioner, Owner
+                    <persName>Peter Friderich Suhm</persName> (1728–1798): Owner
+                </provenance>
+            </history>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2018" who="SMW">Checked.</change>
+            Last update: 2018-02-01
+        </revisionDesc>
+    </teiHeader>
+</TEI>

@@ -1,0 +1,829 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Catalogue Description of British Library, Add. 4865</title>
+                <respStmt>
+                    Catalogued by 
+                    <name>
+                        <persName>
+                            <forename>Sheryl</forename> 
+                            <surname>McDonald Werronen</surname>
+                        </persName>
+                        <orgName type="affiliation">Københavns Universitet</orgName>
+                    </name>
+                    based on British Library catalogue descriptions.
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+                    </licence>
+                </availability>
+                <authority>Den Arnamagnæanske Samling, København</authority>
+                <date when="2018-02-01">1 February 2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="Add4865" xml:lang="en">
+                    <msIdentifier>
+                        <country key="UK">United Kingdom</country>
+                        <settlement>London</settlement>
+                        <repository>British Library</repository>
+                        <idno>Add. 4865</idno>
+                        <altIdentifier>
+                            <idno>Banks Collection: No. 1</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <idno>
+                                Páll Vídalín's collection: No. 3 fol. 
+                                (<q>Sturlunga saga frá Vigur með settaskript Jóns Þórðarsonar</q>)
+                            </idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <title type="supplied">Sagas</title>
+                        </summary>
+                        <textLang mainLang="is">Icelandic</textLang>
+                        <titlePage type="ms">
+                            <locus from="2r" to="2r">2r</locus>
+                            <docTitle>
+                                <titlePart type="main">
+                                   <highlight> Jslendinga Sagan<ex>n</ex> mikla </highlight>
+                                    Sem og Nefnest 
+                                    <highlight>Sturlunga 
+                                    saga</highlight>
+                                </titlePart>
+                                <titlePart type="sub">
+                                    edur 
+                                    <highlight>Blömst<ex>ur</ex> 
+                                    Adskilen<ex>n</ex>a Nefnlegra Ætt</highlight>
+                                    tijgen<ex>n</ex>a og ÿpparlegra fördum<ex>m</ex> tijd Jslands 
+                                    ho᷎fdingia, ad verdugleikum<ex>m</ex> Raun og Riettugheitu<ex>m</ex> 
+                                    forfedra frægilegra san<ex>n</ex>kalladra.
+                                    huar in<ex>n</ex>e 
+                                    <highlight>Eirn og Sierhuor mä Sia og Skoda </highlight>
+                                    þeirra uppruna og ætterne, Giæfu og Gio᷎rf
+                                    ugleika, Man<ex>n</ex>ord og m<supplied resp="editor">e</supplied>nter, Vopnfimne og Vaskleika, 
+                                    <supplied resp="editor">R</supplied>iettsijne og Rädsnille, Vijgkiænsku og viturleika, ärlaus<supplied resp="editor">nner 
+                                    og</supplied> uppäfinding<ex>ar</ex>, Giaford og Gÿptumal, æfedrif og alld<supplied resp="editor">ur</supplied>
+                                    tila, eptermäl og ættrak<ex>er</ex>ne. 
+                                    Þeim til Lærdöms og listeseme, Jdkun o<ex>g</ex> epter
+                                    tekta er sin<ex>n</ex>a forfedra fo᷎grum<ex>m</ex> Dæmum<ex>m</ex> filgia vilia 
+                                    en<ex>n</ex> hinum<ex>m</ex> til varudar og vidvo᷎run<ex>ar</ex> er J þeirra Man<ex>n</ex> 
+                                    løg<ex>um</ex> brestum<ex>m</ex> freklega feta og fram<ex>m</ex>ganga.
+                                    <highlight><supplied resp="editor">A</supplied>d fornu skrifud og Saman<ex>n</ex>dreigen<ex>n</ex> </highlight>
+                                    Af Snorra Sturlusine Lo᷎gman<ex>n</ex>e 
+                                    ä Stadarhole sitianda. 
+                                    En<ex>n</ex> nu ad niju uppskrifud  Anno 1696.
+                                </titlePart>
+                                <note>
+                                    The majority of the title is the same as that on the title page of Add. 4868 (written by Magnús Þórolfsson nearly 30 years earlier in 1667).
+                                </note>
+                            </docTitle>
+                        </titlePage>
+                        <msItem n="1">
+                            <locus from="2v" to="2v">2v</locus>
+                            <title>Table of Contents</title>
+                            <rubric>
+                                Þessa Epterfilgiande þætte 
+                                hefur þesse Bök saga ine ad hallda.
+                            </rubric>
+                            F yrste þättur talar um<ex>m</ex> uppruna og ætter nockra Jslend
+                               inga. um<ex>m</ex> haflida Marsson, þorgijls Oddsson, og 
+                               þeijrra Malaferle etc.
+                            A n<ex>n</ex>ar þättur um<ex>m</ex> ætt Sæmundar froda og an<ex>n</ex>ara Man<ex>n</ex>a 
+                               vidskipte huam<ex>m</ex>s Sturlu og Einars ä Stadarhöle og 
+                               fleira þar ad lütande.
+                            Þ ridie þættur hliödar um<ex>m</ex> ætt og uppruna Gudmundar 
+                               Biskups, han<ex>n</ex>s prestskap, gio᷎rninga og kosning etc: eirn en<ex>n</ex> um<ex>m</ex> 
+                               Gudmund Dijra og han<ex>n</ex>s athafner Man<ex>n</ex>dräp Mötsto᷎dumen<ex>n</ex> 
+                               og margs konar an<ex>n</ex>ad, äsamt Gissur<ex>ar</ex> þorvalldssonar 
+                               frændur og forfedur etc.
+                            F iörde þättur hefur in<ex>n</ex>e ad hallda Mötgäng og man<ex>n</ex>rauner 
+                               Gudmundar Biskups, it<ex>e</ex>m u<ex>m</ex> þorvalld Watnzfirding, Rafn 
+                               Sveinbiarnarson og leijrra Deijtur, fram<ex>m</ex> ferde Sturlunga 
+                               og þeirra afspreinge etc.
+                            F im<ex>m</ex>te þättur um<ex>m</ex> heimsökn og ÿfergäng þorvalldssona ä 
+                               Saudafelle, Osökn og afgäng Gudmund<ex>ar</ex> B<ex>isku</ex>ps, Dräp Vatn<supplied resp="editor">s</supplied>
+                               firdinga, af Sturlu Sighuats sine og h<ex>a</ex>ns atho᷎fnum<ex>m</ex> 
+                               frændum<ex>m</ex> og vinum<ex>m</ex> etc:
+                            S io᷎tte þättur Jn<ex>n</ex>helldur Ørligsstada Bardaga, fall Sig
+                               huats og sona han<ex>n</ex>s, ÿfergäng kolbeins ünga og Gissur<ex>ar</ex> 
+                               þorvalldsson<ex>ar</ex>, Sigling Snorra Sturluson<ex>ar</ex>, ütkoma og aftekt
+                            S io᷎unde þättur um<ex>m</ex> þörd Sighuatsson kakala, Gissur og 
+                               kolbein, og vidureign þ<ex>ei</ex>rra þördar, þeirra Deilur öröä, og 
+                               orustur, afgäng kolbeins, utan<ex>n</ex>ferd þördar og Gissur<ex>ar</ex> <unclear>þor<ex>valldsson</ex></unclear>
+                            A ttunde þättur tal<ex>ar</ex> um<ex>m</ex> þorgils Bo᷎dvarsson, han<ex>n</ex>s upprun <unclear>og</unclear> 
+                               utan<ex>n</ex>ferd, utkoma Gissurar, þeirra Deilur vid þördar um<ex>m</ex> 
+                               bodsmen<ex>n</ex> hier ä lande Gissur gio᷎rest höfdinge J Skagafirdi
+                            N ijunde þätt<ex>ur</ex> um<ex>m</ex> flugumijrar Bren<ex>n</ex>u. Gissur kiemst und
+                               an<ex>n</ex>, Drepur Bren<ex>n</ex>umen<ex>n</ex>, sigler siälf<ex>ur</ex>, han<ex>n</ex>s og þördar um<ex>m</ex>
+                               bodsman<ex>n</ex> Verk og Vijgaferle, af þorgils Bo᷎dvarssonar 
+                               atho᷎fnum<ex>m</ex> og afdrifum<ex>m</ex> etc.
+                            T ijunde þatt<ex>ur</ex> um<ex>m</ex> ütkomu Gissurar Jalls, og 00000 
+                               rad ÿfer Nordurlandenu, samt Man<ex>n</ex>dräp og Deilur0000
+                               ingar Jäta hlijdne og skatte häkone könge. Siglir 0000 
+                               þordar sonar ütkoma og an<ex>n</ex>ad fleira etc.
+                            E llefte þättur um<ex>m</ex> Arna Biskup han<ex>n</ex>s gio᷎rninga og 00000 
+                               mäl etc.
+                        </msItem>
+                        <msItem n="2">
+                            <locus from="3r" to="288v">3r–288v</locus>
+                            <title>Sturlunga saga</title>
+                            <rubric>
+                                Hier Bijriast Sturlunga saga.
+                            </rubric>
+                            <note>The text is from the Reykjarfjarðarbók manuscript version.</note>
+                            <msItem n="2.1">
+                                <locus from="3r" to="18r">3r–18r</locus>
+                                <title>
+                                    Geirmundar þáttur heljarskinns (chapters 1–4; 3r–5v) 
+                                    and Þorgils saga ok Hafliða (chapters 5–27; 5v–18r)
+                                </title>
+                                <rubric>CAP. I.</rubric>
+                                <incipit>
+                                    Geirmundr Heliar skin<ex>n</ex> var sun hiørs kongs Hꜳlfs sunar, er Hꜳlfs rekcar eru uid kiender, 
+                                    Annar sun Hiaurs k<ex>o</ex>ngs u<ex>ar</ex> Ham<ex>mun</ex>dr Er en<ex>n</ex> u<ex>ar</ex> 
+                                    kalladr Heliar skin<ex>n</ex>. þejr v<ex>oru</ex> tuijbur<ex>ar</ex>. En<ex>n</ex> þesse er til søgn til þess, 
+                                    e<ex>r</ex> þ<ex>ei</ex>r woru Heliar skin<ex>n</ex> kallader, Ad Ejrn tijma e<ex>r</ex> Hiaur 
+                                    <supplied resp="editor">k</supplied>ongur skylldi sækia k<ex>o</ex>nga stefnu
+                                </incipit>
+                                <explicit>
+                                    Haflidi mællti Nu sie Eg ad þu uilltt heilar saater 
+                                    ockar, <ex>og</ex> sua uar sijdan<ex>n</ex> huar sem þ<ex>ei</ex>r funduzt, eda hittust, þa stoodu 
+                                    þeir Jafnan<ex>n</ex> Ad Mꜳlum<ex>m</ex>. huør med ødrum<ex>m</ex>. Suo 
+                                    Leingi sem þeir Lifdu.
+                                </explicit>
+                                <colophon>
+                                    Ending þess fyrsta þatts sturlunga søgu.
+                                    Anno 1.6.9.7.
+                                </colophon>
+                                <note>27 chapters.</note>
+                            </msItem>
+                            <msItem n="2.2">
+                                <locus from="18v" to="40r">18v–40r</locus>
+                                <title>
+                                    Ættartölur (chapters 1–7; 18v–20r), Sturlu saga (chapters 8–38a; 20r–38r), 
+                                    Formáli (chapter 38b; 38r–v), and Prestssaga Guðmundar Arasonar (chapters 39–41; 38v–40r)
+                                </title>
+                                <rubric>
+                                    Hier byriast an<ex>n</ex>ar þaattur sturlun
+                                    ga søgu og seiger J fyrstu um<ex>m</ex> ætt 
+                                    Sæmund<ex>ar</ex> frooda og An<ex>n</ex>ara Jslendinga.</rubric>
+                                <rubric>CAP. 1.</rubric>
+                                <incipit>
+                                    Sæmundur hin<ex>n</ex> fröde ætte Gudrunu doottur kolbeins flosa sonar, 
+                                    þ<ex>ei</ex>ra børn u<ex>or</ex>u þau Eyolf<ex>ur</ex> prestur og loptur prest<ex>ur</ex>. 
+                                    Lodim<ex>un</ex>dr og þoreij, e<ex>r</ex> Atte þorvard<ex>ur</ex> olafsson, 
+                                    þ<ex>eir</ex>ra son u<ex>ar</ex> olaf<ex>ur</ex> pr<ex>e</ex>st<ex>ur</ex>, 
+                                    Loptt<ex>ur</ex> Sæmund<ex>ar</ex> son för utan<ex>n</ex> <ex>og</ex> fieck J Norege þöru,
+                                </incipit>
+                                <explicit>
+                                    Enn er h<ex>ann</ex> saknadi Ara þötti h<ex>a</ex>m þ<ex>at</ex> m<ex>ik</ex>it <ex>og</ex> 
+                                    sag<ex>de</ex> h<ex>an</ex>n hefdi Lꜳted Lijp sitt f<ex>yrer</ex> sig, <ex>og</ex> sig 
+                                    var<ex>it</ex> frekara en<ex>n</ex> Adrer, <ex>og</ex> lofadi h<ex>a</ex>ns hreysti. 
+                                    Liet Jall sijd<ex>an</ex>  sijna m<ex>enn</ex> greptra, Enn er þ<ex>e</ex>tta sp<ex>ur</ex>dist til 
+                                    Jslandz ordti þorvalld<ex>ur</ex> quædi um<ex>m</ex> Brod<ex>ur</ex> 
+                                    Sinn, <ex>og</ex> þottist so hyggia best Af harme ept<ex>er</ex> h<ex>an</ex>n.
+                                </explicit>
+                                <colophon>
+                                    Anno ∞697.
+                                </colophon>
+                                <note>41 chapters.</note>
+                                <note>
+                                    Chapter 38 is in two parts (noted as 38a and 38b above), but which are divided by a new line only rather than any larger initial or rubric. 
+                                    The first part, 20 lines long on fol. 38r, comprises the end of Sturlu saga 
+                                    (explicit: <q>Sturla Andadist i Elle sjnne J huam<ex>m</ex>j, Enn Gudn ij biö þ<ex>ar</ex> Leingi sijdan<ex>n</ex>.</q>). 
+                                    The second part, 16 lines long from the last line of fol. 38r and continuing onto 38v, comprises the so-called Formáli 
+                                    (incipit: <q>Marg<ex>ar</ex> søg<ex>ur</ex> uerda hi<ex>er</ex> samtijda, sem eg hefi skipti þætte, og <!-- 38v --> 
+                                     þo ei alla senn ritga.</q>) before Prestssaga Guðmundar Arasonar begins as chapter 39 of part 2, on 38v 
+                                    (incipit: <q>Þorgeijr halla son bio under Huaßafelli, J Eyia fyrdi han<ex>n</ex> Atti Hallberu Einars Dott<ex>ur</ex> Af Reykia nese</q>). 
+                                    Chapter 39's initial <q>Þ</q> is embellished with a man's face.
+                                </note>
+                            </msItem>
+                            <msItem n="2.3">
+                                <locus from="40v" to="80v">40v–80v</locus>
+                                <msItem n="2.3.1">
+                                    <locus from="40v" to="71r">40v–71r</locus>
+                                    <title>
+                                        Prestssaga Guðmundar Arasonar (continued; chapters 1–8, 32–33, 35–36; 40v–46v, 64r–v, 65v–67r), 
+                                        Guðmundar saga dýra (chapters 9–31, 34; 47r–64r, 65r–v), and Íslendinga saga (chapters 37–45; 67r–71r)
+                                    </title>
+                                    <rubric>
+                                        Þridie Þattur 
+                                        Sturlunga saugu og talar Fyrst Wm<ex>m</ex> Fæding 
+                                        Gudmund<ex>ar</ex> Arasonar er sijdar Vard B<ex>isku</ex>p og han<ex>n</ex>s upp foostur 
+                                        og lærdöm, hier er og Gieted þorlꜳks Byscups er ädur 
+                                        hefur kalladur vered hin<ex>n</ex> Helgi, sagan<ex>n</ex> af Gudmundi 
+                                        Dijra <ex>og</ex> hanns Giørningum<ex>m</ex>, han<ex>n</ex>s mot stødu manna 
+                                        Deilur Man<ex>n</ex>dräp Bren<ex>n</ex>ur og Annad fleyra sem 
+                                        Vm<ex>m</ex> þ<ex>an</ex>n tijma hefur til Bored.
+                                    </rubric>
+                                    <rubric>CAP.  I.</rubric>
+                                    <incipit>
+                                        Nu tek eg þar til fräsagn<ex>ar</ex> er Gudmund<ex>ur</ex> son Ara uar fædd<ex>ur</ex> ad Griötä. 
+                                        Þad v<ex>ar</ex> ä Einum misserum <ex>og</ex> fall Inga k<ex>o</ex>ngs, <ex>og</ex> þ<ex>at</ex> brend<ex>ur</ex> 
+                                        uar Bær Sturlu i Huam<ex>m</ex>i þä u<ex>ar</ex> Biørn B<ex>isku</ex>p ꜳ Hoolum. 
+                                        Enn kläng<ex>ur</ex> B<ex>isku</ex>p ad skala holltti, wijgdur Eystejrn Erchi b<ex>isku</ex>p, 
+                                        einum uetre adr, Þa lided var frä Hingad 
+                                        burd Vors Herra Jesu Ch<supplied resp="editor">r</supplied>isti Anno 1162 ꜳr.
+                                    </incipit>
+                                    <explicit>
+                                        fara þ<ex>ei</ex>r nu til þ<ex>i</ex>ngs hu<ex>or</ex>u tueggiu, og lijkur b<ex>isku</ex>p up 
+                                        Giørdum m<ex>ed</ex> rꜳdi hin<ex>n</ex>a bestu manna Giørdi h<ex>an</ex>n Eign<ex>er</ex> Allar a 
+                                        hend<ex>ur</ex> sæmundi brod<ex>ur</ex> sijnum<ex>m</ex>, enn still<ex>er</ex> suo gridum Ad bꜳd<ex>er</ex> 
+                                        mꜳttu uel uid una, En<ex>n</ex> Sæm<ex>un</ex>d<ex>ur</ex> hafdi nirding af 
+                                        þeßum mꜳlum, Kolbeini Lykadi Jlla mꜳ
+                                        la Lycktter þessar.
+                                    </explicit>
+                                    <verse>
+                                        Sera Jon  |   Ara son.
+                                        Jon lofast lopt sson    |    Sturlu sonur snorre
+                                        Lund prud<ex>ur</ex> ä Grund  |  hia sum<ex>m</ex>um þ<ex>ei</ex>m u<ex>ar</ex> Jn<ex>n</ex>e,
+                                        Af Magnuse i möd<ex>ur</ex> ætt  |   v<ex>ar</ex>d þ<ex>ar</ex> vitur <ex>og</ex> Lærdur,
+                                        Meinast komin<ex>n</ex> Verbem.   |  Vel fröd<ex>ur</ex> kiæru til lioda,
+                                        Norex k<ex>o</ex>nga kyn u<ex>ar</ex>,   |   En<ex>n</ex> eitt ad mä fin<ex>n</ex>a,
+                                        kalla flest<ex>er</ex> þ<ex>at</ex> best,  |  Ag<ex>ar</ex>nd fiär s<ex>e</ex>m spyrndi,
+                                        halldin<ex>n</ex> v<ex>ar</ex> h<ex>ann</ex> Gylld<ex>ur</ex>, Lucku <ex>og</ex> Laane þecku
+                                        høfdingi u<ex>m</ex> Land kring.  |  f<ex>ra</ex> Listar man<ex>n</ex>e haum.
+                                    </verse>
+                                    <note>45 chapters.</note>
+                                </msItem>
+                                <msItem n="2.3.2">
+                                <locus from="71v" to="80v">71v–80v</locus>
+                                    <title>
+                                        Haukdæla þáttur (chapters 1–6; 71v–73v) and parts continued from Íslendinga saga 
+                                        (chapters 7, 18–22; 73v, 78v–80v) and Prestssaga Guðmundar Arasonar (chs 7–17; 73v–78v)
+                                    </title>
+                                    <rubric>
+                                        Nockrar ættartølur fra Nordskum<ex>m</ex> og til 
+                                        Gyssurar huijta, <ex>og</ex> fra þeim hafa þ<ex>ei</ex>r fyrstu skaal
+                                        holltts Byskupar komed, suo og þorualld<ex>ur</ex> Gyssurs son og 
+                                        hanns syner, Gyssur son hanns sem sijdan<ex>n</ex> uard 
+                                        Jarl atti hann uid sin<ex>n</ex>e sijdare konu þoru 
+                                        Dottur Gudmund<ex>ar</ex> Grijss, og solveigar 
+                                        Dottur Jöns Lopts sonar.
+                                    </rubric>
+                                    <rubric>CAP I.</rubric>
+                                    <incipit>
+                                        Ketilbiørn hiet madur Norræn<ex>n</ex>, Miøg frægur, h<ex>an</ex>n for til Jslandz 
+                                        þa er land<ex>ed</ex> u<ex>ar</ex> wijda bygt med siö, moder h<ex>a</ex>ns v<ex>ar</ex> 
+                                        Æsa Dottur Griotgardz syster hakon<ex>ar</ex> Hlada Jarls, ketil biørn u<ex>ar</ex> ketilßon, 
+                                        hann atti helgu dott<ex>ur</ex> þord<ex>ar</ex> skeggia Rafnßonar, <ex>og</ex> uar 
+                                        m<ex>ed</ex> h<ex>a</ex>m fyrsta uet<ex>ur</ex> a Js<supplied resp="editor">l</supplied>andi.
+                                    </incipit>
+                                    <explicit>
+                                        Enn 
+                                        mela m<ex>enn</ex> Attu sin<ex>n</ex> hlut Godorda, f<ex>yrir</ex> nordan<ex>n</ex> Øxnadals heidi, Attu <highlight type="strikethrough">iij</highlight> <addition resp="scribe" location="above">þ<ex>ei</ex>r</addition> 
+                                        Godord Øgmund<ex>ur</ex> sneys og Hallur klepjarnß<ex>o</ex>n og þorvalldur 
+                                        son Gudm<ex>un</ex>d<ex>ur</ex> Dijra fieck Sigurd<ex>ur</ex> Ormßon þau godord sem fræ
+                                        ndur h<ex>a</ex>ns høfdu Att, Sigurd<ex>ur</ex> Gaf þau Tum<ex>m</ex>a Sighva
+                                        ts Syne og komst han<ex>n</ex> sua ad þ<ex>ei</ex>m.
+                                    </explicit>
+                                    <colophon>
+                                        d<ex>en</ex> 3 februarij.
+                                    </colophon>
+                                    <verse>
+                                        S<ex>era</ex> J<ex>on</ex>  |  A<ex>ra</ex> S<ex>on</ex>
+                                        ærin<ex>n</ex> ætt<ex>ar</ex>slooda, | af sæm<ex>un</ex>di frooda, | Marga m<ex>enn</ex> kin göda,
+                                        mä u<ex>m</ex> slijka Lioda, | Ketil h<ex>onu</ex>m vill Biooda, | Blöm<ex>an</ex> fram<ex>m</ex> en<ex>n</ex>
+                                        þiöda, | kun<ex>n</ex>u kesiu a Rioda, | kalla Eg bok suo
+                                        hlioda.
+                                    </verse>
+                                    <note>2
+                                        2 chapters. Íslendinga saga resumes again (followed shortly by Prestssaga Guðmundar Arasonar
+                                        again) after the end of Haukdæla þáttur at chapter 7 (73v) with the rubric 
+                                        <q>Vm<ex>m</ex> Jardteykner Gudmundar B<ex>isku</ex>ps.</q>
+                                    </note>
+                                </msItem>
+                            </msItem>
+                            <msItem n="2.4">
+                                <locus from="81r" to="115v">81r–115v</locus>
+                                <title>
+                                    Íslendinga saga (continued, chapters 1–11, 19–50; 81r–87r, 92r–115v) 
+                                    and Hrafns saga Sveinbjarnarsonar (chapters 12–18; 87r–92r)
+                                </title>
+                                <rubric>
+                                    Fiörde þättur. 
+                                    Sturlunga søgu og er fyrst Af Gud
+                                    munde Byskupi, Kolbeine Tum<ex>m</ex>a syne, <ex>og</ex> þ<ex>eir</ex>ra vid
+                                    skyptum<ex>m</ex>, Jafn framt þessu er sagan<ex>n</ex> af þoruallde 
+                                    Vatns fyrdinge og Rafne suein biarnar syne, og 
+                                    þ<ex>eir</ex>ra Deylum. Jtem hu<ex>or</ex>nin<ex>n</ex> þ<ex>ei</ex>r hellstu høfdin
+                                    giar settu sig Mote B<ex>isku</ex>pe, Eptt<ex>ur</ex> fall ko
+                                    lbeins.
+                                </rubric>
+                                <rubric>Cap I. <unclear>0</unclear></rubric>
+                                <incipit>
+                                    Þä er Gudmund<ex>ur</ex> B<ex>isku</ex>p Kom wt <ex>og</ex> 
+                                    h<ex>an</ex>n tök forr<ex>äd</ex> kien<ex>n</ex>e m<ex>anna</ex> 
+                                    <ex>og</ex> stiöru christne f<ex>yrer</ex> Nordan<ex>n</ex> L<ex>a</ex>nd, 
+                                    vrdu m<ex>ar</ex>gar Grein<ex>er</ex> med þ<ex>ei</ex>m Kolbeine 
+                                    Tum<ex>m</ex>a syne. þ<ex>at</ex> er sitt þötte hu<ex>or</ex>iu<ex>m</ex> 
+                                    þ<ex>eir</ex>ra, <ex>og</ex> vard med þ<ex>ei</ex>m m<ex>ik</ex>it sundr þycki,
+                                </incipit>
+                                <explicit>
+                                    En<ex>n</ex> þꜳ er þ<ex>at</ex> spurdest ad þ<ex>ei</ex>r væ<ex>ri</ex> m<ex>ed</ex> sighuati 
+                                    u<ex>ar</ex> fundur Lagd<ex>ur</ex> med þ<ex>ei</ex>m frændum J nord<ex>ur</ex> Aar dal, 
+                                    Kom sturla enn snorre ei, h<ex>an</ex>n sendi þorleif þörd<ex>ar</ex> son <ex>og</ex> styrmi 
+                                    pr<ex>e</ex>st hin<ex>n</ex> fröda ad t<ex>ak</ex>a sier 
+                                    Grid til handa, Enn sturlu þotti þ<ex>at</ex> ei trü legt <!-- en<ex>n</ex> villde | hafa griden<ex>n</ex> {added (with an insertion mark in the line) to the outside margin by later reader} --> og liet kꜳlf 
+                                    Gylß<ex>o</ex>n t<ex>ak</ex>a J h<ex>o</ex>nd þorleyfe Enn Torfa pr<ex>e</ex>sti i hønd styrme preste mæltti þä st
+                                    yrm<ex>ur</ex> f<ex>yrer</ex> gridum og skil
+                                    du vid þad.
+                                </explicit>
+                                <verse>
+                                    S<ex>era</ex> J<ex>on</ex>  |  A<ex>ra</ex> S<ex>on</ex>
+                                    þorvalld<ex>ur</ex> sꜳl sellde   |   fedra niöta nidi<ex>ar</ex>.
+                                    sijna i wijtis pijnu    |    er nä alld<ex>er</ex> ad giallda,
+                                    verdug<ex>ur</ex> ad uatnzf<ex>ir</ex>di,    |   ef ad gott ad hafast,
+                                    <ex>og</ex> valld st<ex>or</ex> gode halldin<ex>n</ex>,   |  ed<ex>ur</ex> vondt: siä huad skied<ex>ar</ex>.
+                                    hafdi h<ex>an</ex>n þ<ex>an</ex>n er ei hæfdi    |   þ<ex>or</ex>valldz syner særast,
+                                    v<ex>ar</ex> hrafn stor<ex>an</ex> oJafnad,   |  svikn<ex>ur</ex> niöta ei Lijkn<ex>ar</ex>,
+                                    Eirnin<ex>n</ex> glæpi ærna,  |  giallda grijser Velld<ex>ar</ex>,
+                                    Efndi gud þui hefnd<ex>ur</ex>.   |  gamal svijn Dauda pijnu.
+                                </verse>
+                                <note>
+                                    50 chapters. 
+                                    Chapter 8 (fol. 85r) begins with the rubric 
+                                    <q>Br<ex>ie</ex>f þorers Ercheb<ex>isku</ex>ps til Jslendinga | Nu koma Brieff þoorers Erche byskups suo Lꜳtande.</q> 
+                                    Chapter 26 (fol. 99r) begins with the rubric 
+                                    <q>Vm þrætu millum Lopts Son<ex>ar</ex> Pꜳls b<ex>isku</ex>ps og Biørns þorv|alldßonar og ad Biørn fiell J Bardaga, og hu<ex>or</ex>|nin<ex>n</ex> men<ex>n</ex> sættust ꜳ Mäled.</q>
+                                </note>
+                            </msItem>
+                            <msItem n="2.5">
+                                <locus from="116r" to="144v">116r–144v</locus>
+                                <title>
+                                    Íslendinga saga (continued)
+                                </title>
+                                <rubric>
+                                    Fimte þaatur 
+                                    Sturlunga søgu og seiger fyrst Vm<ex>m</ex> heimsokn 
+                                    Raan og Manndrap þorvallds sona, a sauda felle, 
+                                    og þeirra sꜳtt uid sturlu, af Gudmund<ex>ar</ex> B<ex>isku</ex>ps ofso
+                                    knum og möt gange, sturla Læt<ex>ur</ex>drepa Vatns fy
+                                    rdinga, han<ex>n</ex>s sigling og Römganga, wt koma 
+                                    Aptur, þræta Sighuats og Kolbeins <ex>og</ex> sätt, 
+                                    Sigling og Apt<ex>ur</ex> Koma, Af gangi wrækiu <ex>og</ex> 
+                                    Af drifum<ex>m</ex>, samt ødrum þrætum <ex>og</ex> m<ex>ann</ex>
+                                    d<ex>ra</ex>pum, er A þeim Arum hafa til 
+                                    falled.
+                                </rubric>
+                                <rubric>Cap I.</rubric>
+                                <incipit>
+                                    Hier byria eg søgu af sonum<ex>m</ex> Þorvallds J Vatnsfyrde Drottins d<ex>a</ex>g 
+                                    eptt<ex>er</ex> h<ex>a</ex>ns Brennu, Kom þordur son h<ex>a</ex>ns J þorska fiørd, 
+                                    og spurdi þ<ex>ar</ex> Tijdindin<ex>n</ex> frietti h<ex>an</ex>n þä Ept<ex>er</ex>, 
+                                    huørt nockud m<ex>un</ex>di tiä ad rijda Ept<ex>er</ex> þ<ex>ei</ex>m, 
+                                    enn m<ex>enn</ex> ætludu þ<ex>ei</ex>r mundu vnd<ex>an</ex> borner, 
+                                    v<ex>ar</ex>d e<ex>ck</ex>j af ept<ex>er</ex> Reidin<ex>n</ex>e.
+                                </incipit>
+                                <explicit>
+                                    Lijk Þördar var ja
+                                    rdad þar ä Eyre, f<ex>yrer</ex> fram<ex>an</ex> Kyrkiu s<ex>e</ex>m h<ex>an</ex>n hafdi fyr<ex>er</ex> sagt, h<ex>an</ex>n hafde 
+                                    tuo vetur hins Attunda tigar. Magnus b<ex>isku</ex>pe Andadist þ<ex>at</ex> sama sumar hid 
+                                    næsta Ept<ex>er</ex>, Deigi f<ex>yrer</ex> Mariu meßu fyrri, þorvalldur Gyßur
+                                    ßon Canük hafde Andast tveim f<ex>yre</ex>r. Enn Magnus B<ex>isku</ex>p 
+                                    brodur hannz <ex>og</ex> Gudmund<ex>ur</ex> B<ex>isku</ex>p er Artijd þorvalldz 
+                                    Igidius messu A þui Äre er þorvalld<ex>ur</ex> Andad
+                                    ist Andadist <ex>og</ex> sigurd<ex>ur</ex> ormsson, flose mun
+                                    kur Biarnason og Digur helgi Og þ<ex>ar</ex> 
+                                    med Endar þan<ex>n</ex> fimta part Js
+                                    Lendinga.
+                                </explicit>
+                                <verse>
+                                    S<ex>era</ex> J<ex>on</ex>  |  A<ex>ra</ex> S<ex>on</ex>
+                                    Gyssur Gud nam blessa   |    Eitt h<ex>onu</ex>m a v<ex>ar</ex>d þ<ex>e</ex>tta
+                                    af Gøfugu<ex>m</ex> Norex jøf<ex>ur</ex>,    |   ad Snor<ex>ra</ex> Lijf skad<ex>ar</ex>,
+                                    fi<ex>k</ex> h<ex>an</ex>n nafn böt nockra   |   Setst sijdan<ex>n</ex> i klaust<ex>ur</ex>,
+                                    nafn fræg<ex>ur</ex> Jarl v<ex>ar</ex> harla.    |   <ex>og</ex> sadd<ex>ur</ex> Dagan<ex>n</ex>a quadde.
+                                </verse>
+                                <note>
+                                    50 chapters. Chapter 18 (128v) begins with the rubric 
+                                    <q>Af wrækiu Snorra Syne <ex>og</ex> At høfnu<ex>m</ex> h<ex>a</ex>ns</q>
+                                </note>
+                            </msItem>
+                            <msItem n="2.6">
+                                <locus from="145r" to="170r">145r–170r</locus>
+                                <title>
+                                    Íslendinga saga (continued)
+                                </title>
+                                <rubric>
+                                    Siøtte þaatur Jslendinga 
+                                    Af Sighuate ꜳ grund, og sturlu syne han<ex>n</ex>s og 
+                                    þeirra yfer gange. Af Bardøgum<ex>m</ex> sturlu og Af tekttum<ex>m</ex>, Jt
+                                    em huørnin<ex>n</ex> kolbeirn wnge Gyssur Þorualldßon og fleyre Ad
+                                    rer safna lidi, þeir fedgar J Annan<ex>n</ex> stad, med þui fley
+                                    ra sem fyrr og sijdan<ex>n</ex> Giørdest, Vm<ex>m</ex> fall þ<ex>eir</ex>ra fedga, 
+                                    Og Annara A ørløgz stødum, Kolbejrn Giørdizt Ein<ex>n</ex> 
+                                    Vallds herra fyrer Nordan<ex>n</ex>, Sigling Snorra og 
+                                    Vt koma, hanns Aftektt, Af wrækiu, Dräpe 
+                                    Klängs og fleÿrum til burdum<ex>m</ex> hier ä 
+                                    Lande wm<ex>m</ex> þann Tijma
+                                </rubric>
+                                <rubric>Cap I.</rubric>
+                                <incipit>
+                                    Gyssur þorualldsson Biö ad Reykium J øluese, þau missere er magnus b<ex>isku</ex>p <ex>og</ex> 
+                                    Gudm<ex>un</ex>d<ex>ur</ex> ønduduzt h<ex>an</ex>n giørdist høfdingi mikill wit<ex>ur</ex> 
+                                    m<ex>adur</ex> og winsæll, þä hafdi h<ex>an</ex>n viij vetur og xx. og þa v<ex>ar</ex> 
+                                    Lided fra hing<ex>ad</ex> burd uors herra Jesu Christi Anno 1238 Aar. 
+                                    Gyßur hafdi giørst skutul sueirn Hakon<ex>ar</ex> k<ex>on</ex>gs frænda sijns, 
+                                    þa h<ex>an</ex>n skorte A tvijtugan<ex>n</ex> vetur,
+                                </incipit>
+                                <explicit>
+                                    Þörd<ex>ur</ex> v<ex>ar</ex> þ<ex>ar</ex> Litla hrijd adur enn þar kom til h<ex>a</ex>ns nicolaus Oddsson, 
+                                    Jon Tosta son og fleyre adrer, þ<ex>ei</ex>r Ridu þadan westur J sueiter, f<ex>yr</ex>st i huam<ex>m</ex> til suertings 
+                                    för ham med þ<ex>ei</ex>m ä Stadar hool, tok Sturla uel u<ex>id</ex> þ<ex>ei</ex>m, 
+                                    og var hægt ad Draga saman<ex>n</ex>winattu þe
+                                    irra frænda.
+                                </explicit>
+                                <colophon>
+                                    Ender hins sio᷎tta þättz Sturlunga søgu
+                                    Anno 1697.
+                                </colophon>
+                                <note>37 chapters.</note>
+                            </msItem>
+                            <msItem n="2.7">
+                                <locus from="170v" to="210v">170v–210v</locus>
+                                <title>
+                                    Þórðar saga kakala (chapters 1–44; 170v–202r), 
+                                    Svínfellinga saga (chapters 45–58; 202r–210r), 
+                                    and Íslendinga saga (continued, chapters 59–60; 210r–v)
+                                </title>
+                                <rubric>
+                                    Siaundi þaattur 
+                                    Af Jslendingum<ex>m</ex> af Vtkomu Þordar sighuat
+                                    ssonar Kakala, Af utan<ex>n</ex> ferd Gyssurar og wrækiu, 
+                                    af lids drætte þordar sighuats sonar kakala. Og 
+                                    hanns fylgiara, af kolbeini wnga, og Vid skyptum þe
+                                    irra þordar, Deylum Man<ex>n</ex>drꜳpum Öröa Orustum<ex>m</ex>, 
+                                    Af þeirra Bardaga a flöanum, Kolbeirn wnge An
+                                    dast Are seirna, þördur setst a Grund. nær Godordu<ex>m</ex> 
+                                    Og Eygnum þeim er fader hanns Atte, Brandur Kol
+                                    bein sson Giørest høfdingi yfer Skaga fyrde og fliot
+                                    um, Gyssr kiemur wt, Vrækia Andazt J Noregi, Bar
+                                    Dage Þordar a Hauks nese. og fall Brands. Þord<ex>ur</ex> 
+                                    Og Gyssur Leggia øll sijn maal ä kongdom <ex>og</ex> 
+                                    Sigla, k<ex>o</ex>ng<ex>ur</ex> skipar þord yf<ex>er</ex> Landed, hann ki
+                                    emur wt er hier Nockr Är, k<ex>o</ex>ng<ex>ur</ex> bodar 
+                                    hann Vtan<ex>n</ex>. Af Ormssonu<ex>m</ex>, Römgøn
+                                    gu Gyssurar Þorvalldsson<ex>ar</ex> Og ød
+                                    ru fleyra.
+                                </rubric>
+                                <rubric>Cap I.</rubric>
+                                <incipit>
+                                    Einum uetre Epter lꜳt Snorra Sturlusonar hoofust þ<ex>ei</ex>r at burder, 
+                                    er mørg tijdinde giørdust af sydannn, vtan<ex>n</ex> ferd Gyssurar þorvalldßonar 
+                                    f<ex>yrer</ex> sunnan<ex>n</ex> Land, Enn wrækia f<ex>or</ex> vtan i 
+                                    ey<ex>ia</ex> fyrde, þ<ex>at</ex> haust kom wt þörd<ex>ur</ex> sighuatß<ex>o</ex>n 
+                                    kakale, er kallad<ex>ur</ex> v<ex>ar</ex>, ad Gꜳsum og Jön sturlu son,
+                                </incipit>
+                                <explicit>
+                                    og f<ex>or</ex>u þ<ex>ei</ex>r bꜳd<ex>er</ex> samt wt til Roma borgar, <ex>og</ex> nockr<ex>er</ex> m<ex>enn</ex> adr<ex>er</ex>, þa uar Jnnocentius Pavi, Gyssur fi<ex>eck</ex> þ<ex>ar</ex> Lausn all<ex>ra</ex> 
+                                    sin<ex>n</ex>a mꜳla, þa uar k<ex>o</ex>ngr i Danm<ex>ør</ex>k Valldimar Valldimarss<ex>o</ex>n, þ<ex>ei</ex>r foru 
+                                    Af Landi burt m<ex>ed</ex> Gyssure Ønundr b<ex>isku</ex>ps frændi þorleyf<ex>ur</ex> Reym<ex>ur</ex> sy
+                                    stur son hanns, Audun kollur Arne Beyskur, þ<ex>ei</ex>m gieck 
+                                    Alltt uel sud<ex>ur</ex> og sunn<ex>an</ex>, komu og aller heil<ex>er</ex> 
+                                    Aptur til Norex.
+                                </explicit>
+                                <note>60 chapters.</note>
+                                <note>
+                                    Chapter 46 begins (fol. 202r) with the rubric 
+                                    <q>Vm<ex>m</ex> lijflꜳt sona orms Jönßonar med þui fleyra s<ex>em</ex> | þar ad hnijgur.</q>
+                                </note>
+                            </msItem>
+                            <msItem n="2.8">
+                                <locus from="211r" to="233r">211r–233r</locus>
+                                <title>
+                                    Þorgils saga skarða
+                                </title>
+                                <rubric>
+                                    Attunde þaattur Jslendinga. Af Vtkomu Þorgils Bøduarssonar Gyssurar Þorualldß
+                                    onar og Annara Islendinga. skyckan hakonar kongs um<ex>m</ex> 
+                                    Eigner Snorra. Og Annad hier a Lande. Rafn Oddsson 
+                                    Og Sturla Þordarson Giøra heim sokn J staf holltte 
+                                    Þorgils Lofar ad uera þ<ex>ei</ex>m Med fylgiandi, J Atfórum 
+                                    ad Gyssure. Enn þ<ex>at</ex> bregdst  ham Rijd<ex>ur</ex> til hoola. Ra
+                                    fn Og Sturla snua Aptur Vegna uedurattu, 
+                                    Gyssur, Giørdest høfdinge J skaga fyrde. 
+                                    Rafnsturla og hann sæ̈ttast. med 
+                                    ødru fleyra sem þar Adt 
+                                    Knijgur.
+                                </rubric>
+                                <rubric>Cap. I.</rubric>
+                                <incipit>
+                                    Bauduar sun Þordar Sturluson<ex>ar</ex> Bioo ad stad h<ex>an</ex>n ꜳtti Sigrijdi Arnorsdottur 
+                                    syner þ<ex>eir</ex>ra w<ex>oru</ex> þ<ex>ei</ex>r  þorgils og sighuatur og Gudmundur, 
+                                    Dætur þ<ex>ei</ex>ra w<ex>oru</ex> þær Helga er f<ex>yri</ex>r Atti Paall samß<ex>o</ex>n 
+                                    enn sijd<ex>ar</ex> sꜳ madur er þiödölf<ex>ur</ex> hiet, <ex>og</ex> Aldijs er ätte þoordur 
+                                    Hijtnesingur, og hallbera er Atti Gudlaugur pr<ex>e</ex>st<ex>ur</ex> Hall fredar son.
+                                </incipit>
+                                <explicit>
+                                    for Aron þa uest<ex>ur</ex> J fiørdu og Beiddi si<ex>er</ex> fiar til wijg bootanna og fieck 
+                                    h<ex>an</ex>n n<ex>ock</ex>ut, þ<ex>at</ex> sum<ex>ar</ex> kom ut þorleyf<ex>ur</ex> 
+                                    Gudm<ex>un</ex>dßon. um<ex>m</ex> haust<ex>ed</ex> Biöst sturla til brullaups giørdar, 
+                                    Nord<ex>ur</ex> m<ex>ed</ex> Jngebi<ex>or</ex>gu Dott<ex>ur</ex> sijna, 
+                                    h<ex>en</ex>ni u<ex>ar</ex> sa hin<ex>n</ex> xiv. vet<ex>ur</ex> 
+                                    hun u<ex>ar</ex> væn og kurteys og quenna høguzt, Rafn oddz
+                                    son u<ex>ar</ex> J ferd med Sturlu og Snor<ex>re</ex> pr<ex>e</ex>str undann 
+                                    felle þorleyfur Gudm<ex>un</ex>dß<ex>o</ex>n og hid bez
+                                    ta mann ual uestann ür Sueitu<ex>m</ex>, 
+                                    Rafn u<ex>ar</ex> Bodz madur 
+                                    Gyßurrar.
+                                </explicit>
+                                <note>24 chapters.</note>
+                            </msItem>
+                            <msItem n="2.9">
+                                <locus from="233v" to="277v">233v–277v</locus>
+                                <title>
+                                    Þorgils saga skarða (continuted)
+                                </title>
+                                <rubric>
+                                    Nyunde þaattur Jslendinga 
+                                    Af Eyolfe Þorsteinssyne han<ex>n</ex>s Lid safnade. 
+                                    Brullaupe og Brennu A flugu Mijre, Gyssur kie
+                                    mst af Vndar lega, fær sier lid Drepur Brennu 
+                                    Menn huar hann kann, setur Odd Þorarinßon 
+                                    yfer hierad, Enn sygler sialfur. Eiolfur samnar 
+                                    Lidi fer ad Odde, Odd<ex>ur</ex> fellur Enn Verzt þo Drein
+                                    ge lega, Nockud seirna hefner þorvardur Oddz
+                                    Brodur Sijns med hialp og styrk Þorgils Og St
+                                    urlu sua Eyolf<ex>ur</ex> fellur. Rafn og Asgrimr flyia. 
+                                    Byschup bann syngur þorgilz og Þorvard, þor
+                                    gijls uerdur høfdingi yf<ex>er</ex> skaga fyrde mö
+                                    te B<ex>isku</ex>ps uilea, Rafn Sturla og Þorgils 
+                                    sættast, Jtem B<ex>isku</ex>p og Þorgilz, B<ex>isku</ex>p 
+                                    sigler andast J Noregi. Af ov
+                                    in skap og u<ex>id</ex> skiptu<ex>m</ex> Rafns 
+                                    <ex>og</ex> Sturlu ad Niju <ex>og</ex> þeir<ex>ar</ex>
+                                    sꜳtt, e<ex>ir</ex>nin<ex>n</ex> af Drꜳpe 
+                                    þorgils.
+                                </rubric>
+                                <rubric>Cap I.</rubric>
+                                <incipit>
+                                    Um<ex>m</ex> sumared ad<ex>ur</ex> en<ex>n</ex> Brullauped Var um<ex>m</ex> 
+                                    hausted ꜳ flugu mijre Giørde Eyolfur þorsteinsson B<ex>isku</ex>pi hinrech mikla ueitslu ꜳ mødru uøllum, 
+                                    og Baud h<ex>a</ex>m heim til sijn u<ex>ar</ex> þar mikit fiøl me<ex>nn</ex>e, føg<ex>ur</ex> veitsla 
+                                    og Drucked fast Ad þessare ueitslu v<ex>ar</ex> Asg<ex>ri</ex>m<ex>ur</ex> Berg þorsson, 
+                                    frꜳ Kalldad<ex>ar</ex> nese frændi Eyolfs þorsteinsson<ex>ar</ex>,
+                                </incipit>
+                                <explicit>
+                                    v<ex>ar</ex> þä räden<ex>n</ex> sü sätt, ad mälen<ex>n</ex> skilldu fara under 
+                                    Jafnmarga men<ex>n</ex> J Döm; en<ex>n</ex> Brandur aböte var þar til ÿfer 
+                                    sijndar. Skillde þorw<ex>ardur</ex> þä ecke sitia J hierade, ridu þeÿr 
+                                    Sturla o<ex>g</ex> Sigurdur vestr heim. Þorwardur reid ä grund 
+                                    og Dvalde þar skam<ex>m</ex>a stund, reid han<ex>n</ex> sijdan<ex>n</ex> aust<ex>ur</ex> J 
+                                    fio᷎rdu, og vard alldre ho᷎fdinge ÿfer Eÿafÿrde 
+                                    Lofftur Hälfdänarson tök þä vid Büe ä 
+                                    Grund, Stöd þetta mäl þä kÿrt, 
+                                    dröst fundur undan<ex>n</ex> og vard 
+                                    eingen<ex>n</ex> ä þvij sumre.
+                                </explicit>
+                                <note>54 chapters.</note>
+                                <note>
+                                    The second scribe begins copying at fol. 241r and continues to the end of the manuscript; 
+                                    it is the same hand as on 2r–v (title page and contents).
+                                </note>
+                            </msItem>
+                            <msItem n="2.10">
+                                <locus from="278r" to="288r">278r–288r</locus>
+                                <title>
+                                    Íslendinga saga (continued, chapters 1–2, 5–16; 278r–v, 280r–284v), 
+                                    Þorgils saga skarða (continued, chapters 3–4; 278v–280r), and 
+                                    Sturlu þáttur (chapters 17–24; 284v–288r)
+                                </title>
+                                <rubric>
+                                    Tÿunde þꜳttur 
+                                    Jslendinga 
+                                    Gÿssur Þorvalldsson kiemur üt m<ex>ed</ex> Jalls nafne, kaup<ex>er</ex> Stad ä Reinenese, 
+                                    gio᷎rest ho᷎fdinge Nordan<ex>n</ex>lands, Sturla þördarson gÿpter tvær Dætur sijnar, 
+                                    Asgrijm<ex>ur</ex> og Jarlen<ex>n</ex> sættast, Asgrijm<ex>ur</ex> fer til Röm, 
+                                    kiem<ex>ur</ex> üt med Hallvarde Gullskö, Jslendin<ex>ar</ex> Jäta hlijdne o<ex>g</ex> 
+                                    skatte Häkone könge Gijssur Jarl J Häska, Þördur Andriesson afteken<ex>n</ex> Ösamþicke Rafns o<ex>g</ex> 
+                                    Sturlu. Sturla, hlijtur ad sigla skipadur sijdar ril Lo᷎gman<ex>n</ex>s, andadest J gödre elle.
+                                </rubric>
+                                <incipit>
+                                    <highlight>Nü bÿria eg þar</highlight> fräso᷎gu er Gÿssur Þorvalldsson kiem<ex>ur</ex> üt frä Noreige m<ex>ed</ex> Jarlsnafne, 
+                                    ä eÿrum<ex>m</ex> og hafde han<ex>n</ex> haft mio᷎g Leidso᷎gn J hafenu, urdu honu<ex>m</ex> þä 
+                                    fegner frændur han<ex>n</ex>s og viner þä hafde han<ex>n</ex> fiöra vetur vtan<ex>n</ex> verid en<ex>n</ex> 
+                                    er han<ex>n</ex> ferdadest frä Noreige kom han<ex>n</ex> til Sudureÿar med skipe og var þar þan<ex>n</ex> vetur,
+                                </incipit>
+                                <explicit>
+                                    en<ex>n</ex> fieck Snorra Sijne sijnu<ex>m</ex> Stad<ex>ar</ex>höl 
+                                    til äbüdar, sat Sturla þar þä J gödre virdingu mo᷎rg är, 
+                                    J elli sin<ex>n</ex>e, þar til Sturla andadest J fagreij eirnre nött 
+                                    eftter olafs messu Dag, v<ex>ar</ex> han<ex>n</ex> og oleadur meßudagen<ex>n</ex> 
+                                    fijrre, og svo hin<ex>n</ex> sijdare han<ex>n</ex> v<ex>ar</ex> þä nær sjatug<ex>ur</ex> <!-- written Lxx<ex>ur</ex> -->, 
+                                    fluttu frændur han<ex>n</ex>s og viner lijk han<ex>n</ex>s 
+                                    ä Stadarhöl, og Jordudu þ<ex>at</ex> þ<ex>ar</ex> J k<ex>ir</ex>kiu 
+                                    Peturs postula, er h<ex>an</ex>n hafde nær mesta 
+                                    elsku ä haff af o᷎llu<ex>m</ex> helg<ex>um</ex> m<ex>o᷎nnu</ex>m.
+                                </explicit>
+                                <colophon>
+                                    finis.
+                                </colophon>
+                                <note>24 chapters.</note>
+                                <note>Fol. 288v is blank.</note>
+                            </msItem>
+                        </msItem>
+                        <msItem n="3">
+                            <locus from="289r" to="337v">289r–337v</locus>
+                            <title>
+                                Árna saga biskups
+                            </title>
+                            <rubric>
+                                Hier Skrifast Lijted 
+                                ägrip af søgu Ärna B<ex>isku</ex>ps 
+                                Þorläkssonar Sem ar hin<ex>n</ex> tiunde 
+                                B<ex>isku</ex>p J Skälhollte þad sem frödleg
+                                ast er til epterteckta.
+                            </rubric>
+                            <incipit>
+                                Herra Arne er fräsøgnen<ex>n</ex> er af war sonur þorläks Gudmund<ex>ar</ex>sonar 
+                                Geijss og halldöru döttur Deins J holltum<ex>m</ex> han<ex>n</ex> var fæddur ä þvij 
+                                ärr sem Magnüs B<ex>isku</ex>p Gißurßon andadest han<ex>n</ex> fæddest up<ex>p</ex> 
+                                med fo᷎dur sijnum<ex>m</ex> og Mödur en<ex>n</ex> þau biuggu J þan<ex>n</ex> tijma 
+                                ad Svijnafelle ad städe Deins Svijnfellings og Voru þar medan<ex>n</ex> han<ex>n</ex> lifde
+                            </incipit>
+                            <explicit>
+                                1309 siglde 
+                                han<ex>n</ex> äred sijdar effter Vid til k<ex>ir</ex>kiun<ex>n</ex>ar og kom 
+                                üt ä ärenu næestu effter med Viden<ex>n</ex> og m<ex>ar</ex>g<ex>ar</ex> 
+                                gersem<ex>ur</ex> adrar h<ex>an</ex>n dö A<ex>nno</ex> 1320. 
+                                Ender Sturlünga So᷎gu.
+                            </explicit>
+                            <note>
+                                The saga is divided in paragraphs or sections, which are not numbered. 
+                                At the top of fol. 337r is written, however, <q>80 Cap.</q>
+                            </note>
+                            <msItem n="3.1">
+                                <locus from="337v" to="337v">337v</locus>
+                                <title>Postscript</title>
+                                <rubric>
+                                    Bio᷎rn Jonsson ä Skardsä skrifar ad þetta vante vid so᷎guna.
+                                </rubric>
+                                <incipit>
+                                    A<ex>nno</ex>1290 war utan<ex>n</ex>stefnt Jo᷎runde B<ex>isku</ex>p 
+                                    A<ex>nno</ex> 1290 uta ferd Jo᷎rund<ex>ar</ex> B<ex>isku</ex>pe, 
+                                    og ütkoma Erlends Lo᷎gman<ex>n</ex>s
+                                </incipit>
+                                <explicit>
+                                    A<ex>nno</ex> 1298 dö Arne B<ex>isku</ex>p.
+                                </explicit>
+                            </msItem>
+                        </msItem>
+                    </msContents>
+                            <physDesc>
+                                <objectDesc form="codex">Codex
+                                    <supportDesc material="chart">
+                                        <support>Paper</support>
+                                    </supportDesc>
+                                    <extent>
+                                        <support_num_ffl>iii, modern</support_num_ffl>
+                                        <support_num_ffl>i, contemporary</support_num_ffl>
+                                        <support_num_bb>338</support_num_bb>
+                                        <support_num_bfl>, iii</support_num_bfl>
+                                    </extent>
+                                    <dimensions_leaf>
+                                        <height unit="mm">320 mm</height>
+                                        <width unit="mm">190 mm</width>
+                                    </dimensions_leaf>
+                                    <!-- <dimensions_written>
+                                        <leaf_height unit="mm">...</leaf_height>
+                                        <leaf_width unit="mm">...</leaf_width>
+                                    </dimensions_written>
+                                    <watermark></watermark> -->
+                                <foliation>
+                                    Pagination in pen, 1–552, from the beginning of Sturlunga saga to the end of the 9th þáttur (fols 3r–277v); 
+                                    this is crossed out on the recto sides and replaced by slightly later foliation.
+                                </foliation>
+                                <foliation>
+                                    18th-century foliation in pen starting at 2 from the beginning of Sturlunga saga 
+                                    to the end of the manuscript (fols 2r–338r).
+                                </foliation>
+                                <condition>
+                                    Poor. Nearly all leaves have crumbled away at the edges, causing text loss on some pages. 
+                                    The manuscript has been heavily restored in order to prevent further damage.
+                                </condition>
+                                </objectDesc>
+                                <collation>
+                                    The original quire structure cannot be determined, as the leaves (most with crumbling edges) 
+                                    are mounted individually on conservation papers to give clean edges. 
+                                    The conservation paper is then bound onto sturdier paper guards with a 
+                                    further margin-sized paper slotted between each leaf.
+                                </collation>
+                                <catchwords>
+                                    Yes, throughout the manuscript in the lower right margin with a flourish beneath.
+                                </catchwords>
+                            </physDesc>
+                </msDesc>
+                <handDesc>Jón Þórðarson</handDesc>
+                <scope>Major (3r–240v)</scope>
+                <handDesc>Unknown</handDesc>
+                <scope>Minor (2r–v, 241r–337v)</scope>
+                <decoDesc>The manuscript has a moderate level of decoration.
+                    <list>
+                        <ul>
+                            <li>
+                                Fol. 2r: title page added by the second scribe, in four paragraphs with the first lines in a higher level of script; 
+                                the paragraphs do not taper to a point; 
+                                the majority of the text of the title page is reused from another manuscript, 
+                                Add. 4868, copied several years earlier.
+                            </li>
+                            <li>
+                                Fols 3r, 18v, 41v, 71v, 81r, 116r, 145r, 170v, 211r, 233v, 278r: 
+                                rubrics are decoratively written in a higher level of script, tapering to a point before the start of each first chapter incipit, 
+                                except at the start of the 10th part where the rubric is a small paragraph only, without tapering.
+                            </li>
+                            <li>
+                                Decorated initials throughout the manuscript at chapter beginnings, usually 2 lines tall; 
+                                several are embellished with sketched faces and/or flourishes.
+                            </li>
+                            <li>
+                                Fol. 81r: flourished initial 12 lines high at an incipit within Sturlunga saga.
+                            </li>
+                            <li>
+                                Fols 71v, 170v, 278r: flourished initials 8 lines high at the incipits within Sturlunga saga.
+                            </li>
+                            <li>
+                                Fols 18v, 116r, 145r, 211r, 289r: 
+                                flourished initials 7 lines high at incipits within Sturlunga saga and Arna saga biskups.
+                            </li>
+                            <li>
+                                Fols 3r, 40v, 233v: flourished initials 6 lines high at incipits within Sturlunga saga.
+                            </li>
+                            <li>
+                                Running titles throughout the manuscript.
+                            </li>
+                            <li>
+                                Initials throughout the manuscript at each chapter beginning, usually 2 lines tall; 
+                                several are embellished with sketched faces and/or flourishes.
+                            </li>
+                            <li>
+                                Fols 60v, 100r, 104v, 122v, 152v, 154v, 195r, 208v, 220v, 230r, 232v, 264v: 
+                                manicules drawn in the margins.
+                            </li>
+                            <li>
+                                Verses are indicated in the margins with <q>v</q> 
+                                (fols 62r, 93r, 101r, 104r, 128r, 150v, 151r, 152r, 153r–v, 154r, 169r, 192v, 194r–v, 198r, 199r, 200r–201r), 
+                                <q>w</q> (fols 61v, 248r–v, 261r), <q>ü</q> (fol. 39v), or <q>ẅ</q> (fol. 58r).
+                            </li>
+                        </ul>
+                    </list>
+                </decoDesc>
+                <additions>
+                    <list>
+                        <ul>
+                            <li>
+                                Fols 1 and 338 are flyleaves comprised of old letters and papers. On fol. 1r, along with the former shelfmark <q>No. 1</q>, three notes are written: 
+                                1) <q>Enten h<ex>erra</ex> <persName>Wigfus Gud | brandsson</persName> eller hans | brodur <persName>hakon Gudbrandson</persName> | de dödu begge i den Stöere Böle 1707.</q>, 
+                                2) <q>þeßa bok a Eg under skrifadur | til merkis Hildarenda dag 9 November 1750 | <persName>Þ Brinjolfs son Thorlacius</persName></q>, and
+                                3) <q>Presented | by | <persName>Joseph Banks</persName> Esq<ex>uire</ex> | Dec<ex>ember</ex> 3. 1773</q>.
+                            </li>
+                            <li>
+                                Round red <q>British Museum</q> stamp with crown, in the middle of the bottom margin 
+                                of fols 33v, 39v, 54v, 89v, 122v, 145v, 164v, 241v, 307v, 337v, 338v.
+                            </li>
+                            <li>
+                                Marginal notation from later readers appear in the margin throughout the manuscript, 
+                                many of which are dates corresponding to the events narrated in the texts.
+                            </li>
+                            <li>
+                                Back inside cover, purple binding date stamp, <q>21 DEC 1964</q>, 
+                                and in pencil, <q>Examined after binding [initials] 28.12.64</q>.
+                            </li>
+                            <li>
+                                On fol. 338 is a letter from <persName>Bjarni Nikulásson</persName> to 
+                                <persName>Þórður Brynjólfsson Thorlacius</persName> dated 25 April 1752. 
+                                The letter itself is on 338r and the address is on 338v, along with a note in a later hand in darker ink: 
+                                <q>Olafs docu ment</q>.
+                            </li>
+                        </ul>
+                    </list>
+                </additions>
+                <bindingDesc>
+                    Modern binding from 1964. Light blue cloth.
+                </bindingDesc>
+            </sourceDesc>
+            <history>
+                <orig>
+                    <origDate>1696–1697</origDate>
+                    <origPlace>Iceland</origPlace>
+                </orig>
+                <provenance>
+                    <persName>Magnús Jónsson í Vigur</persName> (1637–1702): Commissioner, Owner
+                    <persName>Páll Jónsson Vídalín</persName> (1667–1727; son-in-law of Magnús í Vigur): Owner
+                    <persName>Þórður Brynjólfsson Thorlacius</persName> (1712–1791): Owner
+                    <persName>Ólafur Stephensen</persName> (1731–1812; associate of Joseph Banks in Iceland): Buyer/Seller
+                    <persName>Sir Joseph Banks</persName> (1743–1820): Owner
+                </provenance>
+            </history>
+        </fileDesc>
+        <change when="2017" who="SMW">Adapted from British Library records, corrected and adjusted according to own standards, and expanded in detail.</change>
+        <change when="2018" who="SMW">Checked.</change>
+        <revisionDesc>Last update: 2018-02-01</revisionDesc>
+    </teiHeader>
+</TEI>

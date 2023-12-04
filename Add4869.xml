@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Catalogue Description of British Library, Add. 4869</title>
+                <respStmt>
+                    Catalogued by 
+                    <name>
+                        <persName>
+                            <forename>Sheryl</forename> 
+                            <surname>McDonald Werronen</surname>
+                        </persName>
+                        <orgName type="affiliation">Københavns Universitet</orgName>
+                    </name>
+                    based on British Library catalogue descriptions.
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+                    </licence>
+                </availability>
+                <authority>Den Arnamagnæanske Samling, København</authority>
+                <date when="2018-02-01">1 February 2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="Add4869" xml:lang="en">
+                    <msIdentifier>
+                        <country key="UK">United Kingdom</country>
+                        <settlement>London</settlement>
+                        <repository>British Library</repository>
+                        <idno>Add. 4869</idno>
+                        <altIdentifier>
+                            <idno>
+                                Banks Collection: No. 13
+                            </idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                                <idno>
+                                    Páll Vídalín's collection: No. 6 fol. 
+                                    (<q>Trójumanna saga, af Magusi jalli, Addonius, með settaskript, þunn bók frá Vigur</q>)
+                                </idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <idno>
+                                Bjarni Halldórsson's collection: No. 78 fol. 
+                                (<q>Sögubók sett, byrjast á Trójumanna sögu</q>)
+                            </idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <title type="supplied">Sagas</title>
+                        </summary>
+                        <textLang mainLang="is">Icelandic</textLang>
+                        <titlePage type="ms">
+                            <locus from="1r" to="1r">1r</locus>
+                            <docTitle>
+                                <titlePart type="main">
+                                    Ein 
+                                    Marg<supplied>f</supplied>rood og merkeleg 
+                                    Sagna Book
+                                </titlePart>
+                                <titlePart type="sub">
+                                    Inne halldande 
+                                    Margar <supplied>a</supplied> he<supplied>v</supplied>relegar 
+                                    og Af Bragds wænar 
+                                    Book søgur. 
+                                    Þeim til Jnndælis og Eptt
+                                    er tektta sem þeßu helld<ex>ur</ex> 
+                                    Enn ødrum oþarfare hien Doma hlyda nennꜳ.
+                                    Nu ad Niju Ritud af 
+                                    Joone þördarsyne ad forlæ
+                                    ge Virdulegs hø
+                                    fdingia: 
+                                    Magnusar Jönßonar ad 
+                                    Wigur 
+                                    A ysafiardar Diwpe 
+                                    Anno 
+                                    M DC LXXX.
+                                </titlePart>
+                            </docTitle>
+                        </titlePage>
+                        <msItem n="1">
+                            <locus from="1v" to="1v">1v</locus>
+                            <title>Table of Contents</title>
+                            <rubric>
+                                Jnnehalld Bökarin<ex>nar</ex>
+                            </rubric>
+                            I. Tröjuman<ex>n</ex>a S<ex>aga</ex> 
+                            II. Magus Jalls S<ex>aga</ex> 
+                            III. Orkneijinga – S<ex>aga</ex> 
+                            IV. Octoviani – – S<ex>aga</ex> 
+                            V. Addonij. – – – S<ex>aga</ex>
+                        </msItem>
+                        <n_msItem n="2">
+                            <locus from="2r" to="66r">2r–66r</locus>
+                            <title>Trójumanna saga</title>
+                            <rubric>
+                                Hier hefur Troiu Man<ex>n</ex>a saugu fra Vppha
+                                fe Til Enda og so huørnin<ex>n</ex> Troia hin volld
+                                uga borg var af gryckium<ex>m</ex> Vn<ex>n</ex>in<ex>n</ex> og Jn<ex>n</ex> tekin<ex>n</ex> 
+                                frä vpp hafi veralldar þä lidin<ex>n</ex> voru 2782 
+                                Aar, þa Abdon var Doom<ex>ar</ex>i hiꜳ 
+                                Jsraels Lijd.
+                            </rubric>
+                            <incipit>
+                                PELias hefur kongur heited han<ex>n</ex> bio J kongs Rijke þui er Tessalia heiter, 
+                                broder atti han<ex>n</ex> er Eson hiet, Eson var suo lærdr vel <ex>og</ex> elle mödur 
+                                so naum lega v<ex>ar</ex> han<ex>n</ex> sialf fær, þess vegan lagdi han<ex>n</ex> 
+                                Rijke sitt i valld frænda sijnu<ex>m</ex> Pelias, med allre stiörn sin<ex>n</ex>e
+                            </incipit>
+                            <explicit>
+                                En<ex>n</ex> vm<ex>m</ex> Helenu Drottningu er þad Ad seigia þött hun være Til nada Tekin<ex>n</ex>, 
+                                Af sijnum<ex>m</ex> f<ex>ar</ex>ra her<ex>ra</ex> Menelao könge, þa helldur þo <!-- 66r -->
+                                Ein<ex>n</ex> hlutur Ritninga Meystara, Ad Helena Drottning være heingd vid bi
+                                ørk eina ä Eyn<ex>n</ex>e Rödiss og hafe hun suo Lijf läted, hørmul<ex>e</ex>ga. 
+                                Suo hefur nu bardage þesse sorglegur vered Jafnvel þe
+                                im Gryckiu<ex>m</ex> siälfum<ex>m</ex>, suo sem Troiu mønnum<ex>m</ex>, 
+                                Vpptøken<ex>n</ex> l<supplied>ij</supplied>tel, fram<ex>m</ex> dratturin<ex>n</ex> mædu saml
+                                egur, og haska fullur, og suo fein
+                                ged vmm sijder Eirn hørmulegann og sorgar 
+                                fullan<ex>n</ex> Enda.
+                                <br/>Grycker fiella Atta hundrud þusunder sex og 
+                                Atta Tijü þusunder. Enn Af Trooiu møn<ex>n</ex>u
+                                mm hundrad þusunder sex og sextyiu 
+                                þusunder. Þatt ad Auk sem Dreped 
+                                var þä borgen<ex>n</ex> var Jnntekenn. su
+                                mma Allra. Fimtän hundrud 
+                                þusunder, þar til Tuæ̈r Og sextyiu þusu
+                                nder.
+                                <br/>Hector Drap Atiän konga, Paris fiöra 
+                                Eneas Tuo, Achilles x. k<ex>o</ex>nga.
+                            </explicit>
+                            <colophon>
+                                1679
+                            </colophon>
+                            <note>The date is enclosed in an ink drawing, described below.</note>
+                            <note>Fol. 66v is blank.</note>
+                        </n_msItem>
+                        <msItem n="3">
+                            <locus from="67r" to="101v">67r–101v</locus>
+                            <title>Mágus saga jarls</title>
+                            <rubric>
+                                Hier byriazt sagan<ex>n</ex> af Maguse Jarle og þeim Amunda sonumm
+                            </rubric>
+                            <msItem n="3.1">
+                                <locus from="67r" to="84v">67r–84v</locus>
+                                <rubric>Cap I.</rubric>
+                                <incipit>
+                                    Jatmundur hefur keysare heited, han<ex>n</ex> Riede f<ex>yrer</ex> Saxlande, 
+                                    þui var h<ex>an</ex>n ei suo vinsæll sem ætla munde, 
+                                    ad h<ex>an</ex>n var metnad<ex>ur</ex> madur mikill, 
+                                    suo h<ex>onu</ex>m þötte e<ex>ck</ex>jrt til Jafns vid sig koma, 
+                                    J þrötta mad<ex>ur</ex> var h<ex>an</ex>n suo mikill ad h<ex>onu</ex>m 
+                                    stodst eingin<ex>n</ex>, en<ex>n</ex> ä tafle hafde han<ex>n</ex> þo mest metnad.
+                                </incipit>
+                                <explicit>
+                                    <ex>og</ex> Drou þau h<ex>an</ex>n vm<ex>m</ex> alltt Saxl<ex>a</ex>nd, <ex>og</ex> 
+                                    v<ex>ar</ex> þ<ex>at</ex> h<ex>a</ex>ns lijflät, Ellind<ex>ur</ex> Vbba son <ex>og</ex> 
+                                    þ<ex>ei</ex>r Adalvard<ex>ur</ex> v<ex>or</ex>u l<ex>a</ex>nd v<ex>ar</ex>n<ex>ar</ex> men keys. 
+                                    <ex>og</ex> fieck h<ex>an</ex>n huøru tueggiu sæmel<ex>e</ex>g quon faung. 
+                                    Og Endar hier hin<ex>n</ex> fyrra þaatt Maagus saugu.
+                                </explicit>
+                                <colophon>
+                                    Anno M. DC LXX.IX. þ<ex>an</ex>n xii. Octobris.
+                                </colophon>
+                            </msItem>
+                            <msItem n="3.2">
+                                <locus from="85r" to="101v">85r–101v</locus>
+                                <rubric>
+                                    Annar þꜳttur Mägus saugu.
+                                </rubric>
+                                <rubric>Cap. I.</rubric>
+                                <incipit>
+                                    Heinrekur hefur köngur heited, han<ex>n</ex> Ried f<ex>yrer</ex> Eingl<ex>a</ex>nde, 
+                                    h<ex>an</ex>n var son Adalvards Vilhialmson<ex>ar</ex>, 
+                                    h<ex>an</ex>n v<ex>ar</ex> Rijkur <ex>og</ex> stör lät<ex>ur</ex>, 
+                                    h<ex>an</ex>n ätte si<ex>er</ex> Tuo børn. son h<ex>a</ex>ns hiet Laais, 
+                                    En<ex>n</ex> þöra Dott<ex>ur</ex>. Läis v<ex>ar</ex> grimmer og hardur
+                                </incipit>
+                                <explicit>
+                                    En<ex>n</ex> i þ<ex>a</ex>n tijma er þ<ex>ei</ex>r Wilhiälm<ex>ur</ex> <!-- 101v -->
+                                    Og kyrialax stijrdu Rijkinu, þa kom þar Eyrekur Dana kongur 
+                                    Brödur Knüts en<ex>n</ex>s helga, <ex>og</ex> var þar þriä vetur, og þä af 
+                                    konginum fiøgur skip ferind med gull, <ex>og</ex> fiortän Lang 
+                                    skip, Vilhialmur Atte son er karl hiet, og 
+                                    Doottur er Constantina hiet. og en
+                                    dum<ex>m</ex> vier suo þessa saugu, med þ<ex>ar</ex> 
+                                    Alijcktar orde, ad heran<ex>n</ex> Jes
+                                    us giefe oss alla Gooda 
+                                    Dag vtan<ex>n</ex> Enda 
+                                    A M – E N.
+                                </explicit>
+                                <colophon>
+                                    Anno 1679. þan<ex>n</ex> 30. October. Endud.
+                                </colophon>
+                            </msItem>
+                        </msItem>
+                        <msItem n="4">
+                            <locus from="102r" to="160r">102r–160r</locus>
+                            <title>Orkneyinga saga</title>
+                            <rubric>
+                                Orkneyinga þatt<ex>ur</ex>
+                            </rubric>
+                            <rubric>Cap I.</rubric>
+                            <incipit>
+                                Olafur kongur haralldz son fieck ongua lyd skylldu af þorfin<ex>n</ex>e Jall 
+                                sijdan<ex>n</ex> er þ<ex>ei</ex>r skylldu eptter satt mäl þ<ex>eir</ex>ra 
+                                brusa Jalls allra saman<ex>n</ex>. Giørdest nu þörfin<ex>n</ex>ur Jall høfdinge m<ex>ik</ex>ill, 
+                                m<ex>anna</ex> mestur ä vøxt, liöt<ex>ur</ex> yfer sijdar, svart<ex>ur</ex> ä här, 
+                                skarpleyt<ex>ur</ex>, og n<ex>ok</ex>ut skolbrurn
+                            </incipit>
+                            <explicit>
+                                er h<ex>an</ex>n gi<ex>or</ex>de eptt<ex>er</ex> Bren<ex>n</ex>una B<ex>isku</ex>ps 
+                                J Man<ex>n</ex>a Meydingu<ex>m</ex> <ex>og</ex> man<ex>n</ex> Drapu, 
+                                fiär ränu<ex>m</ex> ok brettu rekstre man<ex>n</ex>a Af l<ex>a</ex>ndinu. 
+                                kun<ex>n</ex>um<ex>m</ex>. vi<ex>er</ex> Nu Ecke Greine l<ex>e</ex>g<ex>ur</ex> 
+                                at seigia Af þeim Tijdinu<ex>m</ex> Er Til heyra Orkneyinga J<ex>ar</ex>lu<ex>m</ex>, 
+                                En<ex>n</ex> s<ex>ett</ex> s<ex>e</ex>m vier høfu<ex>m</ex> sagt.
+                            </explicit>
+                            <colophon>
+                                Endud sagan<ex>n</ex> ä strandselium Anno 1679. 22. Dec<ex>em</ex>b<ex>er</ex>.
+                            </colophon>
+                            <note>Fol. 160v is blank.</note>
+                        </msItem>
+                        <msItem n="5">
+                            <locus from="161r" to="205v">161r–205v</locus>
+                            <title type="uniform">Flóres saga ok Leó</title>
+                            <rubric>
+                                Hier Byriast sagann Af Otaviano keysara.
+                            </rubric>
+                            <rubric>Cap. I.</rubric>
+                            <incipit>
+                                A eim Døgum<ex>m</ex> er köngurin<ex>n</ex> Daagubertus Rijktte J 
+                                frankarijke var J Room ein<ex>n</ex> vegleg<ex>ur</ex> <ex>og</ex> 
+                                Jpparleg<ex>ur</ex> keysare sa er Octavianus hiet. 
+                                Han<ex>n</ex> Atte Drottningu Eina sem aa þeim 
+                                Døgum<ex>m</ex> var halden<ex>n</ex> 
+                                f<ex>yrer</ex> þä allra Agiætuztu, hun var allra kuen<ex>n</ex>a 
+                                frÿdust sijnuminni, <ex>og</ex> þar eptt<ex>er</ex> var hun J 
+                                øllum<ex>m</ex> ødrum<ex>m</ex> kuen<ex>n</ex>legum 
+                                Dygdum<ex>m</ex> og man<ex>n</ex> kostum<ex>m</ex>,
+                            </incipit>
+                            <explicit>
+                                huar af ad þ<ex>at</ex> er komed ad Eingland er fölk rijkara en<ex>n</ex> øn<ex>n</ex>ur lønd, so <ex>og</ex> ad øll
+                                um<ex>m</ex> ødrum<ex>m</ex> Giadum<ex>m</ex> <unclear>audug<ex>ar</ex></unclear> floris kong<ex>ur</ex> för opttlega J frackland til 
+                                fund<ex>ar</ex> vid Dagubertz kong, <ex>og</ex> skypttuzt þeir vid sæme
+                                legum<ex>m</ex> Giøfum<ex>m</ex>, Styrktte huør an<ex>n</ex>an<ex>n</ex> til allra 
+                                farsællegra hluta med Räd og Daad, 
+                                J elsku og Einfalldleika, 
+                                hielldu þ<ex>ei</ex>r 
+                                sin<ex>n</ex>e Vinättu Alltt til Dauda 
+                                Dags. Og Endar hier nu 
+                                Søguna Aff Oct
+                                aviano Key
+                                sara.
+                            </explicit>
+                            <colophon>
+                                ANNO 1680
+                            </colophon>
+                            <note>54 chapters, all noted in Arabic numerals except ch. 10, in Roman.</note>
+                        </msItem>
+                        <msItem n="6">
+                        <locus from="206r" to="235v">206r–235v</locus>
+                            <title>Adonías saga</title>
+                            <rubric>
+                                Addonius saga byriast hier.
+                            </rubric>
+                            <rubric>Cap. I.</rubric>
+                            <incipit>
+                                Þat h<ex>ie</ex>r Vered Lesed J fræde bookum<ex>m</ex> ad 
+                                eptt<ex>ur</ex> nooa flöd skyptu þ<ex>ei</ex>r syn<ex>er</ex> 
+                                nöa heiminu<ex>m</ex> med si<ex>er</ex>, Bygde sem Austur 
+                                alfu <ex>og</ex> sud<ex>ur</ex> Alfu Veralld<ex>ar</ex> er 
+                                Heit<ex>er</ex> Asia, En<ex>n</ex> nordur Alfur Bygde Japhet. 
+                                Chäm þridie son Nöa Bygde veztr Alfu Veralldar. Nöe atte 
+                                hin<ex>n</ex> fiörda s<ex>onur</ex> eptt<ex>er</ex> flöded, 
+                                þ<ex>an</ex>n er Enoch hiet. sa er e<ex>ck</ex>e t<ex>il</ex> 
+                                þess reyknad<ex>ur</ex> ad nockurn hlut tæke Landan<ex>n</ex>a, 
+                                <ex>og</ex> ej eru ætt<ex>ar</ex> tølur fra h<ex>onu</ex>m komnar
+                            </incipit>
+                            <explicit>
+                                En<ex>n</ex> Const<ex>an</ex>tin<ex>us</ex> v<ex>ar</ex> h<ex>inu</ex>m 
+                                trygg<ex>ur</ex> o<ex>g</ex> Trur, i øllu<ex>m</ex> hl<ex>u</ex>tin medan<ex>n</ex> 
+                                þe<ex>ir</ex> lifdu bäd<ex>er</ex>. Nu e<ex>r</ex> saga þ<ex>ess</ex>e kom<ex>m</ex> ä enda, 
+                                <ex>og</ex> þ<ex>ar</ex> sk<ex>ulu</ex>m t<ex>il</ex> þagn<ex>ar</ex> V<ex>e</ex>nda, ej
+                                ngin<ex>n</ex> er von ad hlijde, en<ex>n</ex> þ<ex>ei</ex>r þ<ex>at</ex> gi<ex>or</ex>a fäe sæmd <ex>og</ex> f<ex>ri</ex>de, m<unclear>00</unclear>l þ<ex>e</ex>tta v<ex>er</ex>ed eg 
+                                ad skij<ex>ra</ex>, eptt<ex>er</ex> bæn <ex>og</ex> vilia mij<ex>n</ex>s hlij<ex>ra</ex>, h<ex>ann</ex> m<ex>onnum</ex> e<ex>r</ex> af v<ex>er</ex>da, þo h<ex>an</ex>n lij
+                                te hi<ex>er</ex> rædu stirda, lätu<ex>m</ex> þ<ex>at</ex> v<ex>er</ex>a Enda, ad vi<ex>er</ex> fijsa
+                                nst hier til Guds venda.
+                            </explicit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="codex">Codex
+                            <supportDesc material="chart">
+                                <support>Paper</support>
+                            </supportDesc>
+                            <extent>
+                                <support_num_ffl>ii, modern</support_num_ffl>
+                                <support_num_ffl>i, contemporary</support_num_ffl>
+                                <support_num_bb>235</support_num_bb>
+                                <support_num_bfl>iii, modern</support_num_bfl>
+                            </extent>
+                            <!-- <dimensions_leaf>
+                                <height unit="mm">...</height>
+                                <width unit="mm">...</width>
+                            </dimensions_leaf>
+                            <dimensions_written>
+                                <leaf_height unit="mm">...</leaf_height>
+                                <leaf_width unit="mm">...</leaf_width>
+                            </dimensions_written>-->
+                            <watermark>
+                                Yes. Foolscap with four bells and three balls. 
+                                Best visible on e.g. fol 66.
+                            </watermark>
+                            <foliation>
+                                18th-century foliation in pen, upper right corner of each leaf, recto side.
+                            </foliation>
+                            <condition>Good.</condition>
+                        </objectDesc>
+                        <collation>
+                            The modern binding preserves an earlier, possibly original, 
+                            quire structure of 20 quires of 6 bifolia each, apart from the 1st and 20th quires: 
+                            <list>
+                                <ul>I: fols 1–8 + 9 + 10 (4 bifolia + 2 singletons)</ul>
+                                <ul>II: fols 11–22 (6 bifolia)</ul>
+                                <ul>III: fols 23–34 (6 bifolia)</ul>
+                                <ul>IV: fols 35–46 (6 bifolia)</ul>
+                                <ul>V: fols 47–58 (6 bifolia)</ul>
+                                <ul>VI: fols 59–70 (6 bifolia)</ul>
+                                <ul>VII: fols 71–82 (6 bifolia)</ul>
+                                <ul>VIII: fols 83–94 (6 bifolia)</ul>
+                                <ul>IX: fols 95–106 (6 bifolia)</ul>
+                                <ul>X: fols 107–118 (6 bifolia)</ul>
+                                <ul>XI: fols 119–130 (6 bifolia)</ul>
+                                <ul>XII: fols 131–142 (6 bifolia)</ul>
+                                <ul>XIII: fols 143–154 (6 bifolia)</ul>
+                                <ul>XIV: fols 155–166 (6 bifolia)</ul>
+                                <ul>XV: fols 167–178 (6 bifolia)</ul>
+                                <ul>XVI: fols 179–190 (6 bifolia)</ul>
+                                <ul>XVII: fols 191–202 (6 bifolia)</ul>
+                                <ul>XVIII: fols 203–214 (6 bifolia)</ul>
+                                <ul>XIX: fols 215–226 + 227 + 228 + 229 (6 bifolia + 3 singletons)</ul>
+                                <ul>XX: fols 230–235 (3 bifolia)</ul>
+                            </list>
+                        </collation>
+                    </physDesc>
+                </msDesc>
+                <handDesc>Jón Þórðarson</handDesc>
+                <scope>Major</scope>
+                <handDesc>Magnús Ketilsson</handDesc>
+                <scope>Minor (1v only)</scope>
+                <decoDesc>The manuscript has a moderate level of decoration.
+                    <list>
+                        <ul>
+                            <li>
+                                Fol. 1r: title page in yellow-gold, green, blue, brown, and black ink with a coloured knotwork border. 
+                                The colours on the title page are slightly faded and water-damaged, and are also visible on the verso side.
+                            </li>
+                            <li>
+                                Running titles throughout the manuscript.
+                            </li>
+                            <li>
+                                Fol. 2r: 12-line flourished inital in red ink, following 6-line rubric with 3-line initial in black ink.
+                            </li>
+                            <li>
+                                Decorated initials throughout the manuscript at new chapters within texts, to varying degrees of embellishment. 
+                                One of the more elaborate initials is e.g. at fol. 19v, 5 lines high, decorated, in black ink with green and yellow highlights, 
+                                with vines and a face running into the margin.
+                            </li>
+                            <li>
+                                Fol. 66r: an illustration in black ink, approximately 5 lines high and centred on the page, 
+                                encloses the colophon's date; it features a face above a stylized shield with a decorative border below, 
+                                scrollwork in the upper corners, and branches crossed over the front. 
+                                The text above the image also tapers in three sections of 9, 9, and 2 lines each. 
+                                Similar tapering also appears at the end of texts on fols 101v and 205v.
+                            </li>
+                            <li>
+                                Fol. 67r: 12-line flourished initial in black ink with gold, green, and blue highlights.
+                            </li>
+                            <li>
+                                Fol. 85r: 8-line flourished initial in black ink with gold, green, and blue highlights.
+                            </li>
+                            <li>
+                                Fol. 102r: 8-line flourished initial in black ink with blue and green highlights.
+                            </li>
+                            <li>
+                                Fol. 160r: a floral, scrollwork drawing in black ink, approximately 2 lines high, is centred under the colophon.
+                            </li>
+                            <li>
+                                Fol. 161r: 9-line flourished initial in black ink with gold, green, and blue highlights, 
+                                and enclosed in a square border on the right and bottom sides.
+                            </li>
+                            <li>
+                                Fol. 206r: 11-line flourished initial in black ink with gold and green highlights.
+                            </li>
+                            <li>
+                                Fol. 235v: a small black ink drawing resembling a three-leaf clover is centred under 
+                                the final line of text in the manuscript at the end of the last saga.
+                            </li>
+                        </ul>
+                    </list>
+                </decoDesc>
+                <additions>
+                    <list>
+                        <ul>
+                            <li>
+                                Front inside cover, bottom left corner, in pencil, <q>113 E.</q>.
+                            </li>
+                            <li>
+                                Front flyleaf i (modern), recto, stamped with shelfmark.
+                            </li>
+                            <li>
+                                Front flyleaf i (earlier but not contemporary – possibly late 18th century), in a later hand, 
+                                <q>Sógu-Bök</q>, and in pencil, <q>No 34</q>.
+                            </li>
+                            <li>
+                                Round red <q>British Museum</q> stamp with crown, 
+                                in the middle of the bottom margin of fols 18v, 33v, 50v, 71v, 84v, 101v, 124v, 141v, 157v, 178v, 203v, 222v.
+                            </li>
+                            <li>
+                                Fol. 235v, bottom centre, red rectangular <q>MUS.BRIT.</q> stamp, 
+                                and top left corner in 18th-century hand, <q>Cons.t. fol: 235</q>.
+                            </li>
+                            <li>
+                                Back flyleaf i (modern), verso, blank British Library slip pasted in, 
+                                <q>Department of Manuscripts Record of Treatment, Extraction, Repair, etc. of MS no.</q>.
+                            </li>
+                            <li>
+                                Back inside cover, stamped with binding date, <q>13 APR 1973</q>.
+                            </li>
+                        </ul>
+                    </list>
+                </additions>
+                <bindingDesc>Modern binding from 1973.</bindingDesc>
+            </sourceDesc>
+            <history>
+                <orig>
+                    <origDate>1679–1680</origDate>
+                    <origPlace>Iceland</origPlace>
+                </orig>
+                <provenance>
+                    <persName>Magnús Jónsson í Vigur</persName> (1637–1702): Commissioner, Owner
+                    <persName>Páll Jónsson Vídalín</persName> (1667–1727; son-in-law of Magnús í Vigur): Owner
+                    <persName>Bjarni Halldórsson</persName> (1703–1773; husband of Holmfríður Pálsdóttir): Owner
+                    <persName>Ólafur Stephensen</persName> (1731–1812; associate of Joseph Banks in Iceland): Buyer/Seller
+                    <persName>Sir Joseph Banks</persName> (1743–1820): Owner
+                </provenance>
+            </history>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2017" who="SMW">Adapted from British Library records, corrected and adjusted according to own standards, and expanded in detail.</change>
+            <change when="2018" who="SMW">Checked.</change>
+            Last update: 2018-02-01
+        </revisionDesc>
+    </teiHeader>
+</TEI>

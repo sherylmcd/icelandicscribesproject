@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catalogue Description of Arnamagnæan Collection, Copenhagen, AM 284 4to</title>
+                <respStmt>
+                    Catalogued by 
+                    <name>
+                        <persName>
+                            <forename>Sheryl</forename> 
+                            <surname>McDonald Werronen</surname>
+                        </persName>
+                        <orgName type="affiliation">Københavns Universitet</orgName>
+                    </name>
+                    based in part on a description produced by the project Stories for All Time: 
+                    The Icelandic Fornaldarsögur (Københavns Universitet, 2011–2014), 
+                    online at <a href="http://fasnl.ku.dk">http://fasnl.ku.dk</a> and 
+                    the online catalogue <a href="http://handrit.org">Handrit.org</a>.
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+                    </licence>
+                </availability>
+                <authority>Den Arnamagnæanske Samling, København</authority>
+                <date when="2018-02-01">1 February 2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="AM284" xml:lang="en">
+                    <msIdentifier>
+                        <repository>Den Arnamagnæanske Samling, København</repository>
+                        <idno>AM 284 4to</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <title type="supplied">Saga</title>
+                        </summary>
+                        <textLang mainLang="is">Icelandic</textLang>
+                        <titlePage type="ms">
+                            <docTitle>
+                                <titlePart type="supplied">
+                                    Hrólfs saga kraka
+                                </titlePart>
+                            </docTitle>
+                        </titlePage>
+                        <msItem n="1">
+                            <locus from="3r" to="17v">3r–17v</locus>
+                            <title>
+                                Hrólfs saga kraka
+                            </title>
+                            <rubric>
+                                Hrölffs Köngs Kraka saga Er Riede Dana vellde. 
+                                og kemur hier fyrst fröda þättur.
+                            </rubric>
+                            <incipit>
+                                <supplied resp="editor">M</supplied>adur Er Neffndur Hälffdän En<ex>n</ex> An<ex>n</ex>ar Fröde. 
+                                Brædur Tueir og k<ex>on</ex>ga syner, <ex>og</ex> stÿrde sijnu Rijke hu<ex>or</ex> þ<ex>ei</ex>ra. 
+                                Häldän k<ex>on</ex>g<ex>ur</ex> var hijr <ex>og</ex> hægur giæf<ex>ur</ex> og gödlynd<ex>ur</ex>, 
+                                En<ex>n</ex> fröde könge var en<ex>n</ex> meste riffballde. Häldän ätte þriu born, 
+                                tuo sune <ex>og</ex> eina dött<ex>ur</ex> er Signij h<ex>ie</ex>t, hun var ellst <ex>og</ex> 
+                                var gifft Sæu<ex>ar</ex>e jalle.
+                            </incipit>
+                            <explicit>
+                                Var haug<ex>ur</ex> orpen<ex>n</ex> Effter Hrölff köng, og lagtt hiä h<ex>onu</ex>m suerded 
+                                Sköffnung<ex>ur</ex> og sin<ex>n</ex> haug<ex>ur</ex> handa hu<ex>or</ex>iu<ex>m</ex> 
+                                kap<ex>p</ex>a, og nockur vopn<ex>n</ex> hiä ad auku. og Endar hier suo loksin<ex>n</ex>z 
+                                saugu hrölffz köngs kraka <ex>og</ex> kappa h<ex>a</ex>ns.
+                            </explicit>
+                            <verse>
+                                <rubric>
+                                    Vÿsa M<ex>agnus</ex> J<ex>ons</ex> S<ex>onar</ex> til Gam<ex>an</ex>z.
+                                </rubric>
+                                Hrölffur krake, köngur j Danavellde
+                                mælltt er ei hiellde,
+                                ä mundar ellde,
+                                medan<ex>n</ex> ad Liffde soma skÿn,
+                                Lÿst mine take, Loffed h<ex>a</ex>nz en<ex>n</ex> i kuellde,
+                                og ad hin<ex>n</ex> fellde,
+                                ovffuin<ex>n</ex> sellde,
+                                Ägiæt dæmin<ex>n</ex> siöle dÿr,
+                                view med san<ex>n</ex>, er vædtt vm<ex>m</ex> þan<ex>n</ex>,
+                                rausnar freak affrekz man<ex>n</ex>,
+                                ad villdara fan<ex>n</ex>, ei verda en<ex>n</ex> h<ex>an</ex>n,
+                                vm<ex>m</ex> vero᷎lld i heijdur huo᷎rtt sem snÿr.
+                            </verse>
+                            <verse>
+                                <rubric>
+                                    Øn<ex>n</ex>ur hin<ex>n</ex>s sama
+                                </rubric>
+                                Hrölffur kempan<ex>n</ex> krake,
+                                king best make,
+                                Liffde leingst vm<ex>m</ex> spate,
+                                m<ex>ed</ex> lyst <ex>og</ex> heffd<ex>ar</ex> kuake,
+                                han<ex>n</ex> þö rauna rake,
+                                veÿrde i Balldra take,
+                                vm<ex>m</ex> syder aff syst<ex>ur</ex> h<ex>ra</ex>ke,
+                                sikling sk<ex>ar</ex>ft ä bake.
+                            </verse>
+                            <note>
+                                The saga text is incomplete, with several leaves missing between fols 8 and 9. 
+                                The verses are laid out in two columns below the end of the saga.
+                            </note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="codex">Codex
+                            <supportDesc material="chart">
+                                <support>Paper</support>
+                            </supportDesc>
+                            <extent>
+                                <support_num_ffl>ii</support_num_ffl>
+                                <support_num_bb>18</support_num_bb>
+                            </extent>
+                            <dimensions_leaf>
+                                <height unit="mm">202 mm</height>
+                                <width unit="mm">155 mm</width>
+                            </dimensions_leaf>
+                            <dimensions_written>
+                                <leaf_height unit="mm">175 mm</leaf_height>
+                                <leaf_width unit="mm">145 mm</leaf_width>
+                            </dimensions_written>
+                            <watermark>Yes.</watermark>
+                            <foliation>
+                                Later foliation: Fols 3–17 are foliated 1–15 in red ink by Kålund. Fol. 18 is blank.
+                            </foliation>
+                            <condition>
+                                Average: Several leaves are stained. The MS leaves have been cropped, but with no apparent textual loss. 
+                                Fols 3–5 have minor damage near the gutter with some text lost.
+                            </condition>
+                        </objectDesc>
+                        <catchwords>Yes.</catchwords>
+                    </physDesc>
+                </msDesc>
+                <handDesc>Magnús Jónsson í Vigur</handDesc>
+                <scope>Major</scope>
+                <decoDesc>
+                    The manuscript has a low level of decoration. A higher level of script is sometimes used at the beginning of new sections.
+                </decoDesc>
+                <additions>
+                    <list>
+                        <ul>
+                            <li>
+                                First front flyleaf, verso: top left corner, <q>AM 284, 4to</q>; 
+                                top right corner, on a small overlaid slip, <q>AM | 284, 4to</q>; 
+                                bottom left, <q>15 bl. (+1 <unclear>00 AM 0 000l</unclear>) | 3/2 87.</q>.
+                            </li>
+                            <li>
+                                Second front flyleaf, recto: Centred at the top of the leaf are the identifying notes 
+                                <q>Hrolfs saga Kraka | desunt nonnulla | 284.</q>; 
+                                bottom right corner, the shelfmark <q>AM 284, 4to</q>; 
+                                top right corner, <q>a</q>.
+                            </li>
+                            <li>Fol. 2r: the envelope of a letter to Árni Magnússon, which reads:
+                                <q>
+                                    Stör gofigum Virdug ligum og hatt ockt
+                                    udum, hanns konglegur Marests Secreteranum
+                                    herra Arna Magnus syne, mijnum mikes
+                                    virdandi Elsku Rijkum og mio᷎g kyærum
+                                    brodur þettad þienustu samlega og
+                                    i göd og trauste.
+                                    ad Skalhollte.
+                                </q>
+                            </li>
+                            <li>
+                                Fol. 2r, bottom right corner: the shelfmark <q>AM 284, 4to</q> is written in pen.
+                            </li>
+                        </ul>
+                    </list>
+                </additions>
+                <bindingDesc>Plain modern binding in paper boards.</bindingDesc>
+            </sourceDesc>
+            <history>
+                <orig>
+                    <origDate>c. 1650–99</origDate>
+                    <origPlace>Iceland</origPlace>
+                </orig>
+                <provenance>
+                    The manuscript may have come into Árni Magnússon's possession through Sigurður Jónsson, the brother of Magnús í Vigur. 
+                    Magnús may therefore have copied the manuscript for his brother, or it may have been borrowed.
+                    <persName>Magnús Jónsson í Vigur</persName> (1637–1702): Commissioner, Scribe, Owner
+                    <persName>Sigurður Jónsson</persName> (1643–1730): Owner
+                    <persName>Árni Magnússon</persName> (1663–1730): Owner
+                </provenance>
+            </history>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2017" who="SMW">Adapted from Handrit.org and Stories for All Time, adjusted according to own standards, and expanded in detail.</change>
+            <change when="2018" who="SMW">Checked.</change>
+            Last update: 2018-02-01
+        </revisionDesc>
+    </teiHeader>
+</TEI>

@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Catalogue Description of British Library, Add. 4883</title>
+                <respStmt>
+                    Catalogued by 
+                    <name>
+                        <persName>
+                            <forename>Sheryl</forename> 
+                            <surname>McDonald Werronen</surname>
+                        </persName>
+                        <orgName type="affiliation">Københavns Universitet</orgName>
+                    </name>
+                    based on British Library catalogue descriptions.
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+                    </licence>
+                </availability>
+                <authority>Den Arnamagnæanske Samling, København</authority>
+                <date when="2018-02-01">1 February 2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="Add4883" xml:lang="en">
+                    <msIdentifier>
+                        <country key="UK">United Kingdom</country>
+                        <settlement>London</settlement>
+                        <repository>British Library</repository>
+                        <idno>Add. 4883</idno>
+                        <altIdentifier>
+                            <idno>Banks Collection: No. 27</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <idno>Bjarni Halldórsson's collection: No. 120 
+                                (<q>Handbók in membrana, exemplar nitidum</q>)
+                            </idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <title type="supplied">Meditations on the Passion and Death of Our Redeemer</title>
+                        </summary>
+                        <textLang mainLang="is">Icelandic</textLang>
+                        <titlePage type="ms">
+                            <locus from="1r" to="1r">1r</locus>
+                            <docTitle>
+                                <titlePart type="main">
+                                    Handbok
+                                </titlePart>
+                                <titlePart type="sub">
+                                    Edur um<ex>m</ex>hueunar bok pÿnunn
+                                    ar og daudans vors endur
+                                    lausnara Jesu christi
+                                    sk<ex>ri</ex>f
+                                    ud j Donsku af <persName>Nelao 
+                                    palz syne</persName>
+                                    Romanos IV 
+                                    Christus Jesus er dain<ex>n</ex> vegan vor
+                                    ra synda, <ex>og</ex> up apttur risin<ex>n</ex> oss 
+                                    til riettlætingar
+                                </titlePart>
+                            </docTitle>
+                        </titlePage>
+                        <msItem n="1">
+                            <locus from="2r" to="4r">2r–4r</locus>
+                            <title type="supplied">
+                                Translator's Preface
+                            </title>
+                            <rubric>
+                                Hlad og fridur med Lucku og blessun 
+                                lijfz og salar veitizt ydur af Gude fødur fyrer 
+                                Jesum Christum vorn Drottenu og end
+                                urlausnara.
+                            </rubric>
+                            <incipit>
+                                Sa nadarrij Gud og <highlight>DROTTENN</highlight> seiger suo 
+                                (mijn hiarttanz Elsku möder Ragneidur Eggertsdottur) fyrer mun<ex>n</ex> 
+                                Esaiæ spamanz J LX capitula. 
+                                <highlight>Eg vil hugga ydur. 
+                                 Suo sem þa moderin huggar sitt baru.</highlight>
+                            </incipit>
+                            <explicit>
+                                Ad auk þessa bid eg af hiartta Gud allrar nad<ex>ar</ex> <ex>og</ex> 
+                                huggun<ex>ar</ex> ad um<ex>m</ex>vefia ydur A all<ex>ar</ex> 
+                                m<ex>ed</ex> sin<ex>n</ex>e eilijfri hiæsku 
+                                og myskunsemi f<ex>yrir</ex> v<ex>er</ex>dleika pijnun<ex>n</ex>ar 
+                                <ex>og</ex> daudans Jesu ch<ex>ris</ex>tj vorz 
+                                <hi>DROTTENS</hi> <ex>og</ex> saluhialpara. 
+                                Amen.
+                            </explicit>
+                            <colophon>
+                                fra Øgre 1. Apriliz M. DC. XXIV. yd<ex>ar</ex> modurl<ex>e</ex>gri 
+                                astsemd und<ex>ar</ex>g<ex>e</ex>fin<ex>n</ex> <persName>Are Magnusson</persName>
+                            </colophon>
+                        </msItem>
+                        <msItem n="2">
+                            <locus from="4v" to="47v">4v–47v</locus>
+                            <title>Handbók</title>
+                            <rubric>
+                                Þu hinn allra wijsaste, riettlaste 
+                                heilagasti og mÿskunsamasti Gudz og Mariu 
+                                son,
+                            </rubric>
+                            <incipit>
+                                allra astudligaste herra Jesu christe minn endurlausnare og elskuligi frelsare, Eg þacka þier 
+                                af ollu mijnu hi<ex>ar</ex>ta, af allre minne säl og af ollu mijnu hiartanz hugskota 
+                                f<ex>yrir</ex> þijnu micklu hiartanz hormung, 
+                                Salarin<ex>n</ex>ar angist <ex>og</ex> sturlun af huerri þu skalfzt og titrader 
+                                og klagad<ex>er</ex> särgrœtiliga seigia<ex>n</ex>di. 
+                                Mijn sal er hrygg allt til daudans.
+                            </incipit>
+                            <explicit>
+                                O h<ex>er</ex>ra Gud. O þu hiartanz all<ex>ra</ex> kiærasti Jesu ch<ex>ris</ex>te, 
+                                lat mig bidia (so s<ex>e</ex>m giordi Joseph) um<ex>m</ex> þinn heilaga lijkama 
+                                <ex>og</ex> sueipa h<ex>an</ex>n Hreinu lijnklædi,  <ex>og</ex> 
+                                smyria h<ex>an</ex>n m<ex>ed</ex> myrru <ex>og</ex> aloe: 
+                                þ<ex>at</ex> er m<ex>ed</ex> elsku <!-- fol. 47v --> þacklæti. heidran, 
+                                lofgiord, vegsemd <ex>og</ex> bæna akalli ad leggia þig J mitt hiarta 
+                                suo sem J hreina <ex>og</ex> nija grøf, <ex>og</ex> ad Jnsigla hana med 
+                                þijnu<ex>m</ex> heilaga anda suo eg missi þig þadan alldrei, helldur life, 
+                                Deyi <ex>og</ex> uprijsi med þi<ex>er</ex> <ex>og</ex> upfari 
+                                J himeniu til ad lifa þar <ex>og</ex> blijfa hia þier æfinliga.
+                            </explicit>
+                            <colophon>
+                                Amen. Drottin<ex>n</ex> Jesu. Amen og amen
+                            </colophon>
+                            <!-- <note>
+                                New sections of the text start at fol. 26v (rubric, 
+                                <q>Wppa þessar huggurarsamligu lofan<ex>er</ex> 
+                                og fyrerheit hallda sꜳ <ex>og</ex> lijkann hu<ex>er</ex>t 
+                                med odru sitt sydasta Valet og goda nött. Og talar su 
+                                odaudl<ex>e</ex>ga sal til hins daudl<ex>e</ex>ga lijkama 
+                                ꜳ þen<ex>n</ex>an<ex>n</ex> hätt</q>) and 27v 
+                                (rubric, <q>Hiartanligt andsuar Daudligs 
+                                lijkama þ<ex>ar</ex> uppa</q>).
+                            </note> -->
+                        </msItem>
+                        <msItem n="3">
+                            <locus from="47v" to="49r">47v–49r</locus>
+                            <title>Prayers</title>
+                            <rubric>
+                                <highlight>Ein bæn og þackargiord þeim k<ex>or</ex>z</highlight> festa 
+                                Jesu christo til dyrdar fyrer hans heilogu hordu pijnu og bitran<ex>n</ex> dauda, 
+                                ad bidia dagliga einkum Langa fria dag.
+                            </rubric>
+                            <incipit>
+                                O Jesu christe, sonur lifanda Gudz, endurlausnari <ex>og</ex> saluhialpari allz 
+                                man<ex>n</ex>kynz; þu sem ertt g<ex>e</ex>fin<ex>n</ex> af Gudi, 
+                                mier til vijzdomz r<ex>e</ex>ttlætiz <ex>og</ex> helgunar. Eg þacka þier 
+                                af ollu mijnu hi<ex>ar</ex>ta fyr<ex>er</ex> alla þijna velgiorninga 
+                                mi<ex>er</ex> audfynda, einku<ex>m</ex> ad þu a upfylling tijmanz 
+                                af forþeincktu radi <ex>og</ex> f<ex>ar</ex>sion Gudz ertt komin<ex>n</ex>
+                            </incipit>
+                            <explicit>
+                                Hialpa mier min<ex>n</ex> trufaste frelsare, ad lijka sin<ex>n</ex> eg er 
+                                med þi<ex>er</ex> greptrad<ex>ar</ex> fyr<ex>er</ex> skyrnina J daudan<ex>n</ex>, 
+                                suo mætta eg eirnin g<ex>ei</ex>nga J endurnijnug lijfdagan<ex>n</ex>a, 
+                                allt t<ex>il</ex> þez ad e<ex>k</ex> v<ex>er</ex>d endil<ex>e</ex>ga upvacknir 
+                                fra daudum a efsta deige, <ex>og</ex> endurleystur algiorliga J sal og lijfi og ma sijdan 
+                                hia þier J eilijf<ex>ur</ex> dyrd byggia <ex>og</ex> bua æfinliga, 
+                                asamt heilogum einglum: f<ex>or</ex>fedrum, spamon<ex>n</ex>um postulum 
+                                <ex>og</ex> ollum þijnum utvoldum: og þig þu sem situr til Gudz hægri handar 
+                                yf<ex>er</ex> ollum himnum J hasæti Gudz mackt<ex>ar</ex> velldiz 
+                                þar ad lofa <ex>og</ex> vegsama oaflatanliga Amen
+                            </explicit>
+                            <colophon>
+                                Hialpa <highlight>HERRA</highlight> Jesu am<ex>en</ex>
+                            </colophon>
+                            <note>
+                                The text ends on fol. 49r and the verso side is blank except for later additions, as noted below.
+                            </note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="codex">
+                            <supportDesc material="perg">
+                                <support>Parchment</support>
+                            </supportDesc>
+                            <extent>
+                                <support_num_ffl>iv, paper, modern (post-1700)</support_num_ffl>
+                                <support_num_ffl>i, parchment, original</support_num_ffl>
+                                <support_num_bb>49</support_num_bb>
+                            </extent>
+                            <!-- <dimensions_leaf>
+                                <height unit="mm">...</height>
+                                <width unit="mm">...</width>
+                            </dimensions_leaf>
+                            <dimensions_written>
+                                <leaf_height unit="mm">...</leaf_height>
+                                <leaf_width unit="mm">...</leaf_width>
+                            </dimensions_written>-->
+                        <foliation>18th century?</foliation>
+                        <condition>
+                            Fair. The parchment is dark, with some leaves being very rough 
+                            (the grain of hairs can still be felt on some leaves, including the 
+                            parchment front flyleaf where a patch of hair remains near a 
+                            split in the skin), dirty (in some cases it is scraping marks that 
+                            are visible and dirtied with use), or thick, but the text is 
+                            generally well preserved.
+                        </condition>
+                        </objectDesc>
+                        <collation>
+                            <list>
+                                <ul>Flyleaves: fols i–iv (paper)</ul>
+                                <ul>I: fols i + 1–5 (3 bifolia)</ul>
+                                <ul>II: fols 5–11 (3 bifolia)</ul>
+                                <ul>III: fols 12–15 (2 bifolia of very thick parchment)</ul>
+                                <ul>IV: fols 16–19 (2 bifolia of very thick parchment)</ul>
+                                <ul>V: fols 20–25 (3 bifolia)</ul>
+                                <ul>VI: fols 26–29 (2 bifolia)</ul>
+                                <ul>VII: fols 30–33 (2 bifolia)</ul>
+                                <ul>VIII: fols 34–39 (3 bifolia)</ul>
+                                <ul>IX: fols 40–43 (2 bifolia)</ul>
+                                <ul>X: fols 44–49 (3 bifolia)</ul>
+                            </list>
+                        </collation>
+                    </physDesc>
+                </msDesc>
+                <handDesc>Ari Magnússon</handDesc>
+                <scope>Major</scope>
+                <handDesc>Unknown (possibly Ástríður Jónsdóttir)</handDesc>
+                <scope>Minor (fol. 1v)</scope>
+                <decoDesc>
+                    The manuscript has a low level of decoration, mainly comprising initials.
+                    There are running titles throughout the main text from fols 5v–48r 
+                    (<q>vm<ex>m</ex>huxun Jesu christi <!-- verso -->| pijnu og dauda<!-- recto --></q>); 
+                    the first running titles (fols 4v–5r) are instead <q>Handhofn Jesu christi |  pijnu og dauda</q>.
+                </decoDesc>
+                <additions>
+                    <list>
+                        <ul>
+                            <li>
+                                Second paper flyleaf, verso, in pencil, 
+                                <q>113 A. <highlight type="strikethrough">CXIII.A</highlight></q>
+                            </li>
+                            <li>
+                                Third paper flyleaf, recto, in pencil, <q>4483</q>.
+                            </li>
+                            <li>
+                                Front flyleaf, top left corner, in pen, <q>26</q>, and in pencil, <q>No. 50</q>.
+                            </li>
+                            <li>
+                                Fol. 1r, reader's pen trial imitation of original script, under titles, <q>Christus</q>.
+                            </li>
+                            <li>
+                                Fol. 1v, Bequest note: 
+                                <q>
+                                    Þessa Handbök pijnun<ex>n</ex>ar Daudan<ex>n</ex>a Drotten<ex>n</ex>s 
+                                    Jesu Christi, ä kälfskin<ex>n</ex> ritud er mier underskrifadre til eignar 
+                                    komen<ex>n</ex> ad giøf mins sæla og blessada Mödurbrödurs Magnusar 
+                                    säl<ex>ugar</ex> Jönssonar, hvória hiernefnda bök eg nu aptur gief og fæ 
+                                    til fullkomlegrar eignar min<ex>n</ex>e ästkiærre Dötturdötter 
+                                    <persName>Holmfride Pälsdötter</persName> med þeim fyrermælum 
+                                    og skÿlÿrde, ad hun<ex>n</ex> läte bökena ecke ürættes gänga. þessu til 
+                                    merkis er mitt underskrifad nafn ad Myrum vid Dyrafiörd. þann 25 Junij. 
+                                    Anno 1718 – <persName>Astrÿdur Jónsdötter</persName> M<ex>ed</ex>: E<ex>igen</ex>: V:
+                                    <!-- JH's transcription ends with "M.E.H." (indicating she wrote it herself), 
+                                        but the last letter looked more like "V" when seen in person -->
+                                </q>
+                            </li>
+                            <li>
+                                Back flyleaf, top left, 18th-century hand, <q>Cons. fol: 49</q>; red <q>MUS.BRIT.</q> stamp.
+                            </li>
+                        </ul>
+                    </list>
+                </additions>
+                <bindingDesc>Modern binding.</bindingDesc>
+            </sourceDesc>
+            <history>
+                <orig>
+                    <origDate>1624</origDate>
+                    <origPlace>Iceland</origPlace>
+                </orig>
+                <provenance>
+                    <persName>Ari Magnússon</persName> (1571–1652): Translator, Scribe, Chief Magistrate in Isafjörður
+                    <persName>Ragnheiður Eggertsdóttir</persName> (1550–1642; mother of Ari Magnússon): Owner
+                    <persName>Magnús Jónsson</persName> (1600–1675; grandson of Ragnheiður Eggertsdóttir): Owner
+                    <persName>Ástríður Jónsdóttir</persName> (1646–1719; niece of Magnús Jónsson): Owner
+                    <persName>Holmfríður Pálsdóttir</persName> (d. 1736; granddaughter of Ástríður Jónsdóttir and Magnús í Vigur): Owner
+                    <persName>Bjarni Halldórsson</persName> (1703–1773; husband of Holmfríður Pálsdóttir): Owner
+                    <persName>Ólafur Stephensen</persName> (1731–1812; associate of Joseph Banks in Iceland): Buyer/Seller
+                    <persName>Sir Joseph Banks</persName> (1743–1820): Owner
+                </provenance>
+                <note>
+                    The devotional text in this manuscript must be by the Danish theologian 
+                    <persName>Niels Poulsen Schandorph</persName> (1596–1645), 
+                    who was born in Skanderup and died in Copenhagen. 
+                    He became priest at Copenhagen's Vor Frue Kirke in 1635, 
+                    professor of theology at the University of Copenhagen in 1639, 
+                    and was rector of the University from 1644 until his death one year later.
+                </note>
+            </history>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2017" who="SMW">Adapted from British Library records, corrected and adjusted according to own standards, and expanded in detail.</change>
+            <change when="2018" who="SMW">Checked.</change>
+            Last update: 2018-01-29
+        </revisionDesc>
+    </teiHeader>
+</TEI>

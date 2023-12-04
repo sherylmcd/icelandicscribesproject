@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Catalogue Description of  Arnamagnæan Collection, Copenhagen, Rask 33</title>
+                <respStmt>
+                    Catalogued by 
+                    <name>
+                        <persName>
+                            <forename>Sheryl</forename> 
+                            <surname>McDonald Werronen</surname>
+                        </persName>
+                        <orgName type="affiliation">Københavns Universitet</orgName>
+                    </name>
+                    based on a description from the online catalogue <a href="http://handrit.org">Handrit.org</a>.
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+                    </licence>
+                </availability>
+                <authority>Den Arnamagnæanske Samling, København</authority>
+                <date when="2018-02-01">1 February 2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="Rask33" xml:lang="en">
+                    <msIdentifier>
+                        <repository>Den Arnamagnæanske Samling, København</repository>
+                        <idno>Rask 33</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <title type="supplied">Sagas</title>
+                        </summary>
+                        <textLang mainLang="is">Icelandic</textLang>
+                        <titlePage type="ms">
+                            <docTitle>
+                                <titlePart type="supplied">
+                                    Mágus saga jarls and Þóris þáttr hasts og Bárðar birtu
+                                </titlePart>
+                            </docTitle>
+                        </titlePage>
+                        <msItem n="1">
+                            <locus from="1r" to="72r">1r–72r</locus>
+                            <title>Mágus saga jarls</title>
+                            <msItem n="1.1">
+                                <locus from="1r" to="38v">1r–38v</locus>
+                                <title>First Part</title>
+                                <rubric>
+                                    Sagan<ex>n</ex> af Mägus Jarle 
+                                    <ex>og</ex> þ<ex>ei</ex>m Amundarsonum<ex>m</ex>
+                                </rubric>
+                                <rubric>Cap. I.</rubric>
+                                <incipit>
+                                    Jatmund<ex>ur</ex> hef<ex>ur</ex> keysare heited h<ex>an</ex>n riede f<ex>yrir</ex> Saxlande, 
+                                    þui v<ex>ar</ex> h<ex>an</ex>n e<ex>ck</ex>i suo vinsæll s<ex>e</ex>m ætla m<ex>un</ex>de 
+                                    ad h<ex>an</ex>n v<ex>ar</ex> metnad<ex>ar</ex> m<ex>adur</ex> m<ex>icki</ex>ll, 
+                                    so h<ex>onu</ex>m þötte e<ex>ck</ex>irtt t<ex>il</ex> Jafns v<ex>id</ex> sig
+                                </incipit>
+                                <explicit>
+                                    M<ex>agus</ex> för heim til Sträin<ex>n</ex>sborg<ex>ar</ex> Ross ij. w<ex>oru</ex>
+                                    tekin<ex>n</ex> og var bunþin<ex>n</ex> sin<ex>n</ex> föt<ex>ar</ex> vbba vid
+                                    hu<ex>or</ex>tt þ<ex>eir</ex>ra, <ex>og</ex> dröu þau h<ex>ann</ex> vm<ex>m</ex> alltt Sax-
+                                    land, <ex>og</ex> v<ex>ar</ex> þ<ex>ad</ex> h<ex>a</ex>nz lijflät. Ellind<ex>ur</ex> ub
+                                    son <ex>og</ex> þ<ex>ei</ex>r adalv<ex>ar</ex> w<ex>oro</ex> l<ex>a</ex>nd<ex>ar</ex>vn<ex>ar</ex> men<ex>n</ex> 
+                                    keysara <ex>og</ex> fiek<ex>k</ex> h<ex>an</ex>n hu<ex>or</ex>utueggio 
+                                    sæmel<ex>e</ex>g quonføng. Og 
+                                    lijkur þar MAGUS
+                                    saugu
+                                </explicit>
+                                <colophon>
+                                    Endud ad Eyre vid Skøtufiørd d<ex>ie</ex> 
+                                    3. Decembris An<ex>n</ex>o 1680. 
+                                    Leijd riette godur Lesare og Lude til betran<ex>ar</ex>. 
+                                    þad en Rätt heffur ordet.
+                                </colophon>
+                            </msItem>
+                            <msItem n="1.2">
+                                <locus from="39r" to="72r">39r–72r</locus>
+                                <title>Second Part</title>
+                                <rubric>
+                                    An<ex>n</ex>ar parttur þessar søgu 
+                                    skÿrer frä einu ødru sem til hef<ex>ur</ex> 
+                                    bored a Døgum<ex>m</ex> Maguss Jarls
+                                </rubric>
+                                <rubric>Cap. 1.</rubric>
+                                <incipit>
+                                    HENRYCH HEFUR KÖNG<ex>UR</ex> heyted, han<ex>n</ex> ried f<ex>yrir</ex> Eingl<ex>an</ex>de 
+                                    han<ex>n</ex> var son Adalvardz Vilhiälmz son<ex>ur</ex>, h<ex>an</ex>n v<ex>ar</ex> rijk<ex>ur</ex> 
+                                    oc stör lätur, han<ex>n</ex> ätte sier ij. børn, son h<ex>a</ex>nz hiet Läu<ex>ri</ex>ss, en<ex>n</ex> Þöra dötur.
+                                </incipit>
+                                <explicit>
+                                    þä kom þ<ex>ar</ex> Eyrekr Danak<ex>ongu</ex>r Bröd<ex>ur</ex> Knütz ens helga, 
+                                    <ex>og</ex> v<ex>ar</ex> þar iij. vetur, og þꜳ̈ af k<ex>on</ex>gum<ex>m</ex> iiij. skip feriud 
+                                    m<ex>ed</ex> gull <ex>og</ex> 14. herskip Vilh<ex>jalmur</ex> atte s<ex>on</ex> <highlight style="strikethrough">ijke</highlight> 
+                                    er Carl h<ex>ie</ex>t, og dött<ex>er</ex> er Constantina hiet. 
+                                    Nu endast m<ex>ed</ex> þ<ex>ei</ex>m formala saga þesse <!-- 72r --> 
+                                    Ad Jesus Christus gieffe þ<ex>ei</ex>m sem sauguna skrif
+                                    ade alla göda daga, og suo þeim er 
+                                    Las og til hlijdda vtan<ex>n</ex> 
+                                    enda. Amen
+                                </explicit>
+                                <colophon>
+                                    Endudt ad Eyre vid Skøtufiørd af Þör
+                                    de Joonssyne ꜳ̈ slæ̈mum<ex>m</ex> pappijr. 
+                                    þan<ex>n</ex> 20 Decembris. Anno. 
+                                    M. DC LXXX.
+                                </colophon>
+                                <verse>
+                                    Lade lesare Jdin<ex>n</ex>, letrid äa til betra,
+                                    og sidugar sijlke friöd<ex>ur</ex>, siaa þö ad þ<ex>e</ex>tta fäe,
+                                    heijdur og blessan bijde, bæ̈tend<ex>ur</ex> aller mæ̈ter,
+                                    Liöd og fäu<ex>r</ex>ijtt fræde, <ex>og</ex> ord søgun<ex>n</ex><ex>ar</ex> gøgud
+                                </verse>
+                            </msItem>
+                        </msItem>
+                        <msItem n="2">
+                            <locus from="73r" to="76v">73r–76v</locus>
+                            <title>
+                                Þóris þáttr hasts og Bárðar birtu
+                            </title>
+                            <rubric>
+                                Lytid agrip vr Landnäms søgu, þeirra Er 
+                                sÿgdu fliöt, slettaflÿd, hofdastrønd, og 
+                                þær sveÿter.
+                            </rubric>
+                            <incipit>
+                                Þä hofda Þördur Biö a Hofda a Hofdastrønd, sem þorvarhofde er vidkiendur, var 
+                                hrolleÿfur J kaupferdum millum Noregs <ex>og</ex> Isändz, sem hrolle so hafde tekur hrafe af, 
+                                kom vt med h<ex>a</ex>m sa mad<ex>ur</ex> er þor<ex>er</ex> hiet, han<ex>n</ex> var 
+                                halldin<ex>n</ex> m<ex>ed</ex> betre møn<ex>n</ex>u<ex>m</ex> þo heÿden<ex>n</ex> være
+                            </incipit>
+                            <explicit>
+                                En<ex>n</ex> Leggia mun eg boot med, ad ef þ<ex>ei</ex>r men<ex>n</ex> sem bæin<ex>n</ex> eiga, 
+                                fä þaug fiogur medol i hus syn er fiöra ellda hindra, alldrej skalltu veyda þar sem huskallar faudur þinz veyddu, 
+                                Elligar skaltu sia mis smide a høgum þijnum, þ<ex>ei</ex>r men<ex>n</ex> sem komu eftter Band logdu J fiar hlute syna, 
+                                og hefur vid halldest sÿdan<ex>n</ex> Etc <addition resp="reader">ender <ex>og</ex> sögunnar</addition>
+                            </explicit>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="codex">
+                            <supportDesc material="chart">
+                                <support>Paper</support>
+                            </supportDesc>
+                            <extent>
+                                <!-- <support_num_ffl>...</support_num_ffl> -->
+                                <support_num_bb>76</support_num_bb>
+                                <!-- <support_num_bfl>...</support_num_bfl> -->
+                            </extent>
+                            <dimensions_leaf>
+                                <height unit="mm">195 mm</height>
+                                <width unit="mm">150 mm</width>
+                            </dimensions_leaf>
+                        </objectDesc>
+                        <foliation>
+                            Every 10 leaves, in pencil.
+                        </foliation>
+                        <collation>
+                            The manuscript consists of 10 quires, usually of 4 bifolia each, with some exceptions. 
+                            The first 9 quires, containing Mágus saga jarls, include quire signatures O, P, Q, R, S, T, V, X, Y, 
+                            indicating that the saga was once part of a larger collection of texts.
+                            The third bifolium in Quire P is bound out of order and can be seen in the order of the quire signatures: P., P.ii, P.iiii, P.v, P.iii.
+                            <list>
+                                <ul>I (O): fols 1–8 (4 bifolia)</ul>
+                                <ul>II (P): fols 9–16 (4 bifolia)</ul>
+                                <ul>III (Q): fols 17–28 (6 bifolia)</ul>
+                                <ul>IV (R): fols 29–36 (4 bifolia)</ul>
+                                <ul>V (S): fols 37–44 (4 bifolia)</ul>
+                                <ul>VI (T): fols 45–52 (4 bifolia)</ul>
+                                <ul>VII (V): fols 53–60 (4 bifolia)</ul>
+                                <ul>VIII (X): fols 61–68 (4 bifolia)</ul>
+                                <ul>IX (Y): fols 69–72 (2 bifolia)</ul>
+                                <ul>X: fols 73–76 (2 bifolia)</ul>
+                            </list>
+                        </collation>
+                        <condition>Poor.</condition>
+                    </physDesc>
+                </msDesc>
+                <handDesc>Þórður Jónsson</handDesc>
+                <scope>Major (fols 1r–72r)</scope>
+                <handDesc>Unknown</handDesc>
+                <scope>Minor (fols 73r–76v)</scope>
+                <decoDesc>The manuscript has a moderate level of decoration.
+                    <list>
+                        <ul>
+                            <li>
+                                Embellished initials, usually 2 lines high, and running chapter numbers are at the beginnings of new chapters of Mágus saga jarls. 
+                                Some of these initials are decorated with sketched faces. Larger initials open the two parts of the saga. 
+                                These are 4 lines high (part one) and 10 lines high (part two), and are embellished with leaves and interlace patterns.
+                            </li>
+                        </ul>
+                    </list>
+                </decoDesc>
+                <additions>
+                    <list>
+                        <ul>
+                            <li>
+                                Fol. 1r: Ownership note: 
+                                <q>R. Rask</q> in black pen, top right corner.
+                            </li>
+                            <li>
+                                Fol. 51r: Ownership note in the outer margin in black ink:
+                                <q>Olafur Olafs son | a þeßa Bok | An<ex>n</ex>o Mundij | 1798</q>.
+                            </li>
+                            <li>
+                                Fol. 72r: On the lower half of the page, following the verse by the main scribe, are ownership and other notes:
+                                <q>Arker ad tølu tel 40.</q> in brown ink; 
+                                <q>Olaf | O Olafssona Jodijsarstodum<ex>m</ex> á | bokena med Riettu, Ano 1794</q> in thin black ink;
+                                <q>Mr Olafur Olafa Son | AnaStodum <unclear>þeyar þeye</unclear></q> written larger, in black ink.
+                            </li>
+                            <li>
+                                Fol. 72v: Ownership notes: 
+                                <q>Bok af | Olafur Olafs Son a bokinn med | Riettu ...</q> in black ink; also written out again in a different, thinner pen.
+                            </li>
+                            <li>
+                                Fol. 76v: Ownership note:
+                                <q>Þessa søgu Bok a Olafur Olaf Son a Ꜳnastødum<ex>m</ex></q>, and under, in a different pen, <q>1811</q>.
+                                In the bottom right corner is another  note written in a different, thinner pen.
+                            </li>
+                        </ul>
+                    </list>
+                </additions>
+                <bindingDesc></bindingDesc>
+            </sourceDesc>
+            <history>
+                <orig>
+                    <origDate>1680</origDate>
+                    <origPlace>Iceland</origPlace>
+                </orig>
+                <provenance>
+                    <p>
+                        The manuscript belonged to <persName>Ólafur Ólafsson</persName> of Jódísarstaðir (in 1794), and of Ánastaðir (later, at least by 1811).
+                    </p>
+                    <persName>Magnús Jónsson í Vigur (1637–1702): Commissioner, Owner</persName>
+                    <persName>Ólafur Ólafsson (c. 1725x1775–1800x1875): Owner</persName>
+                    <persName>Rasmusk Kristian Rask (1787–1832): Owner</persName>
+                </provenance>
+            </history>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2017" who="SMW">Adapted from Handrit.org, adjusted according to own standards, and expanded in detail.</change>
+            <change when="2018" who="SMW">Checked.</change>
+            Last update: 2018-02-13
+        </revisionDesc>
+    </teiHeader>
+</TEI>

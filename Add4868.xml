@@ -1,0 +1,864 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Catalogue Description of British Library, Add. 4868</title>
+                <respStmt>
+                    Catalogued by 
+                    <name>
+                        <persName>
+                            <forename>Sheryl</forename> 
+                            <surname>McDonald Werronen</surname>
+                        </persName>
+                        <orgName type="affiliation">Københavns Universitet</orgName>
+                    </name>
+                    based on British Library catalogue descriptions.
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+                        Distributed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+                    </licence>
+                </availability>
+                <authority>Den Arnamagnæanske Samling, København</authority>
+                <date when="2018-02-01">1 February 2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="Add4868" xml:lang="en">
+                    <msIdentifier>
+                        <country key="UK">United Kingdom</country>
+                        <settlement>London</settlement>
+                        <repository>British Library</repository>
+                        <idno>Add. 4868</idno>
+                        <altIdentifier>
+                            <idno>Banks Collection: No. 12</idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <idno>
+                                Páll Vídalín's collection: No. 10 fol. 
+                                (<q>Nokkuð þunn bók með cursiv settaskript frá Vigur, 
+                                    bundin samman með grænum reimum. 
+                                    Þar á af Bárdi Snæfellsás, Gesti Bárðarsyni, 
+                                    Jökli Búasyni, Króka-Ref, Hrafnkeli Freysgoða, 
+                                    Hörði og Hólmverjum, Vemundi og Víga-Skútu, 
+                                    Oddi og Bandamönnum. Frá Vigur.</q>)
+                            </idno>
+                        </altIdentifier>
+                        <altIdentifier>
+                            <idno>
+                                Bjarni Haldórsson's collection: No. 66 fol. 
+                                (<q>Bleikskinna byriaz á Bárdi Snæfellsás, 
+                                    endast á Bandamönnum</q>)
+                            </idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <title type="supplied">Sagas</title>
+                        </summary>
+                        <textLang mainLang="is">Icelandic</textLang>
+                        <titlePage type="ms">
+                            <locus from="1r" to="1r">1r</locus>
+                            <docTitle>
+                                <titlePart type="main">
+                                    Sagnakrans.
+                                </titlePart>
+                                <titlePart type="sub">
+                                    Jslendinga Margþæ̈ttur og Margfrödur 
+                                    Edur 
+                                    Blömstur 
+                                    Adskilin<ex>n</ex>a nefn<ex>n</ex>elegra ættlijgin<ex>n</ex>a og ÿppar
+                                    legra fordum<ex>m</ex> tijd Jslands, ho᷎fdingia, afreks kappa o<ex>k</ex> 
+                                    hetia, ad verduleijkum<ex>m</ex> raun og riettug heitum<ex>m</ex>, forfedra 
+                                    frædilegra san<ex>n</ex>kalladra 
+                                    huar Jn<ex>n</ex>e 
+                                    Eirn<ex>n</ex> og sier huor mä siä og skoda þeirra 
+                                    vp<ex>p</ex>runa og ættern<ex>n</ex>e, giæfu og gio᷎rfugle eijka, man<ex>n</ex>ord og 
+                                    mentter, vopn<ex>n</ex>fime og vaskleijka, Riettsijne og Rädsnille, 
+                                    vijgkiænsku og viturleijka, ur lausn<ex>n</ex>er og vpafindning
+                                    ar, Giaford og Gipttu mäl, æfurdrif og alldurtila 
+                                    eptter mäl og ættrækn<ex>n</ex>e, þeim til Lærdöms og Liste 
+                                    seme, jdkun<ex>n</ex>ar og epttertekta er sin<ex>n</ex>a forfed
+                                    ra fo᷎grum<ex>m</ex> dæmum<ex>m</ex> fijlgia vilia. En<ex>n</ex> hinum<ex>m</ex> 
+                                    til varudar o<ex>k</ex> vidvo᷎run<ex>n</ex>ar er j þeirra 
+                                    man<ex>n</ex>legum<ex>m</ex> Brestum<ex>m</ex> freklega 
+                                    feta o<ex>k</ex> fram<ex>m</ex>fara 
+                                    Kostgiæfelega med Jdne og ästundan sam<ex>an</ex> 
+                                    tekin<ex>n</ex>, nidurskordud, vt valin<ex>n</ex> og ur lesin<ex>n</ex>, Lagfærd, Ro᷎d
+                                    ud og tilfeingin<ex>n</ex>, med Langso᷎mum<ex>m</ex> ad drætte og erfidis mu<ex>n</ex> 
+                                    um<ex>m</ex>, af Eruprijddum<ex>m</ex> og ættgo᷎fugum<ex>m</ex> h<ex>erru</ex>man<ex>n</ex>e 
+                                    Magnuse Jönssijne ad Augre vid Jsafio᷎rd 
+                                    En<ex>n</ex> skrifud ad h<ex>a</ex>ns skickan og for
+                                    læge af Magnuse Þórulfssijne 
+                                    Anno 1667
+                                </titlePart>
+                                <note>
+                                    Much of the title is also found on the title page of Add. 4865 (written by an unknown scribe nearly 30 years later in 1696).
+                                </note>
+                            </docTitle>
+                        </titlePage>
+                        <msItem n="1">
+                            <locus from="1v" to="1v">1v</locus>
+                            <title>Table of Contents</title>
+                            <rubric>
+                                Þessar Eptterfijlgiande Saughur hefur Bleijkskin<ex>n</ex>a Jn<ex>n</ex>e ad hallda 
+                            </rubric>
+                                Af Bärde Snæ̈fellsäs --------- 1 
+                                af Gieste Bardarsijne --------- 2 
+                                af Þorde Hreidu ----------- 3 
+                                af Bä Andrijdarsijne --------- 4 
+                                af Jókle Büasijne ----------- 5 
+                                af Horde o<ex>k</ex> Hölmverium<ex>m</ex> --------- 6 
+                                af Hrafn<ex>n</ex>kiele Goþa --------- 7 
+                                af Gijsla Sürsijne --------- 8 
+                                af Kröka Ref ----------- 9 
+                                af Gun<ex>n</ex>are Kielldugnups fijfle ------ 10 
+                                af Vijglunde væna --------- 11 
+                                af finnboga Rama -------- 12 
+                                af Vijga Glüm ---------- 13 
+                                af Vemunde o<ex>k</ex> Vijga Skutu ------- 14 
+                                af Orme Störulfssijne 15 
+                                af Kormäke ----------- 16 
+                                af Banda m<ex>önnu</ex>m o<ex>k</ex> Odde Ofeijgssijne ---- 17
+                        </msItem>
+                        <msItem n="2">
+                            <locus from="2r" to="9r">2r–9r</locus>
+                            <title>Bárðar saga Snæfellsás</title>
+                            <rubric>
+                                Hier Bÿriast Sagan<ex>n</ex> Af Bärde Dümbzsyne Er kalladur var Snæ̈fells-Aas
+                            </rubric>
+                            <rubric>I C<ex>a</ex>p<ex>itul</ex>e</rubric>
+                            <incipit>
+                                <highlight>Dumbur hefur köngur heit</highlight>id han<ex>n</ex> ried fijrer 
+                                hafsbotn<ex>n</ex>um<ex>m</ex> þeim er ganga af Risalande J lands sudur, 
+                                Enn fÿrer sunan<ex>n</ex> geingar þad haf sem nü er kallad Dumbs haf o<ex>k</ex> 
+                                kientt var vid Dumb kong, Liggia þar mo᷎rg lo᷎nd smä ok suo eijiar. Dumbur 
+                                k<ex>ongur</ex> var Risa kins J fo᷎dr æ̈tt sijna, ok er þad væ̈rn<ex>n</ex>a 
+                                folck o<ex>k</ex> stæ̈rra en<ex>n</ex> adrer men<ex>n</ex>, 
+                                en<ex>n</ex> moder han<ex>n</ex>s var komin<ex>n</ex> af 
+                                tro᷎llum J sijnar æ̈tter ok þuj brä Domb J huortueggia kÿn sitt 
+                            </incipit>
+                            <explicit>
+                                Sijþan<ex>n</ex> för huor heim til sin<ex>n</ex>a heimkin<ex>n</ex>a. Göþar v<ex>oru</ex>
+                                äster med þeim odde o<ex>k</ex> þördijse. þriä vetur v<ex>oru</ex> þau äsamt
+                                ok ättu e<ex>ckj</ex> Barna þä andadist þördijs. þötte odde þad en<ex>n</ex>
+                                meste skade. Sijþ<ex>a</ex>n fieck oddur jorun<ex>n</ex>ar helga do
+                                ttur, þ<ex>eir</ex>ra son var þorvalldr er riede f<ex>yrir</ex> Bren<ex>n</ex>o 
+                                Blandkietils, o<ex>k</ex> þoroddur er f<ex>ie</ex>k J öfijde Gu
+                                n<ex>n</ex>ars dottur, ok lijkyr suo so᷎gu þ<ex>es</ex>sare af 
+                                Bärde Snæfells As
+                            </explicit>
+                            <note>12 chapters, in Roman numerals.</note>
+                        </msItem>
+                        <msItem n="3">
+                            <locus from="9v" to="17r">9v–17r</locus>
+                            <title>Gests saga Bárðarsonar</title>
+                            <rubric>
+                                Sagan<ex>n</ex> Af Gieste Syne Bärdar Snæ̈fells-ass
+                            </rubric>
+                            <rubric>I C<ex>a</ex>p<ex>itul</ex>e</rubric>
+                            <incipit>
+                                <highlight>Hier Bÿrjar suo þessa Saugu Ad</highlight> midfiardar skiegge 
+                                biö ad Rijkium<ex>m</ex> j Midfirdi han<ex>n</ex> hafde feingid 
+                                þ<ex>eir</ex>rar konu er Hallbera hiet o<ex>k</ex> var Grijms dotter, 
+                                þ<ex>eir</ex>ra son var Eijdu er sijþ<ex>ar</ex> äst hafde dottur þorbergs 
+                                krum<ex>m</ex>a mäla o<ex>k</ex> olafar Skialldar sijstur s<ex>e</ex>m 
+                                var dottir þorgeyrs Gollings. Dottir skiegg<ex>ar</ex> hiet þördijs, 
+                                hun öx vp<ex>p</ex> ad Reÿkium<ex>m</ex>, o<ex>k</ex> var 
+                                kuen<ex>n</ex>a frijdust o<ex>k</ex> vel ad sier vm<ex>m</ex> flest.
+                            </incipit>
+                            <explicit>
+                                en<ex>n</ex> þö vo᷎rdo
+                                þeir mälid med Odde ok sijþ<ex>a</ex>n skildu þ<ex>ei</ex>r fręndur med kiærleÿk
+                                um, er mikil ætt komin<ex>n</ex> frä þeim b<ex>rædru</ex>m bädum<ex>n</ex>, en<ex>n</ex> e<ex>ck</ex>j er 
+                                þess giefid ad Oddur hafe Bo᷎rn ätt nie eptter siglä 
+                                tid. ok lijkur hier suo So᷎gun<ex>n</ex>e af Gies
+                                te Bardar Sijne
+                            </explicit>
+                            <note>17 chapters, in Roman numerals.</note>
+                        </msItem>
+                        <msItem n="4">
+                            <locus from="17v" to="33v">17v–33v</locus>
+                            <title>Þórðar saga Hreðu</title>
+                            <rubric>
+                                Sagan<ex>n</ex> Af Þörde Hrędu
+                            </rubric>
+                            <rubric>I C<ex>a</ex>p<ex>itul</ex>e</rubric>
+                            <incipit>
+                                <highlight>Þördur hiet Madur ho᷎rda Käraso<ex>n</ex></highlight> 
+                                m<ex>ik</ex>ill ad vird m<ex>e</ex>gum<ex>m</ex>, han<ex>n</ex> 
+                                var ho᷎fdinge ÿfer þ<ex>ei</ex>m hiero᷎dum<ex>m</ex> er h<ex>onu</ex>m 
+                                v<ex>oru</ex> nälæg, han var hersir ad nafn<ex>n</ex> botum<ex>m</ex>, 
+                                han<ex>n</ex> var framur ad mo᷎rgum hlutum, h<ex>an</ex>n hafde feingid 
+                                go᷎fugt kuo᷎nfang, o<ex>k</ex> ätte vid hen<ex>n</ex>e iiij sonu 
+                                o<ex>k</ex> eina dotter, hin<ex>n</ex> ellsti hiet Steingrijmr 
+                                An<ex>n</ex>ar Clijpur, þridie Eijolfur, en<ex>n</ex> dotter Sigrijdr 
+                                o<ex>k</ex> voru bo᷎rn<ex>n</ex> þ<ex>eir</ex>ra man<ex>n</ex>vænl<ex>e</ex>g.
+                            </incipit>
+                            <explicit>
+                                þ<ex>ei</ex>r Þordr o<ex>k</ex> Eÿdr hielldu vinattu sin<ex>n</ex>e medan<ex>n</ex> þ<ex>ei</ex>r lifdu bäder. Bræ̈dur Þordar hielldu vist ä Öse o<ex>k</ex> voru þ<ex>ei</ex>r go᷎fug<ex>er</ex> 
+                                men<ex>n</ex>, En<ex>n</ex> Þördur andadist J gödre elle, ok ho᷎fum<ex>m</ex> vier e<ex>ck</ex>j 
+                                fleijra af h<ex>a</ex>ns frægdar v<ex>er</ex>kum<ex>m</ex> spurt. ok Lijkur hier 
+                                suo so᷎gun<ex>n</ex>e af Þörde hrędu
+                            </explicit>
+                            <note>28 chapters, in Roman numerals.</note>
+                        </msItem>
+                        <msItem n="5">
+                            <locus from="34r" to="47v">34r–47v</locus>
+                            <title>Kjalnesinga saga</title>
+                            <rubric>Hier Bÿrjast Kialnesinga Saga Edur Af Bwa Andrissÿne</rubric>
+                            <rubric>I C<ex>a</ex>p<ex>itul</ex>e</rubric>
+                            <incipit>
+                                <highlight>Helge biöla son kietels flat</highlight>nefs nam Kialarnes allt, 
+                                mille Leijru vogs o<ex>k</ex> Botns är o<ex>k</ex> biö ad hofe ä Kialarnese, 
+                                han<ex>n</ex> var nijt men<ex>n</ex>e m<ex>ik</ex>ed J forn<ex>n</ex>um<ex>m</ex> sid, 
+                                Blöt madr lijtill<ex>k</ex> hægur vid alla. Helge ätte Þörniju dottur Jngolfs J vijk er 
+                                f<ex>yr</ex>st bÿgde Jsland, þ<ex>eir</ex>ra sijner voru þ<ex>ei</ex>r Þorgrijmr o<ex>k</ex> 
+                                Arn<ex>n</ex>grijmur,
+                            </incipit>
+                            <explicit>
+                                Sama jarn<ex>n</ex> klucka hieck þä ÿfer k<ex>ir</ex>kjun<ex>n</ex>e Esiuberge, j tijd Arna b<ex>isku</ex>ps þorlakssonar ok Nichulausar Petursonar er biö ad Hofe, var hun þä mio᷎g slitin<ex>n</ex> afride. 
+                                Arn<ex>n</ex>e b<ex>isku</ex>p liet o<ex>k</ex> þan<ex>n</ex> sama plen
+                                arjum fara sudur j Schalhollt o<ex>k</ex> liet binda o<ex>k</ex> sijma o᷎ll blo᷎din<ex>n</ex> 
+                                J kio᷎lin<ex>n</ex> ok er Jrst letur ä, frä Büa Andrijdssijne er komin<ex>n</ex> 
+                                m<ex>ik</ex>il ætt hier ä lande, ok endast hier nu Kialnesin
+                                ga Saga, edur Af Büa Andrijds sÿne
+                            </explicit>
+                            <note>18 chapters, in Roman numerals.</note>
+                        </msItem>
+                        <msItem n="6">
+                            <locus from="48r" to="51v">48r–51v</locus>
+                            <title>Jökuls þáttur Búasonar</title>
+                            <rubric>
+                                Þättur Af Jøkle Sÿne Bwa Andrijdssonar
+                            </rubric>
+                            <rubric><addition resp="reader">I Cap:</addition></rubric>
+                            <incipit>
+                                <highlight>Þar Er Nü Til Ad taka og Frä Ad</highlight> seigia, 
+                                Ad Jo᷎kle þötte suo Jllt v<ex>er</ex>k sitt er fad<ex>er</ex> 
+                                han<ex>n</ex>s hafde fÿrer h<ex>onu</ex>m slisast, ad han<ex>n</ex> 
+                                reid þ<ex>e</ex>gar til skips er var ä Eÿrarbacka, 
+                                o<ex>k</ex> siglde þar med vlfe Stijreman<ex>n</ex>e, 
+                                gaf þ<ex>ei</ex>m lijtt bir o<ex>k</ex> rak ä f<ex>yrer</ex> 
+                                þeim haf villar, o<ex>k</ex> v<ex>oru</ex> ute allt sumarid, 
+                                en<ex>n</ex> er hausta tök rak ä storma med m<ex>ick</ex>lum 
+                                hrijdum o<ex>k</ex> froste, o<ex>k</ex> sijllde 
+                                huorn<ex>n</ex> dropa er in<ex>n</ex> kom.
+                            </incipit>
+                            <explicit>
+                                þä andadist Sold<ex>an</ex> k<ex>ongr</ex> fad<ex>er</ex> Hvijts<ex>erks</ex>. 
+                                v<ex>ar</ex> h<ex>an</ex>n þa t<ex>il</ex> k<ex>onungs</ex> t<ex>eck</ex>in<ex>n</ex> 
+                                ÿf<ex>er</ex> allt Serkl<ex>a</ex>nd, o<ex>k</ex> f<ex>ieck</ex> si<ex>er</ex> 
+                                d<ex>ro</ex>ttning<ex>ar</ex> dott<ex>ur</ex> k<ex>onungs</ex> af Bläl<ex>a</ex>ndi, 
+                                g<ex>a</ex>f h<ex>an</ex>n þä r<ex>ikid</ex> Jo᷎k<ex>li</ex> föstbr<ex>odu</ex>r 
+                                sijn<ex>um</ex> j valld o<ex>k</ex> þ<ex>ar</ex> m<ex>ed</ex> k<ex>onungs</ex> nafn<ex>n</ex>. 
+                                St<ex>ijr</ex>di Jo᷎k<ex>ull</ex> r<ex>ijki</ex> sij<ex>no</ex> t<ex>il</ex> daudadags, 
+                                ätti h<ex>an</ex>n m<ex>or</ex>g b<ex>o᷎r</ex>n m<ex>ed</ex> d<ex>ro</ex>ttn<ex>ningu</ex> 
+                                sin<ex>n</ex>e M<ex>arcibil</ex> töko þau R<ex>ik</ex>döm o<ex>k</ex> r<ex>ied</ex> eptter han<ex>n</ex>, 
+                                o<ex>k</ex> lijkur suo þ<ex>es</ex>s<ex>um</ex> þæ̈tte af 
+                                <highlight>Jo᷎kle Bwa sijne</highlight>
+                            </explicit>
+                            <note>
+                                The chapter headings (<q>I Cap:</q> with the rubric, and II–V throughout, placed in the margins) 
+                                are added in light watery ink by a later hand; the original scribe Magnús Þórólfsson uses higher level 
+                                of script to indicate section breaks but does not label them chapters, possibly because it is a shorter 
+                                þáttur rather than a saga. Pagination starts at 1 again at the beginning of this text and appears to be 
+                                in the same watery ink as the chapter headings.
+                            </note>
+                        </msItem>
+                        <msItem n="7">
+                            <locus from="52r" to="73r">52r–73r</locus>
+                            <title>Harðar saga og Hólmverja</title>
+                            <rubric>
+                                Sagan<ex>n</ex> Af Haurde og han<ex>n</ex>s Fijlgurum<ex>m</ex> þeim hölmverium<ex>m</ex>
+                            </rubric>
+                            <rubric>I C<ex>a</ex>p<ex>itul</ex>e</rubric>
+                            <incipit>
+                                <highlight>A Daügüm<ex>m</ex> Haralldz hins</highlight> härfagra Bijgdist 
+                                mest Jsland þ<ex>a</ex>t men<ex>n</ex> þoldo er ä naud ha<ex>n</ex>ns o<ex>k</ex> ofrijke, 
+                                einkan<ex>n</ex>le<ex>e</ex>ga þ<ex>eir</ex>ra s<ex>e</ex>m v<ex>oru</ex> storrar 
+                                ættar o<ex>k</ex> m<ex>ik</ex>illrar lundar en<ex>n</ex> attu göda kosti, 
+                                o<ex>k</ex> villdu þuj helldur flija eign<ex>n</ex>er sijnar o<ex>k</ex> ödul, 
+                                en<ex>n</ex> þola ä gang o<ex>g</ex> ojafn<ex>n</ex>ad, ei helldr konge 
+                                en<ex>n</ex> o᷎drum<ex>m</ex> m<ex>onnu</ex>m, ein<ex>n</ex> af 
+                                þ<ex>ei</ex>m var Bio᷎rn<ex>n</ex> Gullberi Han<ex>n</ex> för ur Orkna dal til Jslands, 
+                                o<ex>k</ex> nam Reÿkia dal en<ex>n</ex> sidra, 
+                                frä Grijms ä til Flökadals Aar ok biö ä Gullbera sto᷎dum<ex>m</ex>.
+                            </incipit>
+                            <explicit>
+                                Seiger o<ex>k</ex> suo Stirmer prestur hin<ex>n</ex> fröde, 
+                                ad h<ex>onu</ex>m þiker han<ex>n</ex> j frekara gillde v<ex>er</ex>id hafa 
+                                af sekum<ex>m</ex> m<ex>onnu</ex>m saker vitsku vopn<ex>n</ex> fime o<ex>k</ex> allrar atgio᷎rf, 
+                                hin<ex>n</ex>s o<ex>k</ex> an<ex>n</ex>ars ad h<ex>an</ex>n var j o᷎drum<ex>m</ex> lo᷎ndum<ex>m</ex> suo vel 
+                                virdtur, ad jallin<ex>n</ex> ä Gautlande giptte h<ex>onu</ex>m dottur sijna, þ<ex>es</ex>s 
+                                hin<ex>n</ex>s þridia ad eptter onguan<ex>n</ex> tekan<ex>n</ex> man<ex>n</ex> hefur ja
+                                f<ex>n</ex> margur madur j hefnd drepin<ex>n</ex> v<ex>er</ex>id sem eptter 
+                                haurd, o<ex>k</ex> vrdu þ<ex>ei</ex>r aller utlæger o<ex>k</ex> vgill
+                                der gio᷎rder, ok lijkur suo so᷎gun<ex>n</ex>e af 
+                                Haurde Grijmk<ex>e</ex>lssijne ok 
+                                þeim Holmverium<ex>m</ex>.
+                            </explicit>
+                            <note>
+                                Pagination starts at 1 again at the beginning of this text.
+                            </note>
+                            <note>
+                                In the incipit between <q>härfagra</q> and <q>Bijgdist</q> is an insertion mark, and in the right margin is a note in the original scribe's hand: 
+                                <q><highlight type="underline">Anno 858.</highlight> | vp<ex>p</ex> haf Rijki | harallds k<ex>ongs</ex> | j Nor<ex>e</ex>ge.</q>
+                            </note>
+                            <note>40 chapters, in Roman numerals.</note>
+                        </msItem>
+                        <msItem n="8">
+                            <locus from="74r" to="84r">74r–84r</locus>
+                            <title>Hrafnkels saga</title>
+                            <rubric>
+                                Hier Bÿriast Sagan<ex>n</ex> Af Hraffn<ex>n</ex>kiele Er kallast edur var Freijs-Goþe
+                            </rubric>
+                            <rubric>I C<ex>a</ex>p<ex>itul</ex>e</rubric>
+                            <incipit>
+                                <highlight>A Daugum<ex>m</ex> Harallds kongz</highlight> hin<ex>n</ex>s Härfagra, 
+                                Halffdanar sonar hin<ex>n</ex>s suartta, Goþraudssonar veide kongs, 
+                                Halfdänar sonar hin<ex>n</ex>s m<ex>ik</ex>la o<ex>k</ex> matar Jlla, 
+                                Eÿsteins sonar freijs, Olaffssonar tretelgiu Svija kongs, kom sä madur skipe sijnu til Jslands 
+                                er Hallfredur h<ex>ie</ex>t, j Breiddal, þad er fijrer nedan<ex>n</ex> Fliots dals hierad, 
+                                þar var ä skipe kona han<ex>n</ex>s o<ex>k</ex> sonur 
+                                er <highlight>Hraffnkiell</highlight> h<ex>ie</ex>t Han<ex>n</ex> var þä xv. vetra gamall, 
+                                man<ex>n</ex>væn<ex>n</ex>, o<ex>k</ex> gio᷎rvil<ex>e</ex>gur.
+                            </incipit>
+                            <explicit>
+                                En<ex>n</ex> h<ex>rafn</ex>k<ex>iell</ex> sat j Büe sijno o<ex>k</ex> hiellt 
+                                virdin<ex>n</ex>go sin<ex>n</ex>e til daudadags, han<ex>n</ex> vard sött daudr 
+                                o<ex>k</ex> er haugr han<ex>n</ex>s j hrafn<ex>n</ex>k<ex>iel</ex>lsdal utf<ex>ra</ex> 
+                                Adalböle, var lægid j haug hiä h<ex>onu</ex>m m<ex>ik</ex>id fee, herklædi h<ex>a</ex>ns o᷎ll o<ex>k</ex> 
+                                spiöt han<ex>n</ex>s hid goþa. Sijner h<ex>an</ex>s töku vid m<ex>anna</ex> forræde eptt
+                                er han<ex>n</ex>, o<ex>k</ex> biö þörer ad Hrafn<ex>n</ex>kelsto᷎d um<ex>m</ex> en<ex>n</ex> Asbio᷎rn<ex>n</ex> ä 
+                                Adalböle, ättu þ<ex>ei</ex>r bäder Goþordid sama<ex>n</ex> o<ex>k</ex> þöttu m<ex>ik</ex>
+                                ler men<ex>n</ex> fijrer sier. Lijkur hier suo so᷎g
+                                un<ex>n</ex>e af <highlight>Hraffn<ex>n</ex>kiele fre
+                                ijs-Goþa</highlight>
+                            </explicit>
+                            <note>16 chapters, in Roman numerals.</note>
+                        </msItem>
+                        <msItem n="9">
+                        <locus from="84v" to="104r">84v–104r</locus>
+                            <title>Gísla saga</title>
+                            <rubric>
+                                Sagan<ex>n</ex> Aff Gijsla Sürssijne og Þeim Sijrdælum<ex>m</ex> fleijrum<ex>m</ex> Audrum<ex>m</ex>
+                            </rubric>
+                            <rubric>I C<ex>a</ex>p<ex>itul</ex>e</rubric>
+                            <incipit>
+                                <highlight>Þad Er Wpphaff Saugu Þess</highlight>rar ad hakon kongar Adal steins 
+                                föstre Ried f<ex>yrer</ex> norege o<ex>k</ex> var þetta ä ofan<ex>n</ex> 
+                                v<ex>er</ex>dum han<ex>n</ex>s do᷎gum<ex>m</ex> ad madur n<ex>ocku</ex>r 
+                                var þorkiell nefndur o<ex>k</ex> var kalladr Skiers auke, han<ex>n</ex> biö j Svijna dal, 
+                                o<ex>k</ex> var hersir ad nafn<ex>n</ex>bót, o<ex>k</ex> ätti sier þä konu er 
+                                Jsgierdur hiet o<ex>k</ex> vid h<ex>en</ex>ne iij sonu, hiet ein<ex>n</ex> Are, 
+                                an<ex>n</ex>ar Gijsle þridie þorbio᷎rn<ex>n</ex> han<ex>n</ex> var þ<ex>eir</ex>ra 
+                                jngstur o<ex>k</ex> vxu vp<ex>p</ex> aller heima.
+                            </incipit>
+                            <explicit>
+                                Geijrm<ex>undun</ex>dr var eptter j norege ok kuongadist o<ex>k</ex> vard vel ad þroska. Sijster han<ex>n</ex>s Goþfrijdur
+                                var man<ex>n</ex>e giefin<ex>n</ex> o<ex>k</ex> þötti skijr kona o<ex>k</ex> eru marger m<ex>enn</ex>
+                                frä hen<ex>n</ex>e komner. Are Sürsson för til Jsla
+                                nds o<ex>k</ex> kom ut j Hvijt Aa, h<ex>an</ex>n sellde skipid 
+                                o<ex>k</ex> keiptte land ad hamre o<ex>k</ex> biö þar n<ex>ock</ex>ra 
+                                vetr, vijda hefur han<ex>n</ex> büid ä mijr<ex>um</ex> 
+                                o<ex>k</ex> e<ex>ru</ex> m<ex>ik</ex>ler men<ex>n</ex> frä h<ex>onu</ex>m komner. 
+                                Lükum<ex>m</ex> vi<ex>er</ex> so Sogun<ex>n</ex>e af 
+                                Gijsla Sürssijne ok 
+                                þeim Sijrdæl
+                                um
+                            </explicit>
+                            <note>36 chapters, in Roman numerals.</note>
+                        </msItem>
+                        <msItem n="10">
+                            <locus from="104v" to="117r">104v–117r</locus>
+                            <title>Króka-Refs saga</title>
+                            <rubric>
+                                Hier bijriast Lijfsaga hin<ex>n</ex>i Kijnd
+                                uga kröka-Refs, huor ed Jn<ex>n</ex>ehelldur aull han<ex>n</ex>s 
+                                mord ok man<ex>n</ex>lega gio᷎rn<ex>n</ex>inga, hagleijk, vit
+                                sku ok hrödrarmijde, saman<ex>n</ex>sett af 
+                                frödur fræde mo᷎n<ex>n</ex>um<ex>m</ex>
+                            </rubric>
+                            <rubric>I C<ex>a</ex>p<ex>itul</ex>e</rubric>
+                            <incipit>
+                                <highlight>A Daugium<ex>m</ex> häkonar kongz Adal</highlight>steins 
+                                föstara Biö uta Jslande J freijda firde ä bæ̈ þeim er kuen<ex>n</ex>a brecka 
+                                heiter madr sä er Steirn<ex>n</ex> hiet, kona han<ex>n</ex>s hiet þorgierdr 
+                                hun var oddleijfs dötter sijster Giests ä Barda stro᷎nd. Stein<ex>n</ex> var 
+                                audugur madur o<ex>k</ex> vel metin<ex>n</ex> en<ex>n</ex> þö alldradur. 
+                                Son ättu þau sier er <highlight>Refur</highlight> hiet
+                           </incipit>
+                            <explicit>
+                                En<ex>n</ex> þ<ex>ei</ex>r Steirn<ex>n</ex> o<ex>k</ex> bio᷎rn<ex>n</ex> 
+                                v<ex>oru</ex> m<ex>ed</ex> Sueine k<ex>on</ex>ge L<ex>ei</ex>nge, 
+                                o<ex>k</ex> virdtte h<ex>an</ex>n þä m<ex>ick</ex>ilz 
+                                suo h<ex>an</ex>n fi<ex>eck</ex> þ<ex>ei</ex>m go᷎fug kuonføng i danmo᷎rk, 
+                                ok stadfestust þeijr þar bäder, þötta þ<ex>ei</ex>r v<ex>er</ex>u ägiæter men<ex>n</ex>,
+                                aff Steine Reffs syne var komin<ex>n</ex> Absalon, er var Erche
+                                Biskup<ex>p</ex> vm<ex>m</ex> daga Valldemars köngs knutßonar.
+                                En<ex>n</ex> þörmödur son Reffs för til Jsl<ex>a</ex>nds epter 
+                                fall harallds k<ex>ongs</ex> tök h<ex>an</ex>n vid Lande at
+                                kuen<ex>n</ex>abrecku, o<ex>k</ex> kuændist v̈t ä Jsl<ex>a</ex>ndj 
+                                er þar margtt gófugra m<ex>anna</ex> frä 
+                                h<ex>onu</ex>m komid, o<ex>k</ex> Lüku<ex>m</ex> vi<ex>er</ex> suo 
+                                Kröka-Reffs so᷎go 
+                                o<ex>k</ex> sona h<ex>a</ex>ns.
+                            </explicit>
+                            <note>14 chapters, in Roman numerals.</note>
+                            <note>The last two pages (116v, l. 2–117r) are copied by another scribe.</note>
+                        </msItem>
+                        <msItem n="11">
+                            <locus from="117v" to="125r">117v–125r</locus>
+                            <title>Gunnars saga Keldugnúpsfífls</title>
+                            <rubric>
+                                Sagan<ex>n</ex> Aff Gun<ex>n</ex>are þeim Er Kalladur var Kielldugnups fijfl
+                            </rubric>
+                            <rubric>I C<ex>a</ex>p<ex>itul</ex>e</rubric>
+                            <incipit>
+                                <highlight>Þorgrijmur hiet Madur Han<ex>n</ex> biö þar</highlight> sem nü heiter ä Ho᷎rgslande: 
+                                han<ex>n</ex> var kuongadur madur o<ex>k</ex> ätte ij sonu vid kono sin<ex>n</ex>e, 
+                                hiet an<ex>n</ex>ar Grijmr en<ex>n</ex> an<ex>n</ex>ar þörstein<ex>n</ex>, 
+                                þ<ex>ei</ex>r voru bäder vdæ̈ler o<ex>k</ex> vp<ex>p</ex>i vo᷎dslo m<ex>enn</ex> m<ex>ik</ex>ler, 
+                                þar med hiner mesto vjafn<ex>n</ex>adar m<ex>enn</ex> vm<ex>m</ex> allt þad er þ<ex>ei</ex>r 
+                                mättu Helga hiet sijster þ<ex>eir</ex>ra, hun var væn kona o<ex>k</ex> kurteijs, 
+                                suo ad ei þötti þar j sueijtum v<ex>er</ex>a betre kuen<ex>n</ex>kostur.
+                            </incipit>
+                            <explicit>
+                                so sk<ex>al</ex> v<ex>er</ex>a s<ex>agde</ex> þ<ex>or</ex>d<ex>is</ex> 
+                                o<ex>k</ex> eppt<ex>er</ex> b<ex>rodu</ex>r min<ex>n</ex> þren<ex>n</ex> 
+                                m<ex>ann</ex>gio᷎lld, ad þ<ex>es</ex>su sætt<ex>er</ex> þ<ex>au</ex> 
+                                o<ex>k</ex> lauk G<ex>unnar</ex> þ<ex>e</ex>g<ex>ar</ex> allt fed, 
+                                v<ex>oru</ex> þ<ex>essu</ex> sijþ<ex>a</ex>n vin<ex>er</ex>, 
+                                þöttu þ<ex>ei</ex>r b<ex>rædu</ex>r vp<ex>p</ex> f<ex>ra</ex> 
+                                þ<ex>ar</ex> hin<ex>er</ex> besto m<ex>enn</ex> v<ex>er</ex>a, 
+                                er f<ex>ra</ex> þ<ex>at</ex> ko<ex>m</ex>in<ex>n</ex> m<ex>ik</ex>il 
+                                æ̈tt o<ex>k</ex> m<ex>ann</ex> vænl<ex>e</ex>g<ex>as</ex>t folck. 
+                                Lijkr so s<ex>o᷎gu</ex> af Gun<ex>n</ex>ari k<ex>ielldugnups</ex> f<ex>ijfl</ex>
+                            </explicit>
+                            <note>14 chapters, in Roman numerals.</note>
+                        </msItem>
+                        <msItem n="12">
+                            <locus from="125v" to="139r">125v–139r</locus>
+                            <title>Víglundar saga</title>
+                            <rubric>
+                                Sagan<ex>n</ex> Aff Wijglunde Wæ̈na
+                            </rubric>
+                            <rubric>I C<ex>a</ex>p<ex>itul</ex>e</rubric>
+                            <incipit>
+                                <highlight>Haralldur hin<ex>n</ex> härfagre War</highlight> son halfdanar Suartta, 
+                                han<ex>n</ex> var þä einvalldz kongur ijfer norege er Saga þ<ex>es</ex>se gio᷎rdist, 
+                                h<ex>an</ex>n tök vngur kongdöm, Haralldr var allra man<ex>n</ex>a vitrastr 
+                                o<ex>k</ex> velbüin<ex>n</ex> ad o᷎llum<ex>m</ex> jþröttum<ex>m</ex> 
+                                þeim er kongs tign bijriade, han<ex>n</ex> hafde m<ex>ik</ex>la hird vm<ex>m</ex> 
+                                sig o<ex>k</ex> valde þar til hina ägiætustu men<ex>n</ex>, þö er reinder voru ad 
+                                hardfeingne o<ex>k</ex> mo᷎rgum<ex>m</ex> frægdar v<ex>er</ex>kum<ex>m</ex>,
+                            </incipit>
+                            <explicit>
+                                Eptter þad för huor heim til sijns heimilis, vndu<ex>m</ex> þau vijgl<ex>undur</ex> o<ex>k</ex> k<ex>ie</ex>t<ex>il</ex>r<ex>ijdur</ex> 
+                                allvel sijnu räde ok biuggu ad fosse eppter Hölm<ex>kiel</ex> B<ex>onda</ex> faudur Kietilr
+                                ijdar, en<ex>n</ex> Gun<ex>n</ex>laugur oflate o<ex>k</ex> Sigurdur broder h<ex>a</ex>ns foru ut<ex>an</ex> 
+                                ok stad festust j norege. Trauste biö ad Jngiallds höle ep
+                                tter fo᷎dr sin<ex>n</ex> þörgrijm prüda. ok lickttar hier 
+                                nu so᷎guna af Vijglunde hinum<ex>m</ex> 
+                                væ̈na
+                            </explicit>
+                            <note>25 chapters, in Roman numerals.</note>
+                        </msItem>
+                        <msItem n="13">
+                            <locus from="139v" to="165r">139v–165r</locus>
+                            <title>Finnboga saga</title>
+                            <rubric>
+                                Sagan<ex>n</ex> Aff Fin<ex>n</ex>boga Rama
+                            </rubric>
+                            <rubric>I C<ex>a</ex>p<ex>itul</ex>e</rubric>
+                            <incipit>
+                                <highlight>Asbiørn<ex>n</ex> hiet Madur og War</highlight> kalladur dette äs, 
+                                han<ex>n</ex> var Gun<ex>n</ex>biarn<ex>n</ex>arson Aunguls m<ex>ik</ex>ill 
+                                madr ok sterckur, o<ex>k</ex> hin<ex>n</ex> vænste, 
+                                han<ex>n</ex> bio j flat eijardal ä fæ̈ þeim sem ä Eijre hiet, 
+                                han<ex>n</ex> var kuo᷎ngadur m<ex>adur</ex> o<ex>k</ex> ätte þorgierde 
+                                döttur þorgeijrs Liös vetn<ex>n</ex>inga goda, hun var kuen<ex>n</ex>a 
+                                vænst o<ex>k</ex> skorungur m<ex>ik</ex>ill, var þä rijke þorg<ex>ei</ex>rs 
+                                faudr h<ex>en</ex>nar sem mest o<ex>k</ex> sona han<ex>n</ex>s.
+                            </incipit>
+                            <explicit>
+                                Gun<ex>n</ex>bio᷎rn<ex>n</ex> fin<ex>n</ex>boga son kom alldre til Jslands, 
+                                gio᷎rdist han<ex>n</ex> rijkur madr j norege o<ex>k</ex> gio᷎rdist þar m<ex>ik</ex>il saga frä honum<ex>m</ex>. Fin<ex>n</ex>boge vn<ex>n</ex>e
+                                Berge mest allra sona sin<ex>n</ex>a o<ex>k</ex> var þad af äst þ<ex>eir</ex>re er
+                                han<ex>n</ex> hafde haftt ä Berg hinum<ex>m</ex> Racka frænda
+                                sijnum, biö han<ex>n</ex> ä fin<ex>n</ex>boga stódum<ex>m</ex> eptter 
+                                faudur sin<ex>n</ex>, enda Lükum<ex>m</ex> vier hier 
+                                nü so᷎gun<ex>n</ex>e af <highlight>fin<ex>n</ex>boga</highlight> 
+                                hinum<ex>m</ex> <highlight>Rama</highlight>
+                            </explicit>
+                            <note>36 chapters, in Roman numerals.</note>
+                        </msItem>
+                        <msItem n="14">
+                            <locus from="165v" to="186v">165v–186v</locus>
+                            <title>Víga-Glums saga</title>
+                            <rubric>
+                                Sagan<ex>n</ex> Aff Wijga Glüm
+                            </rubric>
+                            <rubric>I C<ex>a</ex>p<ex>itul</ex>e</rubric>
+                            <incipit>
+                                <highlight>Jngialldur hiet Madur Son</highlight> helga hin<ex>n</ex>s magra, 
+                                han<ex>n</ex> biö ad þuer Aa j Ey<ex>ja</ex> firde, han<ex>n</ex> var 
+                                forn<ex>n</ex> godords madr o<ex>k</ex> ho᷎fdinge m<ex>ik</ex>ill o<ex>k</ex> 
+                                þä alldradur er saga þesse gio᷎rdist, han<ex>n</ex> var kuo᷎ngadur madr o<ex>k</ex> 
+                                ätte ij sono Steirnolf o<ex>k</ex> Eijolf, þ<ex>ei</ex>r v<ex>oru</ex> bäder 
+                                vel man<ex>n</ex>ader o<ex>k</ex> frijder sijnum<ex>m</ex>,
+                                Jngialldur var einlindr o<ex>k</ex> fälätur, vdæll o<ex>k</ex> fast tækur,
+                            </incipit>
+                            <explicit>
+                                o<ex>k</ex> var Glumur þar jardadur o<ex>k</ex> suo Mär þä er han<ex>n</ex> andadist 
+                                ok margtt an<ex>n</ex>ara man<ex>n</ex>a, þujat Langa hrijd var eingin<ex>n</ex> kirkia j Ho᷎rgärdal nema
+                                sü ein, þat er mäl man<ex>n</ex>a, ad Glumur hafe verid xx. vetur mestr
+                                ho᷎fþinge j Eijafirde, en<ex>n</ex> adra xx. vetur onguer meir en<ex>n</ex> til
+                                jafns vid han<ex>n</ex>, þad er ok mäl man<ex>n</ex>a ad Glumur hafe 
+                                verid best vm<ex>m</ex> sig all margra man<ex>n</ex>a sem hier hafa 
+                                verid ä Lande. ok endast hier suo Sagan<ex>n</ex> af 
+                                Vijga Glüme Eijolfssijne
+                            </explicit>
+                            <note>28 chapters, in Roman numerals.</note>
+                        </msItem>
+                        <msItem n="15">
+                            <locus from="187r" to="211v">187r–211v</locus>
+                            <title>Reykdæla saga (ok Víga-Skutu)</title>
+                            <rubric>
+                                Saga Aff Vemünde Og Vijga-Sküta
+                            </rubric>
+                            <rubric>1 C<ex>a</ex>p<ex>itul</ex>e</rubric>
+                            <incipit>
+                                <highlight>Þörsteirn<ex>n</ex> ho᷎fde hiet madur han<ex>n</ex></highlight> biö ä hordalande, 
+                                o<ex>k</ex> var h<ex>an</ex>n fader þ<ex>eir</ex>a Eijvindar ok Kietils hin<ex>n</ex>s ho᷎rska. 
+                                þat var eitt sin<ex>n</ex> j tale þ<ex>eir</ex>ra b<ex>rædra</ex> at Eivindur kuadst heij<ex>ra</ex> 
+                                gott af Jslande sagtt o<ex>k</ex> fijste brodr sin<ex>n</ex> kietil til Jslands ferdur med sier Eptter 
+                                andlät faudr sijns, Kietill villde ei fara en<ex>n</ex> bad Eivind suo vijdt nema land at þ<ex>ei</ex>m 
+                                in<ex>n</ex>ist bädum<ex>m</ex> til vel, ef h<ex>onu</ex>m lijkudu þar lands koster,
+                            </incipit>
+                            <explicit>
+                                o<ex>k</ex> þötti þorodde e<ex>ck</ex>j færi at suo bünu, Jllt þötti þ<ex>or</ex>grijmi at 
+                                starfa j þ<ex>es</ex>su þ<ex>uia</ex>t Sk<ex>uta</ex> var vel til h<ex>a</ex>ns. 
+                                þoroddr ried þ<ex>ei</ex>m Jlluga o<ex>k</ex> Birn<ex>n</ex>e at fara til Aulviss 
+                                hin<ex>n</ex>s <addition resp="reader">spaka</addition>
+                            </explicit>
+                            <note>
+                                30 chapters, in Roman numerals. 
+                                The saga ends defective in chapter 30, with the lower half of fol. 211v left blank. 
+                                The final word <q>spaka</q> added by later reader in the same lighter ink as mentioned above; 
+                                he has also added several marginal notes throughout. 
+                                Following this are 3 blank leaves, which the current foliation does not take into account; 
+                                when the writing resumes, the ink 218 is struck through and folation is restarted in 
+                                pencil at 212 (instead of 215), following from the end of this saga.
+                            </note>
+                        </msItem>
+                        <msItem n="16">
+                            <locus from="215r" to="221r">215r–221r</locus>
+                            <title>Orms þáttur Stórólfssonar</title>
+                            <rubric>
+                                Sagan<ex>n</ex> Af Orme Hinum<ex>m</ex> Stercka Störolffssijne
+                            </rubric>
+                            <rubric>I C<ex>a</ex>p<ex>itul</ex>e</rubric>
+                            <incipit>
+                                <highlight>Hæ̈ngur hiet Madur son Kietilz nau<ex>m</ex></highlight> dæla, 
+                                en<ex>n</ex> möder kietils hiet Hrafn<ex>n</ex>hilldur hængur var go᷎fugur madur, 
+                                han<ex>n</ex> v<ex>ar</ex>d j miss sættum<ex>m</ex> med
+                                Harallde konge Dofra fostra af drape Hilldrijdar sona o<ex>k</ex> þuj sto᷎ck 
+                                h<ex>an</ex>n orl<ex>a</ex>nde Hængur siglde vestur jhaf atleijta Jsl<ex>a</ex>nds 
+                                þ<ex>ei</ex>r urdu vidland varer o<ex>k</ex> v<ex>oru</ex> f<ex>ijre</ex> 
+                                sun<ex>n</ex>an<ex>n</ex> ad komner sigldu vp<ex>p</ex> j Arós ein<ex>n</ex> 
+                                m<ex>ik</ex>in<ex>n</ex> o<ex>k</ex> lo᷎gdu at vid hid eijstra landit, sü ꜳ heiter <highlight>ÞiörsAa</highlight>
+                            </incipit>
+                            <explicit>
+                                Sijþ<ex>a</ex>n bad jall sin<ex>n</ex> man<ex>n</ex> tijnast vndan<ex>n</ex> 
+                                huorum<ex>m</ex> enda triesin<ex>n</ex>s, o<ex>k</ex> suo var gio᷎rtt, 
+                                þar til aller v<ex>oru</ex> undan<ex>n</ex> geingner 
+                                o<ex>k</ex> Ormur ein<ex>n</ex> stöd eptter under trienu, þä gieck han<ex>n</ex> med þat iij fet, 
+                                ok sijþan<ex>n</ex> kastade han<ex>n</ex> þuj nidur seigia men<ex>n</ex> þat at valla mune ormur samur hafa vordit 
+                                sijþ<ex>a</ex>n sem ädur. var h<ex>an</ex>n med jalle nockra vetur. för sijþ<ex>a</ex>n 
+                                ut til Jslands ok settist j Bü af Störolfs huo᷎le, ok þötti 
+                                æ̈. hin<ex>n</ex> meste madur vard h<ex>an</ex>n elledaudur o<ex>k</ex> hiellt vel 
+                                frü sijna. ok lijkur hier suo þ<ex>es</ex>sare saugu af 
+                                <highlight>Orme hinum Stercka. 
+                                Störölfssijne</highlight>
+                            </explicit>
+                            <note>11 chapters, in Roman numerals.</note>
+                        </msItem>
+                        <msItem n="17">
+                            <locus from="221v" to="237r">221v–237r</locus>
+                            <title>Kormáks saga</title>
+                            <rubric>
+                                Hier Bijria<ex>st</ex> Sagan<ex>n</ex> Af Körmäke
+                            </rubric>
+                            <rubric>I C<ex>a</ex>p<ex>itul</ex>e</rubric>
+                            <incipit>
+                                <highlight>Haralldur köngur hin<ex>n</ex> härfagre Ried</highlight> f<ex>yrer</ex> 
+                                norege þä er saga sia gio᷎rdist. J þan<ex>n</ex> tij<ex>ma</ex> var sä ho᷎fdinge j rijkino 
+                                er Körmäkur h<ex>ie</ex>t vijkverskur at ætt Rijkur o<ex>k</ex> ki<unclear>n</unclear>stör, 
+                                h<ex>an</ex>n var hin<ex>n</ex> meste garpur, o<ex>k</ex> hafde v<ex>er</ex>it med 
+                                Harallde konge j mo᷎rgum<ex>m</ex> or<ex>ustu</ex>m, han<ex>n</ex> ätte son 
+                                er Augm<ex>un</ex>dr hiet, han<ex>n</ex> var hin<ex>n</ex> efn<ex>n</ex>el<ex>e</ex>gaste 
+                                madur, snem<ex>m</ex>a m<ex>ik</ex>ill ok sterckur,
+                            </incipit>
+                            <explicit>
+                                Eptter þetta qu<ex>ad</ex>st korm<ex>akur</ex> þorgijlse brodur sijnum<ex>m</ex> giefa vilia feed o<ex>k</ex> lidid, kuádst honum<ex>m</ex> 
+                                best un<ex>n</ex>a at niöta. Sijþan<ex>n</ex> andadist han<ex>n</ex>,  en<ex>n</ex> þorgijls 
+                                ried fijrer lidino, o<ex>k</ex> var leinge j vijk
+                                ingu. ok lijkur hier suo þess
+                                are saugu af 
+                                <highlight>kormake</highlight>
+                            </explicit>
+                            <note>24 chapters, in Roman numerals.</note>
+                        </msItem>
+                        <msItem n="18">
+                            <locus from="237r" to="249r">237v–249r</locus>
+                            <title>Bandamanna saga</title>
+                            <rubric>
+                                Sagan<ex>n</ex> Af Odde Ofeijgssijne ok Þ<ex>ei</ex>m Bandamon<ex>n</ex>um<ex>m</ex>
+                            </rubric>
+                            <rubric>I C<ex>a</ex>p<ex>itul</ex>e</rubric>
+                            <incipit>
+                                <highlight>Ofeijgur hiet madur Er biö J Mid</highlight>firde, 
+                                ä þ<ex>ei</ex>m bæ̈ er ä Reijkium<ex>m</ex> h<ex>ei</ex>ter, 
+                                ha<ex>n</ex>n var Skijda son, en<ex>n</ex> möder ofeijgs h<ex>ie</ex>t Gun<ex>n</ex>laug 
+                                mod<ex>er</ex> h<ex>en</ex>nar var Jarn<ex>n</ex>gierdur dottar ofeijgs Jarngi<ex>er</ex>darsonar 
+                                nordan<ex>n</ex> or sko᷎rdum<ex>m</ex>. Ofeijgr v<ex>ar</ex> kuættr m<ex>adur</ex> h<ex>ie</ex>t þorgierdr 
+                                kona h<ex>a</ex>ns o<ex>k</ex> var Valadötter ætt stör kona o<ex>k</ex> mesta kuen<ex>n</ex>skorungur. 
+                                Ofeijgur v<ex>ar</ex> speking<ex>ur</ex> m<ex>ik</ex>ill o<ex>k</ex> hin<ex>n</ex> mesti räda gio᷎rdar madur,
+                            </incipit>
+                            <explicit>
+                                e<ex>ck</ex>j er þ<ex>es</ex>s gietid ad eptter mäl jrde um<ex>m</ex> vijg märs nie helldrum<ex>m</ex> vijg Öspaks. Oddur biö ä mel til elle ok þötti hin<ex>n</ex> mesti ä
+                                giæ̈fs madur ok eru marger Midfirdingar frä honum<ex>m</ex> 
+                                komner. Snorre kalfsson ok margtt an<ex>n</ex>ad stormen<ex>n</ex>i. 
+                                Jafn<ex>n</ex>an<ex>n</ex> sijþan<ex>n</ex> hiellst vm<ex>m</ex>ätta þ<ex>eir</ex>ra fedga med 
+                                gödre frændseme a medan<ex>n</ex> þeir lifdu bád
+                                er. ok Lijkur hier suo so᷎gun<ex>n</ex>e af 
+                                <highlight>Odde Öfeijgssijne</highlight> ok þeim 
+                                <highlight>Bandamon<ex>n</ex>um<ex>m</ex></highlight>
+                            </explicit>
+                            <note>16 chapters, in Roman numerals.</note>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="codex">Codex
+                            <supportDesc material="chart">
+                                <support>Paper</support>
+                            </supportDesc>
+                            <extent>
+                                <support_num_ffl>ii, modern</support_num_ffl>
+                                <support_num_ffl>i, contemporary</support_num_ffl>
+                                <support_num_bb>251</support_num_bb>
+                                <support_num_bfl>iii, modern</support_num_bfl>
+                            </extent>
+                            <!-- <dimensions_leaf>
+                                <height unit="mm">...</height>
+                                <width unit="mm">...</width>
+                            </dimensions_leaf>
+                            <dimensions_written>
+                                <leaf_height unit="mm">...</leaf_height>
+                                <leaf_width unit="mm">...</leaf_width>
+                            </dimensions_written>-->
+                            <watermark>
+                                Yes. Crown surrounded by a wreath.
+                            </watermark>
+                            <foliation>
+                                1. Some pagination occurs throughout the manuscript, though it does not cover every text. 
+                                There is no pagination on fols 17v–33v, 73r–84r, 117v–165r, or from 187r onwards.
+                                <list>
+                                    <ul>
+                                        <li>Fols 2r–17r: paginated in black, 1–31.</li>
+                                        <li>Fols 34r–47v: paginated in black, 1–26.</li>
+                                        <li>Fols 48r–51v: paginated in black, 1–8.</li>
+                                        <li>Fols 52r–72r: paginated in black until 61v where it is continued in red, 1–42.</li>
+                                        <li>Fols 84v–104r: paginated in red, 1–40</li>
+                                        <li>Fols 104v–117r: paginated in black, 1–26.</li>
+                                        <li>Fols 165v–186v: paginated in red, 1–43.</li>
+                                    </ul>
+                                </list>
+                            </foliation>
+                            <foliation>
+                                2. From fol. 1r onwards the leaves are foliated in pen, crossing out the pagination on the recto sides. 
+                                This foliation repeats 52 and jumps from 61 to 66.
+                            </foliation>
+                            <foliation>
+                                3. From fol. 53r onwards is a new foliation in pencil, correcting the previous foliation that repeats 52. 
+                                The new pencil foliation crosses out this incorrect earlier foliation throughout the rest of the leaves, 
+                                but skips three blank leaves at fols 212–217, resulting in an inaccurate foliation from 215 (212 in pencil) to the end.
+                            </foliation>
+                            <condition>Good.</condition>
+                        </objectDesc>
+                        <collation>
+                            The modern binding preserves an earlier, possibly original, quire structure of 22 quires, most of which are comprised of 6 bifolia each: 
+                            <list>
+                                <ul>Flyleaves: fols i–ii (modern)</ul>
+                                <ul>Flyleaves: fol. iii (contemporary)</ul>
+                                <ul>I: fols 1–8 + 9 + 10 + 11 + 12 (4 bifolia + 4 singletons)</ul>
+                                <ul>II: fols 13–22 (5 bifolia)</ul>
+                                <ul>III: fols 23–36 (7 bifolia)</ul>
+                                <ul>IV: fols 37–38 + 39 + 40–47 + 48 + 49 (5 bifolia + 1 singleton after fol. 38 + 2 singletons)</ul>
+                                <ul>V: fols 50–59 + 60 (5 bifolia + 1 singleton)</ul>
+                                <ul>VI: fols 61–72 (6 bifolia)</ul>
+                                <ul>VII: fols 73–84 (6 bifolia)</ul>
+                                <ul>VIII: fols 85–96 (6 bifolia)</ul>
+                                <ul>IX: fols 96–108 (6 bifolia)</ul>
+                                <ul>X: fols 109–120 (6 bifolia)</ul>
+                                <ul>XI: fols 121–130 (5 bifolia)</ul>
+                                <ul>XII: fols 131–136 (3 bifolia)</ul>
+                                <ul>XIII: fols 137–148 (6 bifolia)</ul>
+                                <ul>XIV: fols 149–160 (6 bifolia)</ul>
+                                <ul>XV: fols 161–170 (5 bifolia)</ul>
+                                <ul>XVI: fols 171–182 (6 bifolia)</ul>
+                                <ul>XVII: fols 183–194 (6 bifolia)</ul>
+                                <ul>XVIII: fols 195–206 (6 bifolia)</ul>
+                                <ul>XIX: fols 207–216 (5 bifolia)</ul>
+                                <ul>XX: fols 217–228 (6 bifolia)</ul>
+                                <ul>XXI: fols 229–240 (6 bifolia)</ul>
+                                <ul>XXII: fols 241 + 242 + 243–251 (5 bifolia + 1 singleton after fol. 238)</ul>
+                            </list>
+                            <p>
+                                Quire IV is of five bifolia plus a single leaf added later to the first half of the first two bifolia. 
+                                On this (modern) leaf is pasted an addition to the end of chapter 7 of Kjalnesinga saga on 
+                                the facing verso leaf (38v), on seventeenth-century paper, in Magnús Ketilsson's hand. 
+                                The note appears originally to have been inserted into the manuscript as a small extra leaf about a sixth of the full-sized leaves.
+                            </p>
+                            <p>
+                                Quire XIX is of five bifolia with three blank leaves after the defective ending of chapter 30 of Reykdæla saga (211v), at the middle of the quire. 
+                                After the three blank leaves (212–214, with old crossed-out foliation 215–217) 
+                                the next saga begins on what is foliated as 212, filling the last two leaves of the quire. 
+                                The foliation in pencil is therefore off by three after the blank leaves.
+                            </p>
+                            <p>
+                                Quire XXII is of five bifolia with a contemporary single leaf added after first leaf (242). 
+                                The quire's last two leaves are blank except for later notation on fol. 251v as described below.
+                            </p>
+                        </collation>
+                        <catchwords>
+                            Yes, throughout the manuscript, usually underlined with a flourish of 4 strokes.
+                        </catchwords>
+                        <note>
+                            The manuscript is written in black ink in a single column with 32–37 lines per page.  
+                            The title page is written in three paragraphs that each narrow to a point, line by line, 
+                            in a style similar to that of early modern printed books.
+                        </note>
+                        </physDesc>
+                        </msDesc>
+                    <handDesc>Magnús Þórólfsson</handDesc>
+                    <scope>Major</scope>
+                <handDesc>Magnús Ketilsson</handDesc>
+                <scope>Minor (mostly only corrections to the texts)</scope>
+                <decoDesc>The manuscript has a moderate level of decoration.
+                        <list>
+                            <ul>
+                                <li>
+                                    Fol. 1r: a title page in black ink with red highlights, slightly water damaged.
+                                </li>
+                                <li>
+                                    Running titles appear throughout the manuscript.
+                                </li>
+                                <li>
+                                    At the end of most texts is a swooping pen flourish in the shape 
+                                    of a <q>Z</q> with a loop to the right.
+                                </li>
+                                <li>
+                                    Flourished initials throughout the manuscript at saga beginnings. 
+                                    From fol. 117v onwards all saga opening initials are in black ink with red highlights 
+                                    (with the exception of the final one on fol. 237 in black ink only).
+                                </li>
+                                <li>
+                                    Verses are indicated with both a higher level of script like that used for headings, as well as marginal notation of either <q>v</q> 
+                                    (e.g. 52v, 54r, 69v, 71r, 91r, 127v, 132r, 136v, 137r–v, 138r–v, 185r, 186r, 214v, 215r, 219r–v, 220r–v, 241r, 245r, 246r) 
+                                    or <q>Liöd</q> (e.g. 59r–v, 71v, 215r–v, 240v, 243v, 246r).
+                                </li>
+                                <li>
+                                    Fol. 237v: flourished initial in black ink, 6 lines high.
+                                </li>
+                                <li>
+                                    Fols 9v, 187r, 215r, 221v: flourished initial in black ink (9v only) or black ink with red highlights, 7 lines high.
+                                </li>
+                                <li>
+                                    Fol. 104v: flourished initial in red ink, 8 lines high.
+                                </li>
+                                <li>
+                                    Fols 2r, 17v, 52r, 73v, 125v, 139v: flourished initial in black ink with 
+                                    red highlights (125v, 139v only) or red ink, 9 lines high.
+                                </li>
+                                <li>
+                                    Fols 34r, 48r, 117v: flourished initials in black ink with 
+                                    red highlights (117v only) or red ink, 10 lines high.
+                                </li>
+                                <li>
+                                    Fol. 84v: flourished initial in red ink, 11 lines high.
+                                </li>
+                                <li>
+                                    Fol. 165v: flourished initial in black ink with red highlights, 14 lines high.
+                                </li>
+                            </ul>
+                        </list>
+                    </decoDesc>
+                    <additions>
+                        <list>
+                            <ul>
+                                <li>
+                                    Front inside cover, bottom left corner, in pencil, <q>113.E.</q>
+                                </li>
+                                <li>
+                                    Front flyleaf i (modern), recto, stamped with shelfmark; 
+                                    the leaf is discoloured from the leather opposite.
+                                </li>
+                                <li>
+                                    Front flyleaf i (contemporary), verso, in brown pen, <q>4868</q>, bottom left corner, 
+                                    <q>CXVI.D 114C</q>, struck through.
+                                </li>
+                                <li>
+                                    Round red <q>British Museum</q> stamp with crown, in the middle of the bottom margin of 
+                                    fols 21v, 38v, 53v, 66v, 82v, 98v, 126v, 139v, 157v, 176v, 188v, 207v, 235v.
+                                </li>
+                                <li>
+                                    Fol. 1v, an <q>x</q> is set in the left margin next to two sagas in the table of contents: 
+                                    Gunnars saga Keldugnúpsfífls and Finnboga saga.
+                                </li>
+                                <li>
+                                    Fol. 251v, red rectangular <q>MUS.BRIT.</q> stamp, and at top of leaf, in dark pen, 
+                                    <q>Cons.t fo: 249. 52-52t- 62-3-4-5 Omitted</q>.
+                                </li>
+                                <li>
+                                    There is a significant amount of underlining, marginal notation, and correcting throughout the manuscript, 
+                                    by both later (e.g. 18th century) readers and later (roughly contemporary) scribes like Magnús Ketilsson.
+                                </li>
+                                <li>
+                                    Back flyleaf i (modern), verso, blank British Library slip pasted in, 
+                                    <q>Department of Manuscripts Record of Treatment, Extraction, Repair, etc. of MS no.</q>.
+                                </li>
+                            </ul>
+                        </list>
+                    </additions>
+                <bindingDesc>
+                    Modern binding. Light blue cloth. 
+                    Pasted to the inside front and back covers are older brown leather covers 
+                    stamped with floral imprints and a rectangle, possibly from the original binding.
+                </bindingDesc>
+                </sourceDesc>
+            <history>
+                <orig>
+                    <origDate>1667</origDate>
+                    <origPlace>Iceland</origPlace>
+                </orig>
+                <provenance>
+                    <persName>Magnús Jónsson í Vigur</persName> (1637–1702): Commissioner, Owner
+                    <persName>Páll Jónsson Vídalín</persName> (1667–1727; son-in-law of Magnús í Vigur): Owner
+                    <persName>Bjarni Halldórsson</persName> (1703–1773; husband of Holmfríður Pálsdóttir): Owner
+                    <persName>Ólafur Stephensen</persName> (1731–1812; associate of Joseph Banks in Iceland): Buyer/Seller
+                    <persName>Sir Joseph Banks</persName> (1743–1820): Owner
+                </provenance>
+            </history>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2017" who="SMW">Adapted from British Library records, corrected and adjusted according to own standards, and expanded in detail.</change>
+            <change when="2018" who="SMW">Checked.</change>
+            Last update: 2018-02-01
+        </revisionDesc>
+    </teiHeader>
+</TEI>

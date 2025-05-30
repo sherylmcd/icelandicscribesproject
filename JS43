@@ -1,0 +1,1135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Catalogue Description of National and University Library of Iceland, Reykjavík, JS 43 4to</title>
+                <respStmt>
+                    Catalogued by 
+                    <name>
+                        <persName>
+                            <forename>Sheryl</forename> 
+                            <surname>McDonald Werronen</surname>
+                        </persName>
+                        based in part on a description produced by the online catalogue <a href="http://handrit.org">Handrit.org</a> (ongoing since 2009).
+                        <orgName type="affiliation">Københavns Universitet</orgName>
+                    </name>
+                </respStmt>
+            </titleStmt>
+            
+            <publicationStmt>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+                </availability>
+                <authority>Den Arnamagnæanske Samling, København</authority>
+                <date when="2018-10-05">5 October 2018</date>
+            </publicationStmt>
+            
+            <sourceDesc>
+                <msDesc xml:id="JS43" xml:lang="en">
+                    <msIdentifier>
+                        <repository>Landsbókasafn Íslands – Háskólabókasafn</repository>
+                        <idno>JS 43 4to</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <title type="supplied">Miscellany</title>
+                        </summary>
+                        <textLang mainLang="is" otherLangs="la">Texts in Icelandic and Latin</textLang>
+                        <titlePage type="ms">
+                            <docTitle>
+                                <titlePart type="main">
+                                    <highlight>Ein 
+                                    Agiæt Nitsøm </highlight>
+                                    frödl<ex>e</ex>g, Lijsteleg, Skem<ex>m</ex>te Rijk <ex>og</ex> Artug 
+                                    <highlight>Book.</highlight>
+                                </titlePart>
+                                <titlePart type="sub">
+                                    <highlight>In<ex>n</ex>ehalldande Marg<ex>ra</ex> </highlight>
+                                    Ÿpparlegra Agiætra <ex>og</ex> Mikels
+                                    hꜳttar Man<ex>n</ex>a, Sem <ex>og</ex> an<ex>n</ex>ara Manna 
+                                    tilg<ex>r</ex>ena Æfesꜷgur, Uppruna, atgiør
+                                    fe, Vøxt Vænleik, afreks Verk <ex>og</ex> fram<ex>m</ex>far
+                                    er, Med þui fleira þar ad hnijg<ex>ur</ex>, äsamt 
+                                    þ<ex>eir</ex>ra Afdrif <ex>og</ex> endalikt. Og margt an<ex>n</ex>
+                                    ad skem<ex>m</ex>ptel<ex>e</ex>gt, hv<ex>or</ex>a Registur siaa 
+                                    mä ꜳ epterfilgiande bladsijdu, 
+                                    Þeim til gamans, skemtun<ex>ar</ex> og Efterlætes 
+                                    er slijkt helld<ex>ur</ex> gijrn<ex>ast</ex> ad lesa edur heira, si
+                                    er t<ex>il</ex> dæg<ex>ra</ex>stitting<ex>ar</ex>. Saman<ex>n</ex>teken<ex>n</ex> af Virdug
+                                    l<ex>e</ex>gu<ex>m</ex> høfdings m<ex>anne</ex> Magnuse Joonssyne 
+                                    <highlight>ad Wigur.</highlight>
+                                </titlePart>
+                            </docTitle>
+                        </titlePage>
+                        <msItem n="1">
+                            <locus from="2r" to="6r">2r–6r</locus>
+                            <title>Þáttur af Columbo</title>
+                            <author>Hans Hansson Skonning</author>
+                            <rubric>
+                                Þáttur af Columbo Vm<ex>m</ex> 
+                                han<ex>n</ex>z landa Vppleitun og 
+                                okunnar siglingar.
+                            </rubric>
+                            <incipit>
+                                ANNO CHRISTI 1429. hefur þ<ex>at</ex> tilborid ad eirn borg<ex>ar</ex> af Genua J Jtalia, hu<ex>or</ex><ex>ed</ex> v<ex>ar</ex> af þ<ex>ei</ex>ri æt, sem kallast 
+                                Columba, <ex>og</ex> hafdi l<ex>e</ex>nge þien<ex>ad</ex> J k<ex>on</ex>gsinz garde af Spanien, þ<ex>ess</ex> borg<ex>ar</ex> öskadi þiäsamliga af Spania konge
+                            </incipit>
+                            <explicit>
+                                og endast hier Columbi þättur.
+                            </explicit>
+                            <note>In the incipit, the year <q>1429</q> is crossed out and <q>1492</q> is written in the adjacent right margin.</note>
+                        </msItem>
+                        <msItem n="2">
+                            <locus from="6r" to="9r">6r–9r</locus>
+                            <title>Americi Vesputii þáttur</title>
+                            <author>Hans Hansson Skonning</author>
+                            <rubric>
+                                Americi Vesputii þꜳttur vm<ex>m</ex> 
+                                han<ex>n</ex>s siglingar og landa upp
+                                Leitun.
+                            </rubric>
+                            <incipit>
+                                ANNO. 1497. Siglde Americus Vesputius f<ex>ra</ex> Portugal m<ex>ed</ex> odrum fleÿr<ex>um</ex> vóskum m<ex>onnu</ex>m, sem firr hofdu siglt J þä <unclear>haf</unclear> <ex>og</ex> 
+                                ad <unclear>nau lite</unclear> vißu Veigins til þ<ex>eir</ex>ra ökun<ex>n</ex>u stada og plätza, þ<ex>ess</ex>ir biuggu skip upp ä sin<ex>n</ex> eigin<ex>n</ex> kost<ex>ud</ex>
+                            </incipit>
+                            <explicit>
+                                Merkte þä Vesputius 
+                                ad hiner tveir sem eÿ komu eftt<ex>ur</ex> munde ä so᷎mu leid 
+                                fored hafa, villdi þoo eÿ hefnda leita so h<ex>an</ex>n fælde e<ex>ck</ex>j 
+                                landzfoolked, sneri so heim til Spaniam 
+                                eftt<ex>ur</ex>, <ex>og</ex> kom þar 15 or. og er sijd<ex>an</ex> 
+                                meir <ex>og</ex> meir, kun<ex>n</ex>ug vrdin<ex>n</ex> leid til 
+                                þeßara sudurlanda.
+                            </explicit>
+                            <colophon>Hans Hansson Skoning.</colophon>
+                            <note>Fol. 9v is blank.</note>
+                        </msItem>
+                        <msItem n="3">
+                            <locus from="10r" to="17v">10r–17v</locus>
+                            <title>Salomons saga og Markólfs</title>
+                            <rubric>
+                                Markölffs Lijff Saga, o<ex>g</ex> Samtal þ<ex>ei</ex>r<ex>ra</ex> 
+                                Salomons k<ex>onun</ex>gs en<ex>n</ex>s vijsa.
+                            </rubric>
+                            <incipit>
+                                A daugum<ex>m</ex> þ<ex>ei</ex>m er Salomon köng<ex>ur</ex> sat J häsæte sijns fo᷎d<ex>ur</ex>z däuijds, fullur Visku og Vijsdöms, Leit h<ex>an</ex>n m<ex>ann</ex> 
+                                m<ex>ick</ex>in<ex>n</ex> J ho᷎ll sin<ex>n</ex>e s<ex>e</ex>m Nefndast Markölffur fußl<ex>e</ex>ga liötan<ex>n</ex> og öfvijd<ex>an</ex> en<ex>n</ex>
+                            </incipit>
+                            <explicit>
+                                komst suo Markölffur vr ho᷎ndu<ex>m</ex> Salomons köngs m<ex>e</ex>d Vijsa, og reijste sijdan<ex>n</ex> heim afttur til sin<ex>n</ex>a heimk<ex>o</ex>ma, 
+                                og sat þadan<ex>n</ex> af vm<ex>m</ex> kirtt, og ho᷎ffu<ex>m</ex> vier ei heirtt meira ed<ex>ur</ex> merkel<ex>e</ex>g<ex>ra</ex> Lÿkur þui hier frä 
+                                honum<ex>m</ex> ad seigia, og hans <unclear>hvidin</unclear> Nötum<ex>m</ex>.
+                            </explicit>
+                        </msItem>
+                        <msItem n="4">
+                            <locus from="18r" to="53v">18r–53v</locus>
+                            <title type="supplied">Exempla</title>
+                            <rubric>Nockur æfin<ex>n</ex> Tijr gømul.</rubric>
+                            <note>The exempla are numbered 1–43 in the margin.</note>
+                            <msItem n="4.1">
+                                <locus from="18r:2" to="18r:7">18r</locus>
+                                <incipit>
+                                    Þad var ein kuin<ex>n</ex>a er fastada vid braud <ex>og</ex> vatn fin<ex>ur</ex> Marjumeßu Magdalens, h<ex>en</ex>ne vitradest Jesu i suefna 
+                                </incipit>
+                                <explicit>
+                                    so l<ex>e</ex>nga s<ex>e</ex>m þu geimer þær hiä þier, sijd<ex>an</ex> för hun og skriftadest <ex>og</ex> hiälpadest hun.
+                                </explicit>
+                                <note>
+                                    Cf. Gering, I, XXX "Af konu einni útskriptaðri".
+                                </note>
+                            </msItem>
+                            <msItem n="4.2">
+                                <locus from="18r:8" to="18r:14">18r</locus>
+                                <incipit>
+                                    Suo seigest af eirne ku<ex>e</ex>nu er gieck Til kroßins <ex>og</ex> villde min<ex>n</ex>ast vid fæt<ex>ur</ex> ä kroßinu<ex>m</ex>,
+                                </incipit>
+                                <explicit>
+                                    kuin<ex>n</ex><ex>an</ex> su<ex>ar</ex>ade grätande so s<ex>e</ex>giande, hiälp þu mier vor he<ex>r</ex>ra. og skalltu so þar eftter holpen<ex>n</ex> vera.
+                                </explicit>
+                                <note>
+                                    Cf. Gering, I, XXXI "Af konu einni ok krossinum".
+                                </note>
+                            </msItem>
+                            <msItem n="4.3">
+                                <locus from="18r:15" to="18v:1">18r–v</locus>
+                                <incipit>
+                                    Suo seigest af jkornanu<ex>m</ex>, ad h<ex>an</ex>n ran<ex>n</ex> eftter einu<ex>m</ex> m<ex>ann</ex>a, sä m<ex>adur</ex> flijde fast vndan<ex>n</ex> fir<ex>er</ex> hrædslu saker
+                                </incipit>
+                                <explicit>
+                                    fo᷎g<ex>ur</ex> ord, og öhöfl<ex>e</ex>gtd<ex>ar</ex> en<ex>n</ex> ormuer ij. eru dagur og Nött.
+                                </explicit>
+                                <note>
+                                    Cf. Einar G. Pétursson, pp. 5–6 "The man and the honey tree".
+                                </note>
+                            </msItem>
+                            <msItem n="4.4">
+                                <locus from="18v:2" to="18v:21">18v</locus>
+                                <incipit>
+                                    Aff einu<ex>m</ex> dömanda er þ<ex>at</ex> sagt, er lo᷎g sagde yfer o᷎d<ex>rum</ex> m<ex>onnu</ex>m, ad h<ex>an</ex>n gaf jafnan<ex>n</ex> handa döma, <ex>og</ex> vægd<ex>ur</ex> lausa, 
+                                    <ex>og</ex> misjafnt r<ex>ie</ex>tta
+                                </incipit>
+                                <explicit>
+                                    <ex>og</ex> v<ex>er</ex>ed myskun sam<ex>er</ex> fir<ex>er</ex> jdu<ex>ar</ex>t b<ex>e</ex>sta, ad gud läta ej sijna störu hefnd jfer oß koma.
+                                </explicit>
+                                <note>
+                                    Cf. Einar G. Pétursson, pp. 7–9 "The tale of the hard judge".
+                                </note>
+                            </msItem>
+                            <msItem n="4.5">
+                                <locus from="18v:22" to="19r:13">18v–19r</locus>
+                                <incipit>
+                                    Leimjan<ex>ur</ex> h<ex>ie</ex>t ein<ex>n</ex> keijsare j Röm, v<ex>m</ex> hu<ex>or</ex>z d<ex>a</ex>ga ad vp<ex>p</ex>ä kom m<ex>ick</ex>ell daude, 
+                                </incipit>
+                                <explicit>
+                                    daudin<ex>n</ex> er v̈r huganu<ex>m</ex> en<ex>n</ex> trüleik<ex>ur</ex> k<ex>a</ex>n hu<ex>or</ex>ge ad fin<ex>n</ex>ast.
+                                </explicit>
+                                <note>
+                                    Cf. Einar G. Pétursson, pp. 9–11 "Of the sayings of four wise men".
+                                </note>
+                            </msItem>
+                            <msItem n="4.6">
+                                <locus from="19r:14" to="19v:9">19r–v</locus>
+                                <incipit>
+                                    Suo byri<ex>ar</ex> þ<ex>e</ex>tta æuen<ex>n</ex>tijr, ad ein<ex>n</ex> v̈ng<ex>ur</ex> m<ex>ann</ex>, <ex>og</ex> laus riddare v<ex>ar</ex> eitt 
+                                    sin<ex>n</ex> einu<ex>m</ex> sam<ex>an</ex>
+                                </incipit>
+                                <explicit>
+                                    þan<ex>n</ex>en<ex>n</ex> sueik þ<ex>e</ex>sse göde m<ex>adur</ex> fiand<ex>an</ex>, med jd<ex>ra</ex>n <ex>og</ex> g<ex>ra</ex>ta, 
+                                    er h<ex>onu</ex>m villde komed haffua med sier j heluijte.
+                                </explicit>
+                                <note>
+                                    Cf. Einar G. Pétursson, pp. 12–13 "How a man escaped the devil by penitence".
+                                </note>
+                            </msItem>
+                            <msItem n="4.7">
+                                <locus from="19v:10" to="19v:18">19v</locus>
+                                <incipit>
+                                    Eirn<ex>n</ex> m<ex>adur</ex> v<ex>ar</ex> sä er lä siuk<ex>ur</ex>, <ex>og</ex> mio᷎g so ad bana komin<ex>n</ex>, h<ex>an</ex>n sä ij. Eingla, an<ex>n</ex><ex>ann</ex> göd<ex>an</ex>, 
+                                    en<ex>n</ex> an<ex>n</ex><ex>ann</ex> Jllan<ex>n</ex>, vegande h<ex>an</ex>z Jll v<ex>er</ex>k og göd i metaskälu<ex>m</ex>
+                                </incipit>
+                                <explicit>
+                                    <ex>og</ex> þä vrdu han<ex>n</ex>s gödverk m<ex>ik</ex>lu þÿngre en<ex>n</ex> ill, <ex>og</ex> þan<ex>n</ex>en<ex>n</ex> hiälpade h<ex>an</ex>n h<ex>onu</ex>m, 
+                                    so s<ex>e</ex>m o᷎llum<ex>m</ex> o᷎drum<ex></ex>m er thil hans kalla.
+                                </explicit>
+                                <note>
+                                    Cf. Einar G. Pétursson, pp. 13–14 "How man's works are weighed in a balance".
+                                </note>
+                            </msItem>
+                            <msItem n="4.8">
+                                <locus from="19v:1" to="20r:10">19v–20r</locus>
+                                <incipit>
+                                    Aff einu<ex>m</ex> rÿku<ex>m</ex> m<ex>anne</ex> er þ<ex>ad</ex> s<ex>a</ex>gt, ad h<ex>an</ex>n sk<ex>ill</ex>de t<ex>ack</ex>a gudz Lÿkama, h<ex>an</ex>n offrade 
+                                    einu<ex>m</ex> blÿp<ex>e</ex>ninge vppä allt<ex>ar</ex>ed, suo meinande ad p<ex>re</ex>st<ex>ur</ex>in<ex>n</ex> m<ex>un</ex>de ei slÿkt thil va<ex>ra</ex> t<ex>ak</ex>a er m<ex>ar</ex>gt kiæme sam<ex>an</ex>
+                                </incipit>
+                                <explicit>
+                                    <ex>og</ex> þ<ex>ad</ex> sama berger nu afft<ex>ur</ex> ä nÿtt þ<ex>e</ex>ße m<ex>adur</ex> m<ex>ed</ex> fagnade, lofad gud firer sÿna millde og myskun<ex>n</ex>, og suo þ<ex>ei</ex>r aller er vid voru stadder.
+                                </explicit>
+                                <note>
+                                    Cf. Einar G. Pétursson, p. 14.
+                                </note>
+                            </msItem>
+                            <msItem n="4.9">
+                                <locus from="20r:11" to="21r:5">20r–21r</locus>
+                                <incipit>
+                                    Suo seigest af einu<ex>m</ex> preste er mio᷎g gott þötte ad dr<ex>eck</ex>a, <ex>og</ex> sierl<ex>e</ex>ga ä Næturn<ex>ar</ex>, 
+                                    so h<ex>an</ex>n villde sitia vp<ex>p</ex>e l<ex>ei</ex>nge, <ex>og</ex> liet sin<ex>n</ex> dr<ex>ei</ex>ng be<ex>ra</ex> sier liös
+                                </incipit>
+                                <explicit>
+                                    <ex>og</ex> hi<ex>er</ex> efft<ex>er</ex> gi<ex>or</ex>er þu gam<ex>an</ex> ad h<ex>onu</ex>m, þä syndg<ex>ar</ex> þu so mi<ex>o᷎g</ex> s<ex>e</ex>m h<ex>an</ex>n, e<ex>dur</ex> m<ex>ei</ex>r, etc.
+                                </explicit>
+                                <note>
+                                    Cf. Einar G. Pétursson, pp. 15–18 "The tale of the priest's double-candle test of what's enough drink".
+                                </note>
+                            </msItem>
+                            <msItem n="4.10">
+                                <locus from="21r:6" to="21r:24">21r</locus>
+                                <incipit>
+                                    Þad var ein<ex>n</ex> rÿk<ex>ur</ex> m<ex>adur</ex>, ad h<ex>an</ex>n trüde ei r<ex>ie</ex>tt efft<ex>er</ex> þ<ex>ui</ex> s<ex>e</ex>m h<ex>onu</ex>m b<ex>ar</ex>, 
+                                    <ex>og</ex> trüde þ<ex>ad</ex> ei ve<ex>ra</ex> holld, <ex>og</ex> blöd v<ex>or</ex>z h<ex>e</ex>r<ex>ra</ex>, er tÿdkast i meßun<ex>n</ex>e, i braudz, <ex>og</ex> vÿns lÿking.
+                                </incipit>
+                                <explicit>
+                                    <ex>og</ex> hiälpa siälfu<ex>m</ex> sier, sÿd<ex>an</ex> bet<ex>ra</ex>de h<ex>ann</ex> sig, <ex>og</ex> lifde batnanda lÿffe þadan<ex>n</ex> J frä thil enda dags.
+                                </explicit>
+                                <note>
+                                    Cf. Einar G. Pétursson, pp. 18–19 "How an unbeliever was shamed by the devil".
+                                </note>
+                            </msItem>
+                            <msItem n="4.11">
+                                <locus from="21v:1" to="21v:19">21v</locus>
+                                <incipit>
+                                    Suo seig<ex>er</ex> af einu<ex>m</ex> Klerk, ad m<ex>ed</ex> fiand<ex>an</ex>z thilstille elskade han<ex>n</ex> eina heidins m<ex>an</ex>z dött<ex>ur</ex>, en<ex>n</ex> hun villde 
+                                    ä eingin<ex>n</ex> h<ex>a</ex>nz bod lÿta, vt<ex>an</ex> m<ex>ed</ex> sijns fo᷎d<ex>ur</ex>z räde, <ex>og</ex> sagde so sÿnu<ex>m</ex> fo᷎d<ex>ur</ex> þad, ad klerk<ex>ur</ex>en<ex>n</ex> elskadj h<ex>an</ex>a
+                                </incipit>
+                                <explicit>
+                                    <ex>og</ex> h<ex>a</ex>nz dött<ex>er</ex> heirde þ<ex>et</ex>ta, ad v<ex>or</ex> h<ex>e</ex>r<ex>ra</ex> v<ex>ar</ex> so myskunsam<ex>ur</ex>, 
+                                    þ<ex>ei</ex>m s<ex>e</ex>m v<ex>or</ex>u skÿrd<ex>er</ex>, þä snerust þau bæde thil guds.
+                                </explicit>
+                                <note>
+                                    Cf. Einar G. Pétursson, pp. 20–21 "Of a clerk who loved a heathen maiden".
+                                </note>
+                            </msItem>
+                            <msItem n="4.12">
+                                <locus from="21v:20" to="22r:6">21v–22r</locus>
+                                <incipit>
+                                    V̈t ad Jörso᷎lu<ex>m</ex> skede so ordin<ex>n</ex> hl<ex>u</ex>t<ex>ur</ex>, ad ein kuin<ex>n</ex>a för J bad, en<ex>n</ex> h<ex>en</ex>n<ex>ar</ex> dött<ex>er</ex> geimde ä 
+                                    m<ex>ed</ex><ex>an</ex> h<ex>en</ex>n<ex>ar</ex> klæde, s<ex>e</ex>m þ<ex>ar</ex> er sid<ex>ur</ex> thil
+                                </incipit>
+                                <explicit>
+                                    <ex>og</ex> predikade af þ<ex>e</ex>ßu v<ex>m</ex> Engl<ex>a</ex>nd er h<ex>ann</ex> kom heim, <ex>og</ex> bad hu<ex>o᷎r</ex>n m<ex>ann</ex> v<ex>ar</ex>ast ad blöta sÿnu barne, 
+                                    ef h<ex>ann</ex> mætte þ<ex>ad</ex> fordast.
+                                </explicit>
+                                <note>
+                                    Cf. Einar G. Pétursson, pp. 21–23 "The tale of the mother who cursed her child".
+                                </note>
+                            </msItem>
+                            <msItem n="4.13">
+                                <locus from="22r:7" to="22v:3">22r–v</locus>
+                                <incipit>
+                                    Suo byri<ex>ar</ex> þetta æfen<ex>n</ex>tÿr, ad eirn<ex>n</ex> ölærd<ex>ur</ex> m<ex>adur</ex> sp<ex>ur</ex>de ein<ex>n</ex> klerk, hu<ex>or</ex> giæde væ<ex>ru</ex> i paradÿs. 
+                                    klerk<ex>ur</ex>in<ex>n</ex> s<ex>a</ex>gde, þ<ex>ar</ex> eru slÿk giæde, þ<ex>ad</ex> e<ex>g</ex> alldre sä nie heirde, nie hugsade, nie einkes m<ex>ann</ex>z hi<ex>ar</ex>ta
+                                </incipit>
+                                <explicit>
+                                    <ex>og</ex> äg<ex>ir</ex>nast slÿkt hu<ex>or</ex> effter þui s<ex>e</ex>m han<ex>n</ex> er þä thil hneigd<ex>ur</ex>, af sÿnu<ex>m</ex> lÿkanz fÿstu<ex>m</ex>.
+                                </explicit>
+                                <note>
+                                    Cf. Einar G. Pétursson, pp. 23–24 "The wolf and the swine".
+                                </note>
+                            </msItem>
+                            <msItem n="4.14">
+                                <locus from="22v:4" to="22v:12">22v</locus>
+                                <incipit>
+                                    Suo s<ex>ei</ex>g<ex>er</ex> af einu<ex>m</ex> m<ex>anne</ex> ad h<ex>an</ex>n g<ex>rie</ex>t, <ex>og</ex> sorgade störl<ex>e</ex>ga f<ex>irer</ex> sÿn<ex>ar</ex> synder, 
+                                    s<ex>e</ex>m vi<ex>er</ex> ættu<ex>m</ex> Aller ad gi<ex>or</ex>a. fiand<ex>ur</ex>n<ex>er</ex> komu t<ex>il</ex> h<ex>a</ex>nz so s<ex>ei</ex>giande
+                                </incipit>
+                                <explicit>
+                                    sÿd<ex>an</ex> huo᷎rfu þ<ex>ei</ex>r aller f<ex>rä</ex> h<ex>onu</ex>m, hier sÿn<ex>er</ex> þ<ex>ad</ex>, ad vier hliötu<ex>m</ex> aller ad gräta f<ex>irer</ex> v<ex>or</ex>ar synd<ex>er</ex>, 
+                                    m<ex>ed</ex><ex>an</ex> vi<ex>er</ex> lifu<ex>m</ex>, ed<ex>ur</ex> elleg<ex>ar</ex> sÿd<ex>ar</ex> i heluÿte.
+                                </explicit>
+                                <note>
+                                    Cf. Einar G. Pétursson, p. 25 "How certain tempting devils were vanquished".
+                                </note>
+                            </msItem>
+                            <msItem n="4.15">
+                                <locus from="22v:13" to="23r:2">22v–23r</locus>
+                                <incipit>
+                                    Þad bar suo thil s<ex>e</ex>m <highlight>S<ex>an</ex>cte Gregorj<ex>us</ex></highlight> skriff<ex>ar</ex> vm<ex>m</ex> aff eirn<ex>n</ex>e Nun<ex>n</ex>u. ad hun för thil pÿnu firer e<ex>ck</ex>j An<ex>n</ex>ad, 
+                                    en<ex>n</ex> hun talade füll<ex>e</ex>ga m<ex>ed</ex> sÿnu<ex>m</ex> mun<ex>n</ex>e, so ad þar af spilltust h<ex>en</ex>n<ex>ar</ex> fielag<ex>ar</ex>
+                                </incipit>
+                                <explicit>
+                                    S<ex>an</ex>cte Greg<ex>orius</ex> s<ex>eiger</ex> so, ad hälft h<ex>en</ex>n<ex>ar</ex> Lÿff v<ex>ar</ex> gott, en hälft Jllt f<ex>irer</ex> h<ex>en</ex>n<ex>ar</ex> ord, 
+                                    slÿk dæme v<ex>ar</ex>a oß vid ad tala fẅllega m<ex>ed</ex> v<ex>or</ex>u<ex>m</ex> mun<ex>n</ex>e.
+                                </explicit>
+                                <note>
+                                    Cf. Einar G. Pétursson, pp. 26–27.
+                                </note>
+                            </msItem>
+                            <msItem n="4.16">
+                                <locus from="23r:3" to="23r:21">23r</locus>
+                                <incipit>
+                                    Suo s<ex>ei</ex>ger aff einu<ex>m</ex> m<ex>anne</ex> ad h<ex>an</ex>n tök J vanda sin<ex>n</ex>, s<ex>e</ex>m h<ex>an</ex>n gi<ex>eck</ex> thil sæng<ex>ur</ex> sin<ex>n</ex><ex>ar</ex>, 
+                                    <ex>og</ex> reÿs vp<ex>p</ex> v̈r h<ex>en</ex>nj, ad h<ex>an</ex>n bad v<ex>or</ex>u h<ex>e</ex>r<ex>ra</ex> k<ex>ön</ex>g f<ex>irer</ex> Jwdu<ex>m</ex>, <ex>og</ex> Allre Ch<ex>ri</ex>stnen<ex>n</ex>j
+                                </incipit>
+                                <explicit>
+                                    <ex>og</ex> skriftast hreinl<ex>e</ex>ga, af o᷎llu<ex>m</ex> sÿnu<ex>m</ex> syndu<ex>m</ex>, ef h<ex>an</ex>n villde bæta sitt fir<ex>ra</ex> lÿf, so gi<ex>or</ex>de h<ex>an</ex>n, 
+                                    <ex>og</ex> lifde v<ex>e</ex>l alla sÿna d<ex>a</ex>ga, <ex>og</ex> endade v<ex>e</ex>l sitt lÿff.
+                                </explicit>
+                                <note>
+                                    Cf. Einar G. Pétursson, pp. 28–29 "How a man was delivered from purgatory for his piety".
+                                </note>
+                            </msItem>
+                            <msItem n="4.17">
+                                <locus from="23r:22" to="24r:6">23r–24r</locus>
+                                <incipit>
+                                    J eirn<ex>n</ex>re Eÿ bigdre, skede so orded æuen<ex>n</ex>tÿr, ad eirn<ex>n</ex> dr<ex>eck</ex>e eidde so᷎mu eÿ, so ad eingen<ex>n</ex> þorde ad biggia þ<ex>ar</ex> f<ex>irer</ex> h<ex>onu</ex>m, 
+                                    þ<ex>uia</ex>t h<ex>an</ex>n d<ex>ra</ex>p bæ<ex>de</ex> m<ex>enn</ex> og fienad, <ex>og</ex> Allt þ<ex>ad</ex> s<ex>e</ex>m h<ex>an</ex>n fan<ex>n</ex> vt<ex>an</ex>g<ex>ar</ex>dz
+                                </incipit>
+                                <explicit>
+                                    hi<ex>er</ex> m<ex>ei</ex>ga þr kon<ex>ur</ex> dæme af d<ex>ra</ex>ga, er Jlla hallda sin<ex>n</ex> hiusk<ex>a</ex>p, þær big<ex>g</ex><ex>ia</ex> sier böl m<ex>ed</ex> fiandanu<ex>m</ex> i heluÿte.
+                                </explicit>
+                                <note>
+                                    Cf. Einar G. Pétursson, pp. 29–34 "The tale of the adulterous wife, whose skeleton split in two".
+                                </note>
+                            </msItem>
+                            <msItem n="4.18">
+                                <locus from="24r:7" to="25r:14">24r–25r</locus>
+                                <incipit>
+                                    J einhu<ex>o᷎r</ex>iu<ex>m</ex> stad v<ex>or</ex>u ij. riddar<ex>ra</ex> er kiærl<ex>e</ex>ga elskudust sÿn ä mille, suo k<ex>ie</ex>m<ex>ur</ex>, 
+                                    ad An<ex>n</ex><ex>ar</ex> þ<ex>eir</ex><ex>ra</ex> tök sött, <ex>og</ex> Andast
+                                </incipit>
+                                <explicit>
+                                    þ<ex>ei</ex>r s<ex>e</ex>m fätæka m<ex>enn</ex> reÿfa, ed<ex>ur</ex> beria f<ex>irer</ex> vtan riett. þ<ex>uia</ex>t þiöfnad<ex>ur</ex> vill sin<ex>n</ex> Meista<ex>ra</ex> skenda, 
+                                    <ex>og</ex> f<ex>irer</ex> gi<ex>or</ex>a ut<ex>an</ex> enda.
+                                </explicit>
+                                <note>
+                                    Cf. Einar G. Pétursson, pp. 35–41 "The tale of the knight who robbed a poor man".
+                                </note>
+                            </msItem>
+                            <msItem n="4.19">
+                                <locus from="25r:15" to="25r:23">25r</locus>
+                                <incipit>
+                                    J einu<ex>m</ex> stad, er Lundün h<ex>ei</ex>t<ex>er</ex> i Engl<ex>a</ex>nde bar so t<ex>il</ex> ad ein<ex>n</ex> rÿk<ex>ur</ex> m<ex>adur</ex>, 
+                                    <ex>og</ex> An<ex>n</ex><ex>ar</ex> örÿk<ex>ur</ex> kiærdust v<ex>id</ex>, v<ex>m</ex> eitt lÿted L<ex>a</ex>nd. <ex>og</ex> þ<ex>ar</ex> f<ex>irer</ex> v<ex>ar</ex> 
+                                    þ<ex>ei</ex>m sett<ex>ur</ex> d<ex>a</ex>g<ex>ur</ex>, ad hin<ex>n</ex> rÿke m<ex>adur</ex> s<ex>kil</ex>lde eÿd suer<ex>ia</ex>
+                                </incipit>
+                                <explicit>
+                                    <ex>og</ex> þ<ex>ad</ex> þore eg ad s<ex>e</ex>g<ex>ia</ex>, ad h<ex>ann</ex> mune full Jlla fared hafa, 
+                                    j þ<ex>e</ex>ßu æfin<ex>n</ex>tÿri er y<ex>dur</ex> sÿnt, huad räng<ex>ar</ex> eÿd<ex>ur</ex> vill effter sig hafa ad Leida. Etc.
+                                </explicit>
+                                <note>
+                                    Cf. Gering, I, XXXII "Af manni einum er sór rangan eið" and Einar G. Pétursson, pp. 41–44 "Tale of the rich forswearer at a trial in London", where the tale is several lines longer than it is here.
+                                </note>
+                            </msItem>
+                            <msItem n="4.20">
+                                <locus from="25v:1" to="26r:15">25v–26r</locus>
+                                <incipit>
+                                    Suo er sagt aff tueim<ex>ur</ex> Riddur<ex>um</ex> er Mißätter Vrdu sÿn í mille, so ad hu<ex>or</ex> þ<ex>ei</ex>r<ex>ra</ex> Villde An<ex>n</ex><ex>ar</ex>z lÿff hafa, 
+                                    suo bar thil ad þ<ex>ei</ex>r fundust, <ex>og</ex> slö An<ex>n</ex><ex>ar</ex> þ<ex>ei</ex>r<ex>ra</ex> hin<ex>n</ex> J hel
+                                </incipit>
+                                <explicit>
+                                    ad Lÿknesked sk<ex>ill</ex>de kißa h<ex>an</ex>z mun<ex>n</ex>, fir<ex>er</ex> saker þ<ex>e</ex>ß ad i h<ex>an</ex>z hi<ex>ar</ex>ta v<ex>ar</ex> nu kom<ex>m</ex> m<ex>ick</ex>el bleßan.
+                                </explicit>
+                                <note>
+                                    Cf. Gering, I, XXXIII "Af tveimr riddurum" and Einar G. Pétursson, pp. 44–48 "The tale of the merciful knight, and how the crucifix kissed him".
+                                </note>
+                            </msItem>
+                            <msItem n="4.21">
+                                <locus from="26r:16" to="26v:7">26r–v</locus>
+                                <incipit>
+                                    Þad v<ex>ar</ex> eirn<ex>n</ex> m<ex>ann</ex> J Engl<ex>a</ex>nde. s<ex>e</ex>m fleÿ<ex>re</ex> Adr<ex>er</ex>, þö ad f<ex>ra</ex> þ<ex>e</ex>ßu<ex>m</ex> v<ex>er</ex>di nu s<ex>a</ex>gt helld<ex>ur</ex> 
+                                    en<ex>n</ex> o᷎d<ex>rum</ex> er tök i sin<ex>n</ex> vanda, ad gi<ex>or</ex>a Vinu<ex>m</ex> sÿnu<ex>m</ex> <ex>og</ex> nägro᷎n<ex>n</ex>u<ex>m</ex> gestabod ä hu<ex>or</ex>iu<ex>m</ex> Jölum<ex>m</ex>.
+                                </incipit>
+                                <explicit>
+                                    so glediumst Vier Ch<ex>ri</ex>stn<ex>ar</ex> säler af gödu<ex>m</ex> bænu<ex>m</ex>, er þær v<ex>er</ex>da f<ex>ra</ex>m<ex>m</ex> flutt<ex>ar</ex> sierlega de p<ex>ro</ex>fundis, og siö <ex>ps</ex>älm<ex>ar</ex>.
+                                </explicit>
+                                <note>
+                                    The final word psalmar is written with the Greek letter ψ (psi) to abbreviate ps- instead of using the Icelandic word salmar.
+                                </note>
+                                <note>
+                                    Cf. Gering, I, XXXIV "Frá einum dauðum manni er kom til veizlu" and Einar G. Pétursson, p. 49 "Fra einum manni".
+                                </note>
+                            </msItem>
+                            <msItem n="4.22">
+                                <locus from="26v:8" to="27r:15">26v–27r</locus>
+                                <incipit>
+                                    Þad er sagt af einu<ex>m</ex> rÿkium<ex>m</ex> m<ex>anne</ex>, <ex>og</ex> m<ex>ick</ex>el hæfu<ex>m</ex>, n<ex>ock</ex>ud f<ex>ra</ex>m<ex>m</ex> ferdugu<ex>m</ex> thil lÿkaml<ex>e</ex>g<ex>ra</ex> hluta, 
+                                    s<ex>e</ex>m e<ex>g</ex> hirde ei f<ex>ra</ex> ad s<ex>e</ex>g<ex>ia</ex>, en<ex>n</ex> e<ex>ck</ex>j so g<ex>ud</ex> hrædd<ex>um</ex> s<ex>e</ex>m ve<ex>ra</ex> sk<ex>il</ex>de, s<ex>e</ex>m vær e<ex>rum</ex> fleira
+                                </incipit>
+                                <explicit>
+                                    <ex>og</ex> lofade gud af o᷎llu hi<ex>ar</ex>ta f<ex>yrer</ex> þ<ex>e</ex>ßa sÿn, <ex>og</ex> aller þ<ex>ei</ex>r er in<ex>n</ex>e v<ex>or</ex>u, 
+                                    f<ex>yrer</ex> so däsaml<ex>e</ex>g<ex>an</ex> <ex>og</ex> fäheird<ex>an</ex> atburd.
+                                </explicit>
+                                <note>
+                                    Cf. Gering, I, XXXV "Af einum sjúkum manni ok Kristi" and Einar G. Pétursson, pp. 50–51 "Fra rika manni".
+                                </note>
+                            </msItem>
+                            <msItem n="4.23">
+                                <locus from="27r:16" to="28r:18">27r–28r</locus>
+                                <incipit>
+                                    Suo s<ex>ei</ex>ger af einu<ex>m</ex> p<ex>re</ex>sta v̈t J Lo᷎ndin<ex>n</ex>, þ<ex>ei</ex>m er eina kuin<ex>n</ex>u hiellt hiä sier d<ex>a</ex>gl<ex>e</ex>ga, 
+                                    so sem sÿna eigin<ex>n</ex> konu, <ex>og</ex> o᷎ngu<ex>an</ex> tÿma f<ex>yrer</ex> battst h<ex>ann</ex> sin<ex>n</ex> vilia m<ex>ed</ex> h<ex>en</ex>nj ad gi<ex>or</ex>a
+                                </incipit>
+                                <explicit>
+                                    en<ex>n</ex> þ<ex>ad</ex> hefe e<ex>g</ex> heirt s<ex>a</ex>gt f<ex>yrer</ex> satt, ad einge meist<ex>ar</ex>e væ<ex>re</ex> so göd<ex>ur</ex>, 
+                                    þö ad h<ex>ann</ex> væ<ex>re</ex> so vÿs s<ex>e</ex>m Salomon, <ex>og</ex> so v<ex>e</ex>l talad<ex>ur</ex> s<ex>e</ex>m Aaron, 
+                                    <ex>og</ex> lifde t<ex>il</ex> þ<ex>e</ex>ß h<ex>ann</ex> væ<ex>re</ex> þusund ära gamall, þä kyn<ex>n</ex>a h<ex>ann</ex> þö ei ad tala af þ<ex>eir</ex>re sorg <ex>og</ex> pÿnu, 
+                                    er p<ex>re</ex>st<ex>ar</ex> þ<ex>ei</ex>r sk<ex>ul</ex>u hafa, er Lig<ex>g</ex>ia, <ex>og</ex> fa<ex>ra</ex> äfram<ex>m</ex> J Laun losa og saurlÿffe.
+                                </explicit>
+                                <note>
+                                    Cf. Gering, I, XXXVI "Frá prestakonu er tekin varð af djöflunum" and Einar G. Pétursson, pp. 51–56 "Fra einum presti".
+                                </note>
+                            </msItem>
+                            <msItem n="4.24">
+                                <locus from="28r:19" to="29r:1">28r–29r</locus>
+                                <incipit>
+                                    Aff eirn<ex>n</ex>re kuin<ex>n</ex>u ögiffter er þ<ex>ad</ex> s<ex>a</ex>gt, ad mille An<ex>n</ex>a<ex>ra</ex> hl<ex>u</ex>ta, þä fordadest hun mi<ex>ok</ex> saur lifnad
+                                </incipit>
+                                <explicit>
+                                    hu<ex>or</ex>su gude er þ<ex>ad</ex> þægel<ex>e</ex>gt, ad vi<ex>er</ex> skrifftumst <!-- 29r --> rækil<ex>e</ex>ga af o᷎llu<ex>m</ex> v<ex>or</ex>u<ex>m</ex> syndu<ex>m</ex>, 
+                                    <ex>og</ex> lein<ex>am</ex> e<ex>ck</ex>j m<ex>ed</ex> illuil<ex>ia</ex>, þ<ex>ui</ex> er vi<ex>er</ex> munu<ex>m</ex> ad s<ex>ei</ex>g<ex>ia</ex>.
+                                </explicit>
+                                <note>
+                                    Cf. Gering, I, XXXVII "Af konu úgiptri er drap barn sitt" and Einar G. Pétursson, pp. 57–59 "How a woman's hand was cleared from the stains of blood".
+                                </note>
+                            </msItem>
+                            <msItem n="4.25">
+                                <locus from="29r:2" to="29v:8">29r–v</locus>
+                                <incipit>
+                                    Bröd<ex>ur</ex> n<ex>ock</ex>ur Af p<ex>re</ex>dika<ex>ra</ex> Lifnade, tök k<ex>ra</ex>nkleika v̈t i b<ex>or</ex>gin<ex>n</ex>e bolonja. þ<ex>e</ex>ße same bröd<ex>ur</ex> sÿndest Lastu<ex>ar</ex>l<ex>e</ex>ga Lifa
+                                </incipit>
+                                <explicit>
+                                    <ex>og</ex> sÿd<ex>an</ex> säladist h<ex>ann</ex> skiött efft<ex>er</ex> þ<ex>ad</ex> hann hafde þ<ex>et</ex>ta talad, <ex>og</ex> för þä h<ex>an</ex>s ónd friälz t<ex>il</ex> him<ex>en</ex> rÿkeß.
+                                </explicit>
+                                <note>
+                                    Cf. Gering, I, XXXVIII "Af munki einum er beiddi guð at skemma pínu sína" and Einar G. Pétursson, pp. 59–60 "Fra einum brodur".
+                                </note>
+                            </msItem>
+                            <msItem n="4.26">
+                                <locus from="29v:9" to="31v:15">29v–31v</locus>
+                                <incipit>
+                                    Suo byri<ex>ar</ex> þ<ex>et</ex>ta auen<ex>n</ex>tÿr, ad v̈t J franz, i einu B<ex>isku</ex>pzdæme er kallast Afgeiam, biö ein<ex>n</ex> m<ex>ick</ex>ill m<ex>adur</ex>, 
+                                    h<ex>an</ex>n v<ex>ar</ex> rÿk<ex>ur</ex> m<ex>anne</ex> bæ<ex>de</ex> J Lo᷎ndu<ex>m</ex>, <ex>og</ex> lausu<ex>m</ex> euyre
+                                </incipit>
+                                <explicit>
+                                    <ex>og</ex> lifa v<ex>e</ex>l sÿdan<ex>n</ex>, þä mun gud f<ex>yrer</ex>g<ex>e</ex>fa h<ex>onu</ex>m. þ<ex>ad</ex> ræd e<ex>g</ex> ad vier gio᷎ru<ex>m</ex> suo aller, 
+                                    vp<ex>p</ex>ä þ<ex>ad</ex> ad vier mættu<ex>m</ex> Audlast him<ex>en</ex>rÿkeß bleßan vtan<ex>n</ex> enda.
+                                </explicit>
+                                <note>
+                                    Cf. Gering, I, XXXIX "Af konu er drýgði hórdóm við föður sinn" and Einar G. Pétursson, pp. 60–80 "A tale of an incestuous daughter".
+                                </note>
+                            </msItem>
+                            <msItem n="4.27">
+                                <locus from="31v:16" to="32r:16">31v–32r</locus>
+                                <incipit>
+                                    J einhu<ex>or</ex>iu bræd<ex>ra</ex> klaustre v<ex>ar</ex> ein<ex>n</ex> munk<ex>ur</ex> sä er þ<ex>an</ex>n lo᷎st hafde m<ex>ei</ex>r i vanda, 
+                                    en<ex>n</ex> adr<ex>er</ex> b<ex>rædur</ex> i þ<ex>ei</ex>m lifnade, en þ<ex>ei</ex>r kalla bakbit, en v<ex>ær</ex> ko᷎llu<ex>m</ex> bakmælge
+                                </incipit>
+                                <explicit>
+                                    efft<ex>er</ex> þ<ex>ad</ex> hu<ex>ar</ex>f h<ex>an</ex>n, <ex>og</ex> so seigest, ad h<ex>ann</ex> v<ex>ar</ex> f<ex>yrer</ex> dæmd<ex>ur</ex>. 
+                                    þ<ex>et</ex>ta sama skede i Engl<ex>a</ex>nde, i þui klaustre s<ex>e</ex>m e<ex>g</ex> hirde ei ad Neffna.
+                                </explicit>
+                                <note>
+                                    Cf. Gering, I, XL "Af munki einum bakmálgum" and Einar G. Pétursson, pp. 81–84 "The tale of the backbiting English monk".
+                                </note>
+                            </msItem>
+                            <msItem n="4.28">
+                                <locus from="32r:17" to="33r:15">32r–33r</locus>
+                                <incipit>
+                                    Þetta æffen<ex>n</ex>tÿr byri<ex>ar</ex> so, ad eirnu<ex>m</ex> rÿk<ex>na</ex> m<ex>anna</ex>, en<ex>n</ex> e<ex>ck</ex>j g<ex>re</ex>ine e<ex>g</ex> hu<ex>ad</ex> m<ex>anne</ex> h<ex>an</ex>n v<ex>ar</ex>, 
+                                    ed<ex>ur</ex> hu<ex>ad</ex> h<ex>an</ex>n hiet, nema so s<ex>ei</ex>gest ad h<ex>an</ex>n lifde alla sÿ<ex>na</ex> d<ex>a</ex>ga m<ex>e</ex>st<ex>an</ex> p<ex>ar</ex>t i syndu<ex>m</ex>
+                                </incipit>
+                                <explicit>
+                                    effter þ<ex>et</ex>ta hu<ex>ar</ex>f v<ex>or</ex> h<ex>e</ex>r<ex>ra</ex>, <ex>og</ex> Jüng fru Marja, i burt fra h<ex>a</ex>nz sÿnu t<ex>il</ex> him<ex>en</ex>rÿkeß, en<ex>n</ex> skiött efft<ex>er</ex> þ<ex>ad</ex>, 
+                                    för þ<ex>e</ex>ße Auma säl t<ex>il</ex> heluÿteß m<ex>ed</ex> fiandanu<ex>m</ex>, þar ad büa thil eilÿffrar tÿdar m<ex>ed</ex> h<ex>onu</ex>m, <ex>og</ex> <unclear>hu<ex>or</ex>su</unclear> ärum<ex>m</ex>.
+                                </explicit>
+                                <note>
+                                    Cf. Gering, I, XLI "Af einum ríkum manni er eigi villdi skriptaz" and Einar G. Pétursson, pp. 84–88 "Of the death-bed of a profane swearer".
+                                </note>
+                            </msItem>
+                            <msItem n="4.29">
+                                <locus from="33r:16" to="34v:22">33r–34v</locus>
+                                <incipit>
+                                    Suo er s<ex>a</ex>gt af einu<ex>m</ex> Keÿsa<ex>ra</ex> s<ex>e</ex>m v<ex>ar</ex> J Röm, þ<ex>ei</ex>m er <highlight>Politian<ex>us</ex></highlight> h<ex>ie</ex>t, er mi<ex>og</ex> v<ex>ar</ex> störlät<ex>ur</ex>, 
+                                    hafande m<ex>ar</ex>ga ridda<ex>ra</ex> vnd<ex>er</ex> sier. h<ex>an</ex>n v<ex>ar</ex> gifft<ex>ur</ex>, <ex>og</ex> ätte m<ex>eck</ex>tuga kuin<ex>n</ex>u <ex>og</ex> rÿkeläta
+                                </incipit>
+                                <explicit>
+                                    <ex>og</ex> partadi i þrent o᷎d<ex>rum</ex> t<ex>il</ex> vo᷎run<ex>ar</ex>, en<ex>n</ex> Keÿsara fieck sier ad<ex>ra</ex> qvin<ex>n</ex>u afft<ex>ur</ex> 
+                                    s<ex>e</ex>m m<ex>ick</ex>lu betra v<ex>ar</ex>, <ex>og</ex> endade sitt lÿff m<ex>ed</ex> fride.
+                                </explicit>
+                                <note>
+                                    Cf. Gering, II, LXXVII "Af Poliniano keisara" and Einar G. Pétursson, pp. 88–95 "How a wife employed a necromancer to cause the death of her husband, and how he was saved by a clerk".
+                                </note>
+                            </msItem>
+                            <msItem n="4.30">
+                                <locus from="34v:23" to="35v:21">34v–35v</locus>
+                                <incipit>
+                                    <highlight>Augustin<ex>us</ex></highlight> h<ex>ie</ex>t B<ex>isku</ex>p heilag<ex>ur</ex> mad<ex>ur</ex>, er ried fir<ex>er</ex> b<ex>or</ex>gin<ex>n</ex>a <highlight>Damasco</highlight>, 
+                                    þ<ex>a</ex>r v<ex>ar</ex> J <!-- 35r --> b<ex>or</ex>gin<ex>n</ex>e ein<ex>n</ex> ridd<ex>ar</ex>a rÿkur ad p<ex>e</ex>ningu<ex>m</ex>, <ex>og</ex> n<ex>ock</ex>ud gälaus, en<ex>n</ex> eckj mio᷎g gudhrædd<ex>ur</ex>
+                                </incipit>
+                                <explicit>
+                                    Effter þ<ex>ad</ex> so᷎fnudust sam<ex>an</ex> o᷎ll d<ex>au</ex>d<ex>ra</ex> m<ex>anna</ex> bein afft<ex>ur</ex> i grafen sÿn<ex>ar</ex>, 
+                                    <ex>og</ex> lukust þær so afft<ex>ur</ex> all<ex>ar</ex> er þ<ex>ei</ex>r v<ex>or</ex>u Leist<ex>er</ex>, og läu þar suo sÿdan<ex>n</ex> effter þad J nädum<ex>m</ex>.
+                                </explicit>
+                                <note>
+                                    Cf. Gering, I, VIII "Af Augustino biskupi" and Einar G. Pétursson, pp. 95–97 "Fra riddara einum".
+                                </note>
+                            </msItem>
+                            <msItem n="4.31">
+                                <locus from="35v:22" to="36v:4">35v–36v</locus>
+                                <incipit>
+                                    <highlight>Catepadi<ex>us</ex></highlight> h<ex>ie</ex>t ein<ex>n</ex> greÿfe er v<ex>ar</ex> i Röm, hu<ex>or</ex> ed s<ex>a</ex>gd<ex>ur</ex> v<ex>ar</ex> myskunsam<ex>ur</ex>. 
+                                    hu<ex>ar</ex> f<ex>yrer</ex> ad af sin<ex>n</ex>e m<ex>ick</ex>ille myskuns<ex>e</ex>me h<ex>ann</ex> sette þau Lo᷎g, ad hu<ex>or</ex> s<ex>e</ex>m <!-- 36r --> væ<ex>re</ex> m<ex>ann</ex>slag<ex>ar</ex>e, 
+                                    reÿfare, þiöfur ed<ex>ur</ex> Jllgi<ex>or</ex>da m<ex>adur</ex>
+                                </incipit>
+                                <explicit>
+                                    sÿd<ex>an</ex> gi<ex>eck</ex> h<ex>an</ex>n i burtu, <ex>og</ex> bætte sitt ed fir<ex>ra</ex> Lÿf, og endade suo þar efftur sitt Lÿff J fride, og gödum<ex>m</ex> nädu<ex>m</ex>.
+                                </explicit>
+                                <note>
+                                    Cf. Gering, II, LXXXIV "Frá Ratepadio greifa" and Einar G. Pétursson, pp. 97–99 "Of a knight who saved his life by stating three incontrovertible facts".
+                                </note>
+                            </msItem>
+                            <msItem n="4.32">
+                                <locus from="36v:5" to="36v:24">36v</locus>
+                                <incipit>
+                                    Þ<ex>ad</ex> v<ex>ar</ex> eitt sin<ex>n</ex> ein<ex>n</ex> rÿk<ex>ur</ex> m<ex>adur</ex>, er ätte m<ex>ick</ex>ed götz, <ex>og</ex> m<ex>ar</ex>gt g<ex>an</ex>gandefie, 
+                                    suo s<ex>ei</ex>g<ex>ur</ex> ad þ<ex>ar</ex> skamt i f<ex>ra</ex>, biö ein fätækt eckia, su er ei ätte miera sier t<ex>il</ex> vid<ex>ur</ex> lÿfeß en<ex>n</ex> eina kü
+                                </incipit>
+                                <explicit>
+                                    En<ex>n</ex> þ<ex>ad</ex> v<ex>ar</ex> und<ex>ar</ex>leg<ex>ri</ex> hl<ex>u</ex>t<ex>ur</ex>, at lim<ex>ur</ex> af sniden<ex>n</ex> so falsklegu<ex>m</ex> lÿkam, 
+                                    v<ex>ar</ex> san<ex>n</ex>l<ex>e</ex>ga fuglz föt<ex>ur</ex> en<ex>n</ex> e<ex>ck</ex>i m<ex>ann</ex>s, <ex>og</ex> störan<ex>n</ex> öfo᷎tnud, þ<ex>ar</ex> h<ex>an</ex>n er fätækur, 
+                                    <ex>og</ex> megn<ex>ar</ex> ei sitt hid Litla ad veria, firer öeiru fullu<ex>m</ex> <ex>og</ex> ägio᷎rinu<ex>m</ex> ofstopan<ex>um</ex>m.
+                                </explicit>
+                                <note>
+                                    Cf. Gering, I, XXIX "Af einum ríkum manni ok ekkju einni"; the version here is different and slightly longer than in Gering's edition.
+                                </note>
+                            </msItem>
+                            <msItem n="4.33">
+                                <locus from="37r:1" to="38v:10">37r–38v</locus>
+                                <incipit>
+                                    Ẅt i Lumbardij sat eirn<ex>n</ex> gilld<ex>ur</ex> böndason, i fo᷎d<ex>ur</ex> Leifd sin<ex>n</ex>e ökuænt<ex>ur</ex> mad<ex>ur</ex>. vit<ex>ur</ex>, 
+                                    <ex>og</ex> v<ex>e</ex>l ment<ex>ur</ex>, þar i o᷎d<ex>rum</ex> g<ex>ar</ex>de nägren<ex>n</ex>is v<ex>id</ex> h<ex>an</ex>n v<ex>ar</ex> ein nÿordin<ex>n</ex> eckia, v̈ng, <ex>og</ex> væn
+                                </incipit>
+                                <explicit>
+                                    <ex>og</ex> alld<ex>rei</ex> sÿd<ex>an</ex> b<ex>ra</ex>st h<ex>ann</ex> i an<ex>n</ex><ex>ad</ex> efn<ex>n</ex>e. Lÿkur þ<ex>ar</ex> þ<ex>e</ex>ß<ex>ar</ex>e f<ex>ra</ex>so᷎gn, 
+                                    fillist þ<ex>ad</ex> hi<ex>er</ex>, at hu<ex>or</ex> t<ex>eck</ex>ur þ<ex>ad</ex> at sier, s<ex>e</ex>m h<ex>an</ex>n veiter o᷎d<ex>rum</ex>.
+                                </explicit>
+                                <note>
+                                    Cf. Gering, II, LXXXIX "Trönuþáttr".
+                                </note>
+                            </msItem>
+                            <msItem n="4.34-4.37">
+                                <locus from="38v:11" to="43r:7">38v–43r</locus>
+                                <title> Jóns þáttr biskups Halldórssonar, in 4 parts</title>
+                                <msItem n="4.34">
+                                    <locus from="38v:11" to="39v:6">38v–39v</locus>
+                                    <incipit>
+                                        Nu s<ex>ka</ex>l neffna virdugl<ex>e</ex>g<ex>an</ex> m<ex>ann</ex>, er h<ex>ei</ex>t<ex>ur</ex> h<ex>e</ex>r<ex>ra</ex> Jön Halld<ex>or</ex>ß<ex>on</ex> 
+                                        hin<ex>n</ex> xiij<superscript>a</superscript> B<ex>isku</ex>p Skälholltensis i Jsl<ex>a</ex>nde, h<ex>ann</ex> v<ex>ar</ex> hin<ex>n</ex> sæmel<ex>e</ex>gaste m<ex>adur</ex> i sin<ex>n</ex>e stiett, 
+                                        s<ex>e</ex>m l<ex>e</ex>nge mune lifa ä n<ex>or</ex>d<ex>ur</ex> L<ex>o</ex>ndu<ex>m</ex>.
+                                    </incipit>
+                                    <explicit>
+                                        fellur stormin<ex>n</ex> so sno᷎gt ad m<ex>ed</ex> o᷎llu v<ex>ar</ex> vindlaust. mä af slÿku m<ex>ar</ex>ka s<ex>a</ex>gde b<ex>isku</ex>p<ex>an</ex>, 
+                                        hu<ex>or</ex>i<ex>ar</ex> lyster ad Lifa i bökunu<ex>m</ex>, þött heimrin<ex>n</ex> gi<ex>or</ex>est gamall.
+                                    </explicit>
+                                    <note>
+                                        Cf. Gering, I, XXIII "Jóns þáttr biskups Halldórssonar" (chapter 1).
+                                    </note>
+                                </msItem>
+                                <msItem n="4.35">
+                                    <locus from="39v:7" to="40r:9">39v–40r</locus>
+                                    <incipit>
+                                        Aff Bolonja s<ex>a</ex>gde h<ex>ann</ex> suo falled æfen<ex>n</ex>tÿr, er gi<ex>or</ex>dest i h<ex>an</ex>z þaumist, ad þ<ex>ar</ex> v<ex>or</ex>u ij. skölab<ex>rædur</ex>, und<ex>er</ex> sama nafne, 
+                                        v<ex>ar</ex> an<ex>n</ex><ex>ar</ex> kyniad<ex>ur</ex> allt vestan<ex>n</ex> af Eingl<ex>a</ex>nde, <ex>og</ex> þ<ex>ar</ex> v<ex>ar</ex> so skipad No᷎fnu<ex>m</ex> þ<ex>ei</ex>r<ex>ra</ex>
+                                    </incipit>
+                                    <explicit>
+                                        verd<ex>ur</ex> so bräd daudur s<ex>e</ex>m m<ex>ed</ex> spiöte sie skotin<ex>n</ex> i gegnu<ex>m</ex> hi<ex>a</ex>rtad, 
+                                        s<ex>e</ex>m s<ex>a</ex>g<ex>de</ex> h<ex>e</ex>lt<ex>ur</ex> b<ex>ar</ex> vitn<ex>n</ex>e v<ex>m</ex>.
+                                    </explicit>
+                                    <note>
+                                        Cf. Gering, I, XXIII "Jóns þáttr biskups Halldórssonar" (chapter 2).
+                                    </note>
+                                </msItem>
+                                <msItem n="4.36">
+                                    <locus from="40r:10" to="40v:23">40r–v</locus>
+                                    <incipit>
+                                        Eige er þ<ex>ad</ex> gleim<ex>an</ex>da i Sæmd þ<ex>e</ex>ßa m<ex>an</ex>z Jöns b<ex>isku</ex>ps halld<ex>or</ex>ß<ex>on</ex><ex>ar</ex>, at þ<ex>ei</ex>r v<ex>ar</ex>u skölab<ex>rædur</ex> h<ex>an</ex>z 
+                                        vt<ex>an</ex> L<ex>a</ex>nds, er sÿd<ex>an</ex> vrdu Cardinal<ex>ar</ex>, birtest þ<ex>ad</ex> <ex>og</ex> i þuj efna, at n<ex>ock</ex>r<ex>er</ex> af þ<ex>ei</ex>m s<ex>e</ex>ndu h<ex>onu</ex>m sin br<ex>ie</ex>f
+                                    </incipit>
+                                    <explicit>
+                                        þä er h<ex>an</ex>n var b<ex>isku</ex>p Skälholltensis, Þorläks m<ex>essu</ex> v<ex>m</ex> sum<ex>ar</ex>id, i v<ex>e</ex>stfirdinga fiördu<ex>n</ex>ge ä þ<ex>ei</ex>m bæ er ä Stad<ex>ar</ex>höle h<ex>ei</ex>t<ex>er</ex>, 
+                                        hu<ex>or</ex>su r<ex>ie</ex>ttlät<ex>ur</ex> hin<ex>n</ex> sælu þ<ex>or</ex>läk<ex>ur</ex> v<ex>ar</ex>, <ex>og</ex> v<ex>an</ex>dlät<ex>ur</ex> ad geima g<ex>u</ex>dz lo᷎g. 
+                                        sette h<ex>ann</ex> h<ex>onu</ex>m t<ex>il</ex> t<ex>eck</ex>ed dæme, so fallid s<ex>e</ex>m h<ex>ie</ex>r st<ex>e</ex>nd<ex>ur</ex>.
+                                    </explicit>
+                                    <note>
+                                        Cf. Gering, I, XXIII "Jóns þáttr biskups Halldórssonar" (chapter 3).
+                                    </note>
+                                </msItem>
+                                <msItem n="4.37">
+                                    <locus from="41r:1" to="43r:7">41r–43r</locus>
+                                    <incipit>
+                                        Nockur störbundig<ex>ur</ex> m<ex>adur</ex> <ex>og</ex> störl<ex>e</ex>ga rÿk<ex>ur</ex>, sat i einhu<ex>or</ex>iu<ex>m</ex> stad, e<ex>ck</ex>j v<ex>ar</ex>  h<ex>an</ex>n hærre Nafnböt<ex>ar</ex> 
+                                        en<ex>n</ex> ridd<ex>ar</ex>e, hafde h<ex>ann</ex> þö saker vÿkdöms <ex>og</ex> kynferdeß, m<ex>ar</ex>ga þä vnd<ex>er</ex> sÿnu vallde
+                                    </incipit>
+                                    <explicit>
+                                        <ex>og</ex> grefftradest, þui sæmeleg<ex>ar</ex>, <ex>og</ex> af o᷎llu<ex>m</ex> gödfüsl<ex>e</ex>g<ex>ar</ex> s<ex>e</ex>m gi<ex>or</ex> v<ex>ar</ex> vitad 
+                                        hu<ex>or</ex>u veg gude siälfu<ex>m</ex> hafde virdst h<ex>an</ex>z eino᷎rd, <ex>og</ex> riett uijse.
+                                    </explicit>
+                                    <note>
+                                        Cf. Gering, I, XXIII "Jóns þáttr biskups Halldórssonar" (chapter 4).
+                                    </note>
+                                </msItem>
+                            </msItem>
+                            <msItem n="4.38-4.40">
+                                <locus from="43r:8" to="46v:14">43r–46v</locus>
+                                <title>Af Celestino ok Bonifacio páfum, in 3 parts</title>
+                                <msItem n="4.38">
+                                    <locus from="43r:8" to="44r:19">43r–44r</locus>
+                                    <incipit>
+                                        Suo heffst þ<ex>ar</ex> til f<ex>ra</ex>sagn<ex>ar</ex> er Celestin<ex>us</ex> päfa, fimte m<ex>ed</ex> þui Nafne, sat i postull<ex>e</ex>gu sæte, 
+                                        h<ex>ann</ex> v<ex>ar</ex> äd<ex>ur</ex> einsetu m<ex>adur</ex>, i þui fialle er Morona h<ex>ei</ex>t<ex>er</ex>, ein falld<ex>ur</ex> m<ex>adur</ex>, <ex>og</ex> ägiætz lifnad<ex>ar</ex>
+                                    </incipit>
+                                    <explicit>
+                                        Nu saker þ<ex>e</ex>ß at bonifati<ex>us</ex> päfe v<ex>ar</ex> so lynd<ex>ur</ex>, <ex>og</ex> störräd<ex>ur</ex>, i sÿnu vallde s<ex>e</ex>m nu v<ex>ar</ex> greint 
+                                        <ex>og</ex> töken med v<ex>or</ex>kynd, ef n<ex>ock</ex>ud v<ex>ar</ex> stört vn<ex>n</ex>ed, þ<ex>uia</ex>t þ<ex>ad</ex> var efft<ex>er</ex> h<ex>a</ex>nz Nätturu, 
+                                        s<ex>e</ex>m s<ex>e</ex>g<ex>ia</ex> s<ex>ka</ex>l af þ<ex>ei</ex>m dæmu<ex>m</ex>, er vrdu ä h<ex>a</ex>ns do᷎gum<ex></ex>m.
+                                    </explicit>
+                                    <note>
+                                        Cf. Gering, I, XXII "Af Celestino ok Bonifacio páfum" (chapter 1).
+                                    </note>
+                                </msItem>
+                                <msItem n="4.39">
+                                    <locus from="44r:20" to="45r:8">44r–45r</locus>
+                                    <incipit>
+                                        Predikare n<ex>ock</ex>ur m<ex>ick</ex>ilz hätt<ex>ar</ex> mad<ex>ur</ex>, för af f<ex>ra</ex>ns pilag<ex>ri</ex>ms v<ex>e</ex>g f<ex>ra</ex>m<ex>m</ex> til Röma, 
+                                        <ex>og</ex> s<ex>e</ex>m h<ex>ann</ex> m<ex>ed</ex> sÿnu fölke hefer meir en<ex>n</ex> hälf sött veig<ex>en</ex>, fan<ex>an</ex>de vm<ex>m</ex> eina mo᷎rk, 
+                                        hleÿpa at þ<ex>ei</ex>m reÿfar<ex>ar</ex> t<ex>il</ex> h<ex>a</ex>nda <ex>og</ex> föta herklædd<ex>ur</ex>
+                                    </incipit>
+                                    <explicit>
+                                        þ<ex>a</ex>t lærdu<ex>m</ex> m<ex>ann</ex> er lof<ex>ad</ex> at hrinda af si<ex>er</ex> öfride m<ex>ed</ex> afla, ef h<ex>ann</ex> er af o᷎d<ex>rum</ex> fir<ex>r</ex> suijuirdt<ex>ur</ex>.
+                                    </explicit>
+                                    <note>
+                                        Cf. Gering, I, XXII "Af Celestino ok Bonifacio páfum" (chapter 2).
+                                    </note>
+                                </msItem>
+                                <msItem n="4.40">
+                                    <locus from="45r:9" to="46v:14">45r–46v</locus>
+                                    <incipit>
+                                        At An<ex>n</ex><ex>ar</ex>e f<ex>ra</ex>so᷎gu er þ<ex>ad</ex> vp<ex>p</ex>haf, at lÿten<ex>n</ex> v<ex>e</ex>g burt af Römä, stöd eitt su<ex>ar</ex>tmünka klaust<ex>ur</ex>, 
+                                        <ex>og</ex> þ<ex>ar</ex> an<ex>n</ex>ar<ex>re</ex> hälfu Nälægt v<ex>ar</ex> p<ex>re</ex>st<ex>er</ex> n<ex>ock</ex>ut, hielldu sÿna k<ex>ir</ex>kiu hu<ex>or</ex>er reglu m<ex>enn</ex>
+                                    </incipit>
+                                    <explicit>
+                                        lÿk<ex>ur</ex> so so᷎gun<ex>n</ex>j ad brædur föru heim, <ex>og</ex> bäru m<ex>ed</ex> sier bæ<ex>da</ex> meidsk, <ex>og</ex> mein Jrde, 
+                                        en<ex>n</ex> kluck<ex>ar</ex>e för an<ex>n</ex><ex>an</ex> v<ex>e</ex>g, <ex>og</ex> suiuirdte b<ex>rædurna</ex> hu<ex>ar</ex> ed h<ex>an</ex>n ko<ex>m</ex>.
+                                    </explicit>
+                                    <note>
+                                        Cf. Gering, I, XXII "Af Celestino ok Bonifacio páfum" (chapter 3).
+                                    </note>
+                                </msItem>
+                            </msItem>
+                            <msItem n="4.41">
+                                <locus from="46v:15" to="48v:8">46v–48v</locus>
+                                <incipit>
+                                    Suo er lesed, at i Danmo᷎rku sat ein<ex>n</ex> Ercheb<ex>isku</ex>p Absalon at Nafne, i nafnfrægu<ex>m</ex> st<ex>a</ex>d er Lund h<ex>ie</ex>t, h<ex>ann</ex> v<ex>ar</ex> markul<ex>e</ex>g<ex>ur</ex> m<ex>adur</ex>, 
+                                    <ex>og</ex> m<ex>ick</ex>ill sko᷎rung<ex>ur</ex> i mo᷎rgu læge, en<ex>n</ex> i no᷎g ägi<ex>ar</ex>n t<ex>il</ex> fiär, s<ex>e</ex>m lysest i so᷎gun<ex>n</ex>e
+                                </incipit>
+                                <explicit>
+                                    þ<ex>uia</ex>t reint er räduendj dr<ex>o</ex>tt<ex>an</ex>z þ<ex>ar</ex> v<ex>m</ex>, ad ei vill h<ex>ann</ex> þ<ex>ad</ex> þig<ex>g</ex>ia s<ex>e</ex>m ei er Lo᷎gl<ex>e</ex>ga aflad.
+                                </explicit>
+                                <note>
+                                    Cf. Gering, I, XIX "Af ágirnd Absalons erkibiskups ok af einum bónda".
+                                </note>
+                            </msItem>
+                            <msItem n="4.42">
+                                <locus from="48v:9" to="50r:23">48v–50r</locus>
+                                <rubric>
+                                    Bækling<ex>ur</ex> siä en<ex>n</ex> lite, er samsett<ex>ur</ex> af skemtan<ex>ar</ex> so᷎g<ex>um</ex>, þ<ex>ei</ex>m s<ex>e</ex>m virdul<ex>e</ex>g<ex>ur</ex> 
+                                    h<ex>er</ex>ra Jön b<ex>isku</ex>p halld<ex>or</ex>ß<ex>on</ex> s<ex>a</ex>gde t<ex>il</ex> gam<ex>an</ex>z m<ex>onnu</ex>m, 
+                                    <ex>og</ex> mä þad talla hu<ex>or</ex>ter vill so᷎gur, ed<ex>ur</ex> æfin<ex>n</ex>tijr.
+                                </rubric>
+                                <incipit>
+                                    J Þijskal<ex>a</ex>nde v<ex>ar</ex> ein<ex>n</ex> R<ex>iddare</ex> er nijt<ex>eck</ex>ed hafde arf eftt<ex>er</ex> fo᷎d<ex>ur</ex> sinu<ex>m</ex>, h<ex>an</ex>n v<ex>ar</ex> 
+                                    ökuænt<ex>ur</ex> en<ex>n</ex> rijkur af p<ex>e</ex>ning<ex>um</ex>
+                                </incipit>
+                                <explicit>
+                                    en<ex>n</ex> fad<ex>ur</ex> þ<ex>eir</ex>ra fi<ex>eck</ex> si<ex>er</ex> ad<ex>ra</ex> konu sÿd<ex>an</ex>, 
+                                    <ex>og</ex> er e<ex>ck</ex>j þ<ex>e</ex>ß getud ad h<ex>onu</ex>m jrde n<ex>ock</ex>ud t<ex>il</ex> meins, lijk<ex>ur</ex> so þ<ex>e</ex>ßum fäheirda atburd.
+                                </explicit>
+                                <note>
+                                    Cf. Gering, II, LXXXV "Af riddara ok álfkonu" (A).
+                                </note>
+                            </msItem>
+                            <msItem n="4.43">
+                                <locus from="50v:1" to="53v:13">50v–53v</locus>
+                                <incipit>
+                                    Eirn<ex>n</ex> volldug<ex>ur</ex> k<ex>on</ex>g<ex>ur</ex> sat i Rijke sijnu, h<ex>ann</ex> hafde all<ex>ra</ex> h<ex>a</ex>nda m<ex>ak</ex>t, m<ex>ed</ex> 
+                                    villdasta m<ex>ann</ex>val, v<ex>er</ex>alld<ex>ur</ex> sæmd, <ex>og</ex> fliöt<ex>an</ex>da rijkdöm, m<ex>ed</ex> gull <ex>og</ex> dij<ex>ra</ex> steina 
+                                    in<ex>n</ex><ex>an</ex> hall<ex>ur</ex> hafde h<ex>ann</ex> þä m<ex>adur</ex> t<ex>il</ex> sæmd<ex>ar</ex> sier er þ<ex>ei</ex>r kalla Philosophos, þ<ex>at</ex> 
+                                    mä norræna eru ædstu spekinga
+                                </incipit>
+                                <explicit>
+                                    heff<ex>ur</ex> k<ex>on</ex>g<ex>ur</ex> þ<ex>at</ex> þä vp<ex>p</ex> aff bænin<ex>n</ex>e er h<ex>an</ex>n heffur äd<ex>ur</ex> eftter skiled. 
+                                    Et dimitte nobis etc. <ex>og</ex> ei seirn<ex>n</ex>a en<ex>n</ex> h<ex>an</ex>n heffur sagt Amen. eftter bænina endada, Lijd<ex>ur</ex> h<ex>an</ex>n 
+                                    burt af þ<ex>e</ex>ßu lijfe, <ex>og</ex> var mio᷎g miked af mo᷎rgum<ex>m</ex> man<ex>n</ex>e grätnu<ex>m</ex> þö gamall væ<ex>re</ex>, 
+                                    endast suo þesse frä saga.
+                                </explicit>
+                                <note>
+                                    Cf. Gering, II, LXXVIII "Af dauða ok kóngssyni".
+                                </note>
+                            </msItem>
+                        </msItem>
+                        <msItem n="5">
+                            <locus from="54r" to="57v">54r–57v</locus>
+                            <title>Dialogue between master and disciple</title>
+                            <rubric>Hier heffst v̈p<ex>p</ex> ein fräso᷎gn er m<ex>enn</ex> hafa t<ex>il</ex> gam<ex>an</ex>z</rubric>
+                            <incipit>
+                                Eff þu villt m<ex>ar</ex>g fröd<ex>ur</ex> ve<ex>ra</ex>, þä s<ex>ka</ex>ltu gi<ex>or</ex>a s<ex>e</ex>m ein<ex>n</ex> Læ<ex>re</ex>suein<ex>n</ex> gio᷎rer vid Meista<ex>ra</ex> s<ex>e</ex>m, 
+                                þä er h<ex>onu</ex>m þötte m<ex>ik</ex>ed verd<ex>ar</ex> ad nema, <ex>og</ex> spurda h<ex>an</ex>n þ<ex>e</ex>ßar h<ex>ann</ex> villda vita. dijrdl<ex>e</ex>g<ex>ur</ex> M<ex>eistari</ex> min<ex>n</ex>. 
+                                s<ex>eiger</ex> h<ex>ann</ex>. lättu þier ei leijdast ad sua<ex>ra</ex> ofttl<ex>e</ex>ga vm<ex>m</ex> þ<ex>at</ex> s<ex>e</ex>m e<ex>cke</ex> vil spyr<ex>ar</ex> þig. 
+                                M<ex>eistari</ex> su<ex>ar</ex> mitt hid sæta b<ex>ar</ex>n spyr þu efft<ex>er</ex> þe<ex>ss</ex>e higunda s<ex>e</ex>m gud hefur g<ex>e</ex>fed mi<ex>er</ex>. 
+                                Discipul<ex>us</ex> sp<ex>yr</ex> stig þu mi<ex>er</ex> þ<ex>at</ex> first hu<ex>ar</ex> sat gud þä er h<ex>ann</ex> skapade himen <ex>og</ex> Jo᷎rd.
+                            </incipit>
+                            <explicit>
+                                L<ex>æresueinn</ex> s<ex>pyr</ex> huenær, ed<ex>ur</ex> ä hu<ex>or</ex>e stundu, þä fillde gud þeß<ex>ar</ex> s<ex>em</ex> stiett<ex>er</ex>. 
+                                M<ex>eistari</ex> s<ex>uar</ex> Lector v<ex>ar</ex> h<ex>an</ex>n þä, er h<ex>ann</ex> opnada bök f<ex>yrer</ex> Esaja späm<ex>anna</ex>, <ex>og</ex> sinurde Jn<ex>n</ex>, <ex>og</ex> vijgde ad boda Lo᷎g h<ex>a</ex>ns. 
+                                exorcista v<ex>ar</ex> h<ex>ann</ex> þä er h<ex>an</ex>n rak vij. dio᷎fla f<ex>ra</ex> Marie Magdalene. Diacon<ex>us</ex> v<ex>ar</ex> h<ex>ann</ex> þä, er h<ex>ann</ex> þuö fæt<ex>ur</ex> læ<ex>re</ex>sueina sin<ex>n</ex>a. 
+                                p<ex>re</ex>st<ex>ur</ex> v<ex>ar</ex> h<ex>ann</ex> þä er h<ex>ann</ex> tök braud <ex>og</ex> bleßada, <ex>og</ex> tök þ<ex>at</ex> af kaleik, <ex>og</ex> braut sijd<ex>an</ex>, 
+                                <ex>og</ex> gaf Læ<ex>re</ex>suein<ex>um</ex> sijnu<ex>m</ex> at bergia. þä v<ex>ar</ex> h<ex>ann</ex> Hostiari<ex>us</ex>, er h<ex>an</ex>n kom Til heluijtaß dyra, og sagde suo. Attollite Portas Principes v<ex>estr</ex>as.
+                            </explicit>
+                            <note>
+                                Cf. Alfræði Íslenzk, III, 36–44.
+                            </note>
+                        </msItem>
+                        <msItem n="6">
+                            <locus from="58r" to="70v">58r–70v</locus>
+                            <title>Margrétar saga</title><!-- Margrétar saga III -->
+                            <msItem n="6.1">
+                                <locus from="58r" to="69v">58r–69v</locus>
+                                <rubric>Sagan<ex>n</ex> af hin<ex>n</ex>e h<ex>eilogu</ex> Margretu</rubric>
+                                <incipit>
+                                    J þan<ex>n</ex> Tijma veralldar er lidner voru frä pijsl Drottinz vors Jesu Christi xc. vetur, <ex>og</ex> tuo hundrud tijræd vöx fianda rijke m<ex>ick</ex>ed yfer Christnu fölke, 
+                                    þä rijkte keijsara sä er hiet Diocletian<ex>us</ex>, h<ex>an</ex>n var son þeß Lo᷎gm<ex>ann</ex>z er hiet Dalmotha. h<ex>an</ex>n kaus til rijkeß m<ex>ed</ex> sier <ex>og</ex> 
+                                    j fielag þan<ex>n</ex> m<ex>ann</ex> er h<ex>ie</ex>t Maximinian<ex>us</ex> en<ex>n</ex> o᷎dru nafne Herculus.
+                                </incipit>
+                                <explicit>
+                                    þä vard olibrj<ex>us</ex> greijffe ödur aff <supplied>f</supplied>ianda, svo han<ex>n</ex> drap qonu sijna, dætur sijnar þriär, <unclear>00</unclear> sonu sijna fim<ex>m</ex>, 
+                                    en<ex>n</ex> han<ex>n</ex> siälffur flijde j burt ä skö<supplied>g</supplied>a, og var þar med ville dijrum<ex>m</ex>.
+                                </explicit>
+                            </msItem>
+                            <msItem n="6.2">
+                                <locus from="70r" to="70v">70r–v</locus>
+                                <title type="supplied">Prayers</title>
+                                <rubric>Lausnar v<ex>er</ex>ß .</rubric>
+                                <highlight><supplied>S</supplied>ator arepo tenet opera Rotas, pollex index Medi<ex>us</ex> Medic<ex>us</ex> <!-- 70v --> auricularis.</highlight> Riste eg kroß ä þier + s<ex>e</ex>m hin helga mær 
+                                reijst ä sier <ex>og</ex> sijnu<ex>m</ex> syne, þä er hun helgade sig til himin rijkeß dijrdar kroß drottins vors, <highlight>in nomine patris, filij, et spiritus sancti. Amen.</highlight>
+                                <rubric>Aun<ex>n</ex><ex>ar</ex> Lausn.</rubric>
+                                send þu lausn hin sæla Maria drottning J þä min<ex>n</ex>ing sem naglar leÿstust v̈r särum<ex>m</ex> son<ex>ar</ex> þÿnz. 
+                                Nu firer bænar stad sællrar Mariæ er hun bid<ex>ur</ex> almättkan<ex>n</ex> drotten<ex>n</ex> gud son sin<ex>n</ex>, 
+                                sender han<ex>n</ex> þeßa lausn konu<ex>m</ex>, af himne er þær skulu vid burd sin<ex>n</ex> skiliast, og o᷎ll ber kikvende, 
+                                <ex>og</ex> einge þ<ex>eir</ex>ra kven<ex>n</ex>a mun af sæng andaster lausn kemur yffer. in nomine patris, filij, et spiritus sancti.
+                                þä s<ex>ka</ex>l sijngia iij. pater noster, og gio᷎ra kroßa iij. Jfer konun<ex>n</ex>e. er þ<ex>et</ex>ta fræde ei at einz sett vid þ<ex>essu</ex>m hlutu<ex>m</ex>, 
+                                helld<ex>ur</ex> allz konar ögnu<ex>m</ex>, elldz gänge, <ex>og</ex> bräda sött, <ex>og</ex> þ<ex>ier</ex> s<ex>e</ex>m skiötl<ex>e</ex>ga kan<ex>n</ex> yfer 
+                                at koma <highlight>+ Longin<ex>us</ex> miles accepit Lanceam, et perfaravit dominu<ex>m</ex>, et continuo ex ivit sangvis, et aqva, sangvis Remissionis, et aqva baptizmatis + in 
+                                nomine filij Resta Sangvis + in nomine sancti spiritus non ereat sangvis + . Amen.</highlight>
+                            </msItem>
+                        </msItem>
+                        <msItem n="7">
+                            <locus from="71r" to="74r">71r–74r</locus>
+                            <title>Preface to Lykla-Péturs saga og Magelónu fögru</title>
+                            <rubric>
+                                Ein skemtelig historia af føgru Magelona s<ex>em</ex> var <ex>kon</ex>ungs dotter af Neaples <ex>og</ex> ein<ex>um</ex> Ridda<ex>ra</ex>, hu<ex>or</ex> ad h<ex>ie</ex>t 
+                                Petur, son eins Greÿfa af Provincia. útlo᷎gd af frantzisku ä þijksu, af Meÿstara Vitus Varbeck: Og nu nijlega J Do᷎nsku <supplied>snu</supplied>in<ex>n</ex>, 
+                                lÿsteleg <highlight style="strikethrough">m</highlight> <supplied>a</supplied>d heÿ<ex>ra</ex> <ex>og</ex> J ad lesa, o<ex>g</ex> nü Jslenskud
+                            </rubric>
+                            <incipit>
+                                Velborin<ex>n</ex>e og Erligre fru, Fru <highlight>CHRISTINU</highlight> Lickis; Erligs <ex>og</ex> Velborins man<ex>n</ex>s <highlight>EŸLER GRÜBBIS</highlight> til <highlight>LIJSTROP</highlight>. 
+                                Danmerk<ex>ur</ex> Rijkiz Cantzeler <ex>og</ex> räd, k<ex>on</ex>g Majest<ex>ets</ex> høfuds m<ex>ann</ex> til Vardenborg ÿf<ex>ur</ex> her<ex>ra</ex> <ex>og</ex> einvallds räd, (h<ex>an</ex>z 
+                                elskul<ex>e</ex>gu fru) Öska eg na<supplied>d</supplied>ar <ex>og</ex> frid<ex>ar</ex> af G<ex>ud</ex>e faud<ex>er</ex>, f<ex>ra</ex> v<ex>or</ex>n h<ex>e</ex>r<ex>ra</ex> Jesum Christum!
+                            </incipit>
+                            <explicit>
+                                h<ex>onu</ex>m sierlijed, lof <ex>og</ex> prijs, heid<ex>ar</ex> <ex>og</ex> þack<ex>ar</ex> gi<ex>or</ex>d nu <ex>og</ex> t<ex>il</ex> eilijfr<ex>ar</ex> tijd<ex>ar</ex>, Amen!
+                            </explicit>
+                            <colophon>
+                                Vtgefud j kaupen hafn, þan 2<supplied>5</supplied>. d<ex>ag</ex> Martij. An<ex>n</ex>o. 1<supplied>5</supplied>83. 
+                                ÿ<ex>dur</ex> G<ex>ud</ex> f<ex>ryktugur</ex> 
+                                Velviliug<ex>ur</ex> þienari 
+                                Laurentz Benedicht
+                            </colophon>
+                            <note>The dates in the colophon appear, in the manuscript, to read <q>28</q> and <q>1883</q>.</note>
+                            <note>Fols 74v and 75r–v are all blank.</note>
+                        </msItem>
+                        <msItem n="8" defective="true">
+                            <locus from="76r" to="122v">76r–122v</locus>
+                            <title>Compendium Cosmographicum</title>
+                            <author >Hans Nansen</author>
+                            <msItem>
+                                <locus from="76r" to="85r">76r–85r</locus>
+                                <incipit>
+                                    Sä 7 himin<ex>n</ex> er sä s<ex>e</ex>m Saturnus hefur sitt hlaup Jn<ex>n</ex>e frä nid<ex>ur</ex> go᷎ngu til vp<ex>p</ex>go᷎ngu. 
+                                    þad er frä <addition location="margin">vestre til austurz</addition> <highlight style="strikethrough">Austrj til vesturs</highlight> J mötu hlaupe þeßa Effstu Junius miog Langsaml<ex>e</ex>ga
+                                </incipit>
+                                <explicit>
+                                    Vm<ex>m</ex> Jard<ex>ar</ex>in<ex>n</ex><ex>ar</ex> adskilianl<ex>e</ex>ga p<ex>ar</ex>ta <ex>og</ex> þ<ex>eir</ex>ra adskilianl<ex>e</ex>g konga Rijke Lond <ex>og</ex> hellstu Borg<ex>er</ex>, 
+                                    skal hi<ex>er</ex> efft<ex>er</ex> J od<ex>rum</ex> parte þeßa Bæklings Taladt v<ex>er</ex>da, <ex>og</ex> endast hier sä firste. En<ex>n</ex> kem<ex>ur</ex> An<ex>n</ex><ex>ar</ex> effter.
+                                </explicit>
+                                <colophon>finis est</colophon>
+                                <note>The beginning of Part 1 is missing; fol. 85v is blank.</note>
+                            </msItem>
+                            <msItem>
+                                <locus from="86r" to="122v">86r–122v</locus>
+                                <rubric>
+                                    <highlight>Annar partur Bæ̈klingsins. huør Ed</highlight> 
+                                    Talar stuttlega 
+                                    Wm<ex>m</ex> þau mo᷎rgu adskilianl<ex>e</ex>gu konga Rÿke J heimenid, 
+                                    herra dæ̈me og Wm<ex>m</ex>dæ̈me ꜳ̈ Jørdun<ex>n</ex>e, äsamt þ<ex>eir</ex>ra hellstu 
+                                    <ex>kon</ex>gnaffnkun<ex>n</ex>ugustu stødum <ex>og</ex> Borgum<ex>m</ex>.
+                                </rubric>
+                                <rubric>Vm<ex>m</ex> Jardaren<ex>n</ex>ar partta</rubric>
+                                <incipit>
+                                    <highlight>Jørden<ex>n</ex> sundur Deijlust Almen<ex>n</ex>elega af þeim nyiu Jard</highlight>rÿkis skrifur m<ex>onnu</ex>m, J þä gømlu <ex>og</ex> nÿu verølld, huad ecke skal so skiliast
+                                </incipit>
+                                <explicit>
+                                    og kall<ex>ed</ex> fretum le-maire þad er Le-maire sund, h<ex>an</ex>n siälfur dö ä Reisun<ex>n</ex>e, um skiped med Einu<ex>m</ex> parte Af fölkenu, heffur Afftur komed 1617. 
+                                    J holland J Julio manude, þä þ<ex>ei</ex>r hofdu sigltt Jordena Alltt J Kring J vestred <ex>og</ex> komu afftur vr Austvnnu J 2 Aar <ex>og</ex> tuær vikur.
+                                </explicit>
+                                <colophon>
+                                    <!-- 122v -->Þetta er suo stuttlega skrifad vm<ex>m</ex> Jørdena med sijnum<ex>m</ex> konga
+                                    Rijkium<ex>m</ex> og Løndum<ex>m</ex>. Og Endast 
+                                    hier med Annar Parttur 
+                                    þessa Bæcklings. 
+                                    Skrifad <ex>og</ex> endad J Schꜳ̈lawijk vid Miöafiørd Anno 1660. 
+                                    þann þrijtugazta og fyrsta Martij Mänadar
+                                    Thördur Jönsson. m<ex>ed</ex> e<ex>igen hendi</ex>
+                                </colophon>
+                            </msItem>
+                        </msItem>
+                        <msItem n="9">
+                            <locus from="123r" to="152v:12">123r–152v</locus>
+                            <title>Um Tyrkjaríið</title>
+                            <author>Hans Hansson Skoning</author>
+                            <rubric>
+                                Vm<ex>m</ex> Tÿrkiaryed Edur 
+                                Tÿrkian<ex>n</ex>a Truarbro᷎gd, Løgmäl, Og ÿmeslegar undarligar Og sierligar Ceremoniur, kÿrkiuside <ex>og</ex> an<ex>n</ex>ad fleÿra þess hꜳttar.
+                            </rubric>
+                            <rubric>I. Capitule.</rubric>
+                            <incipit>
+                                <highlight>Þaug Ypparligustu heiløgu Lø<ex>n</ex>d</highlight> sem eru Asi<unclear>a</unclear> Sÿria og Arabia, J huo᷎riu<ex>m</ex> flätz<ex>um</ex> su rietta og san<ex>n</ex>a Christelega tru hef<ex>ur</ex> ford<ex>um</ex> vered, 
+                                og allra first grundvo᷎llud og sijd<ex>an</ex> þadan<ex>n</ex> utbreidd J øll øn<ex>n</ex>ur lo᷎nd, af Adam, Enoch, Noah, Abraham, Mosen, Esaia <ex>og</ex> ødrum fleÿrum Prophetum <ex>og</ex> Gudzm<ex>onnu</ex>m, 
+                                J þvi gamla Testamentinu
+                            </incipit>
+                            <explicit>
+                                ad bidia Voru giæsku rijka <highlight style="strikethrough">göda</highlight> gooda Gud ad Vernda oß alla fÿrer allri ölu[0]hu, <ex>og</ex> Vorumm andligum og lÿkam legumm. Hallt oß G<ex>ud</ex> 
+                                vid þitt hreina ord, hindra þä fanz <ex>og</ex> Tÿrkian<ex>n</ex>z Mord,
+                                sem vilia <highlight>JESUM</highlight> son þin<ex>n</ex> siä, sÿnum <unclear>h</unclear>olldis stöli
+                                heimdin<ex>n</ex> farä. Og endast hier stutt ägrip,
+                                um<ex>m</ex> Tÿrkia skick og side.
+                            </explicit>
+                            <colophon>
+                                Vtlagt ur Do᷎nsku epter Geographisku skrife, Hans
+                                Hänssonar Skonning.
+                            </colophon>
+                        </msItem>
+                        <msItem n="10">
+                            <locus from="152v:13" to="154v">152v–154v</locus>
+                            <rubric>
+                                Historia vm<ex>m</ex> Eirn Strijdzm<ex>ann</ex>, og hioon, og hvørsu Dio᷎ffullin<ex>n</ex> ko<ex>m</ex> 
+                                J Spiled med þeim.
+                            </rubric>
+                            <incipit>
+                                Nockur Strijdzm<ex>adur</ex> var eitt sin<ex>n</ex> ä ferd og kom thil eirn<ex>ra</ex> hiöna þar beiddest h<ex>an</ex>n svo sa <ex>og</ex> fi<ex>eck</ex> þ<ex>ad</ex>, 
+                                en<ex>n</ex> er h<ex>an</ex>n haffde þar skam<ex>m</ex>a stund dvalest, vard h<ex>an</ex>n kränk<ex>ur</ex>, og lä svo n<ex>ock</ex>ra d<ex>a</ex>ga veijk<ex>ur</ex>
+                            </incipit>
+                            <explicit>
+                                en<ex>n</ex> hu<ex>ad</ex> skeidi, Jafn skiött er hun villde ÿf<ex>er</ex> efft<ex>ur</ex> strætinu g<ex>e</ex>nga k<ex>o</ex>m<ex>ur</ex> dio᷎fullin<ex>n</ex> j möte h<ex>onu</ex>m 
+                                þrijf<ex>ur</ex> t<ex>il</ex> h<ex>en</ex>n<ex>ar</ex> <ex>og</ex> beijt<ex>ur</ex> h<ex>en</ex>na ä hälz, þ<ex>ar</ex> j þ<ex>ei</ex>m stad ligg<ex>ur</ex> so g<ex>ra</ex>fin<ex>n</ex>.
+                            </explicit>
+                        </msItem>
+                        <msItem n="11" defective="true">
+                            <locus from="156r" to="159r">156r–159r</locus>
+                            <title>Ölkofra þáttur</title>
+                            <incipit>
+                                hefdu þeir vid ättst, ad þ<ex>ei</ex>m Være e<ex>ck</ex>j J Vilnad, so᷎gdu ad þeir mundu ei beitast, ad deila vm<ex>m</ex> mäl h<ex>a</ex>nz vid o᷎furefleß men<ex>n</ex> slÿka, 
+                                og Villde enge m<ex>adur</ex> heita h<ex>onu</ex>m Lide, og enge villde eiga kaup vid h<ex>an</ex>n
+                            </incipit>
+                            <explicit>
+                                þ<ex>ad</ex> sum<ex>ar</ex> för þ<ex>or</ex>k<ex>ell</ex> ad hej<ex>m</ex>bode t<ex>il</ex> br<ex>odda</ex> fræ<ex>n</ex>da sij<ex>n</ex>z, <ex>og</ex> ho᷎fdu þ<ex>ei</ex>r þá 
+                                hina b<ex>e</ex>stu fræ<ex>n</ex>d<ex>s</ex>eme m<ex>ed</ex> vinättu, hiellst þ<ex>ad</ex> m<ex>ed</ex><ex>an</ex> þ<ex>ei</ex>r Lifdu, <ex>og</ex> end<ex>ur</ex> so Olk<ex>ofra</ex> so᷎gu.
+                            </explicit>
+                            <note>The beginning of the text here is missing, the copy starting towards the end of the first chapter.</note>
+                        </msItem>
+                        <msItem n="12">
+                            <locus from="159v" to="163v">159v–163v</locus>
+                            <title>Hróa þáttur heimska</title>
+                            <rubric>Sagan<ex>n</ex> aff Slisa Hröa.</rubric>
+                            <incipit>
+                                <highlight>Þan<ex>n</ex> Tijma er Sueirn köng<ex>ur</ex> Riedj fyrir Danmo᷎rk, var þ<ex>ar</ex> ä vetur</highlight> sä m<ex>adur</ex> m<ex>ed</ex> h<ex>onu</ex>m er Hröe h<ex>ie</ex>t, 
+                                h<ex>an</ex>n var ad ä sÿndu<ex>m</ex> <ex>og</ex> Jfer Litu<ex>m</ex> frijdur, <ex>og</ex> m<ex>ann</ex>borleg<ex>ur</ex>, <ex>og</ex> skauttzm<ex>ann</ex> m<ex>ick</ex>ill, <ex>og</ex> skrautsam<ex>ur</ex>
+                            </incipit>
+                            <explicit>
+                                En<ex>n</ex> kona h<ex>a</ex>ns virdsest ollum<ex>m</ex> for vitre, kom aff þ<ex>ei</ex>m v̈t margtt Go᷎ffugra man<ex>n</ex>a J Englande; og Lÿkur hier so þeßare So᷎gu Aff <highlight>Hröa</highlight>. 
+                                er kallad<ex>ur</ex> var Jmest hinn hej<ex>m</ex>ske, Slisa Hröe, ed<ex>ur</ex> ad Sÿdustu Hröe hin<ex>n</ex> spake.
+                            </explicit>
+                        </msItem>
+                        <msItem n="13">
+                            <locus from="164r" to="176r">164r–176r</locus>
+                            <title>Hálfs saga og Hálfsrekka</title>
+                            <rubric>Saga af <highlight style="strikethrough">(Alfreki)</highlight> <addition location="margin">Hálfi</addition> konge, o<ex>k</ex> h<ex>an</ex>z Recku<ex>m</ex>.</rubric>
+                            <incipit>
+                                Älfrekur hiet köng<ex>ur</ex> er biö ä Alrekstodum. h<ex>an</ex>n ried f<ex>irer</ex> Hordalande h<ex>an</ex>n ätti Signïu döttur k<ex>on</ex>gs af Waurs Kollur hiet hirdm<ex>adur</ex> k<ex>on</ex>gs 
+                                <ex>og</ex> filgdi h<ex>an</ex>n k<ex>on</ex>ge nordur J Sogn <ex>og</ex> sagdi köngi allmikid frä vænleik Geirhilldar Drifzdött<ex>ur</ex>
+                            </incipit>
+                            <explicit>
+                                Þörer ä Espihöle v<ex>ar</ex> son Hämund<ex>ar</ex>, þadan<ex>n</ex> eru komn<ex>er</ex> Esphelÿngar, Geirmund<ex>ur</ex> heliarskin<ex>n</ex> nam medal fellz strønd J Breydafyrde, ÿre hiet döttar h<ex>a</ex>ns, 
+                                <ex>og</ex> er þ<ex>ad</ex>an<ex>n</ex> mikil ætte komin<ex>n</ex>.
+                            </explicit>
+                            <colophon>FINIS.</colophon>
+                        </msItem>
+                        <msItem n="14" defective="true">
+                            <locus from="176v" to="186v">176v–186v</locus>
+                            <title>Rauðúlfs þáttur</title>
+                            <rubric>Þättur Aff Raud Ẅlffe ok sonu<ex>m</ex> h<ex>an</ex>s.</rubric>
+                            <incipit>
+                                <highlight>Wlfur hiet Madur, ok var kallad<ex>ur</ex> Raud Ẅlffur</highlight>, Ragnhilldur hiet kona han<ex>n</ex>s, syner hans hietu Dagur, og Sigurdur og voru bäder effneleiger Men<ex>n</ex>
+                            </incipit>
+                            <explicit>
+                                En<ex>n</ex> Knwtur könger en<ex>n</ex> rÿke haffde her v̈te vm<ex>m</ex> alla Danmo᷎rk og England, suo han<ex>n</ex> haffde ei færre skip
+                                en<ex>n</ex> Tölff Hundrud. Lä han<ex>n</ex> med þeÿm J
+                                Eÿrar Sunde, og ætlade sier ad Jn<ex>n</ex>
+                                taka Noreg, suo sem seiger J
+                                Saugu Oläffs köngs hins
+                                Helga Harallds
+                                sonar
+                            </explicit>
+                            <note>The text is incomplete, with a blank fol. 180 replacing a lost leaf.</note>
+                        </msItem>
+                        <msItem n="15" defective="true">
+                            <locus from="187r" to="188v">187r–188v</locus>
+                            <title>Sturlu þáttur</title>
+                            <incipit>
+                                <unclear>000000 0000</unclear> ä þiliur. n<ex>ock</ex>uru sÿd<ex>ar</ex> gi<ex>eck</ex> k<ex>ongu</ex>r a brig<ex>g</ex>iur, <ex>og</ex> sueÿt m<ex>anna</ex> m<ex>ed</ex> h<ex>onu</ex>m, stöddt. þä vp<ex>p</ex>, 
+                                hneigde h<ex>onu</ex>m, <ex>og</ex> kuadde h<ex>an</ex>n, en<ex>n</ex> k<ex>ongu</ex>r su<ex>ar</ex>ade o᷎ngu, <ex>og</ex> gi<ex>eck</ex> afft<ex>ur</ex> efft<ex>er</ex> skipi t<ex>il</ex> Liffting<ex>ar</ex>
+                            </incipit>
+                            <explicit>
+                                v<ex>ar</ex> lÿkame h<ex>an</ex>s færd<ex>ur</ex> ä St<ex>a</ex>d<ex>ar</ex>höl <ex>og</ex> j<ex>ar</ex>dad<ex>ur</ex> þ<ex>ar</ex>, 
+                                at k<ex>ir</ex>kj<ex>ur</ex> P<ex>e</ex>t<ex>ur</ex>s p<ex>ostu</ex>la. er h<ex>ann</ex> hafde nær m<ex>e</ex>sta elsku ä hafft af ø<ex>llum</ex> h<ex>e</ex>lg<ex>um</ex> m<ex>onnu</ex>m.
+                            </explicit>
+                            <epilogue>
+                                J þ<ex>e</ex>ß<ex>ar</ex>e f<ex>ra</ex>so᷎gn mä Liöst skilia, ad h<ex>e</ex>r<ex>ra</ex> St<ex>urla</ex> skälld þ<ex>or</ex>darß<ex>on</ex>, hefe sa<ex>m</ex>sett þä Hist<ex>or</ex>iu 
+                                v<ex>m</ex> Hä<ex>kon</ex> k<ex>on</ex>g, <ex>og</ex> Magn<ex>us</ex> so<ex>n</ex> h<ex>an</ex>z, huor ed v<ex>er</ex>ed hefur eirn hu<ex>or</ex> h<ex>onu</ex>m m<ex>e</ex>ste frædem<ex>m</ex> 
+                                ä Jsl<ex>a</ex>nde, <ex>og</ex> mä af h<ex>onu</ex>m m<ex>ar</ex>gt lesa, i þ<ex>ei</ex>m m<ex>ick</ex>lu Jsl<addition resp="editor">e</addition>ndinga so᷎g<ex>um</ex>. <!-- the epilogue continues for 3 more lines -->
+                            </epilogue>
+                            <note>The first part of the text is missing, as is the end of the epilogue.</note>
+                        </msItem>
+                        <msItem n="16" defective="true">
+                            <locus from="189r" to="192v">189r–192v</locus>
+                            <author>Bjarni Kolbeinsson</author>
+                            <title>Jómsvíkinga drápa</title>
+                            <incipit>
+                                Aungan<ex>n</ex> kved ek at öde, ór vm<ex>m</ex> mälma rijre þó gat ek hrödur v<ex>m</ex> hugdan<ex>n</ex>, hliöds at ferþar frv̈de, 
+                                fram<ex>m</ex> mun ek fyrre o᷎lldu<ex>m</ex>, ijg<ex>g</ex>iar biör v<ex>m</ex> færa, þö at einiger ijt<ex>ar</ex> ættgöder, vm<ex>m</ex> hlijþe reckar vijþar.
+                            </incipit>
+                            <explicit>
+                                Red m<ex>ed</ex> danska dölga, drengur ä land at gänga, frä do᷎ru<ex>m</ex> dreijra, daudur lä her ä skeijdu<ex>m</ex>, 
+                                vagn kvad ei ijtu<ex>m</ex> vnd<ex>an</ex>, ruad at skynda saman<ex>n</ex>.
+                            </explicit>
+                            <note>The text is by Bjarni Kolbeinsson (d. 1222); this copy is incomplete, ending in stanza 40 (of 45).</note>
+                        </msItem>
+                        <msItem n="17">
+                            <locus from="193r" to="199r">193r–199r</locus>
+                            <title>Runes</title>
+                            <rubric>Þrideilur Runa</rubric>
+                            <rubric>I De Nomine</rubric>
+                            <incipit>
+                                Ordo iste antiqvissimus putatur in hujus idio onatis literatura ut characteres dividerent in tres columnas: qvas ætter id [et] genera appellant 16 tantum literas: ita in suum alphabetum ordine disponentes, veluti seqventia monstrant.
+                            </incipit>
+                            <explicit>
+                                per niustum illud intelligitur poësis: Velut affectum per lausam
+                                adeoq<ex>ue</ex> fatali connexu Runarum peritia et
+                                Scialdrica ars Concurrunt ac cohærent
+                                De cæteris vide Øluis mäl.
+                            </explicit>
+                            <colophon>F:I:N:I:S</colophon>
+                            <note>On the names, shapes, and interpretation of runes; Latin and Icelandic.</note>
+                        </msItem>
+                    </msContents>
+                    
+                    <physDesc>
+                        <objectDesc form="codex">
+                            <supportDesc material="chart">
+                                <support>
+                                    <p>Paper</p>
+                                </support>
+                                <extent>
+                                    ii + 199 + i (fols 9v, 75, 154, 179 are blank)
+                                    <dimensions>
+                                        <height unit="mm">192 mm</height>
+                                        <width unit="mm">158 mm</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation>
+                                    Later foliation in pencil in the middle of the bottom margin.
+                                    Fol. 129 is blank and fol. 130 is incorrectly numbered 129, leaving fols 130–190 incorrectly numbered as 129–198.
+                                </foliation>
+                                <condition>
+                                    <p>Leaves are missing from the manuscript between fols 178–180.</p>
+                                </condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <collation>
+                            The manuscript has 29 quires:
+                            <list>
+                                <ul>Title page: fol. 1 (singleton)</ul>
+                                <ul>I: fols 2–9 (4 bifolia)</ul>
+                                <ul>II: fols 10–17 (4 bifolia)</ul>
+                                <ul>III: fols 18–25 (4 bifolia)</ul>
+                                <ul>IV: fols 26–33 (4 bifolia)</ul>
+                                <ul>V: fols 34–41 (4 bifolia)</ul>
+                                <ul>VI: fols 42–49 (4 bifolia)</ul>
+                                <ul>VII: fols 50–57 (4 bifolia)</ul>
+                                <ul>VIII: fols 58–65 (4 bifolia)</ul>
+                                <ul>IX: fols 66–68 (3 singletons attached together)</ul>
+                                <ul>X: fols 69–70 (1 bifolium)</ul>
+                                <ul>XI: fols 71–74 + 75 (2 bifolia + 1 blank singleton)</ul>
+                                <ul>XII: fols 76–79 (2 bifolia)</ul>
+                                <ul>XIII: fols 80–87 (4 bifolia)</ul>
+                                <ul>XIV: fols 88–95 (4 bifolia)</ul>
+                                <ul>XV: fols 96–103 (4 bifolia)</ul>
+                                <ul>XVI: fols 104–115 +116 (6 bifolia + 1 singleton)</ul>
+                                <ul>XVII: fols 117–122 (3 bifolia)</ul>
+                                <ul>XVIII: fols 123–130 (4 bifolia)</ul>
+                                <ul>XIX: fols 131–138 (4 bifolia)</ul>
+                                <ul>XX: fols 139–142 (2 bifolia)</ul>
+                                <ul>XXI: fols 143–150 (4 bifolia)</ul>
+                                <ul>XXII: fols 151–154 (2 bifolia)</ul>
+                                <ul>XXIII: fols 155 + 156–163 (1 singleton + 4 bifolia)</ul>
+                                <ul>XXIV: fols 164–171 (4 bifolia)</ul>
+                                <ul>XXV: fols 172–179 (4 bifolia)</ul>
+                                <ul>XXVI: fols 180 + 181–186 (1 blank singleton + 3 bifolia)</ul>
+                                <ul>XXVII: fols 187–188 (1 bifolium)</ul>
+                                <ul>XXVIII: fols 189–192 (2 bifolia)</ul>
+                                <ul>XXIX: fols 193–199 (3 bifolia + 1 singleton)</ul>
+                            </list>
+                        </collation>
+                    </physDesc>
+                </msDesc>
+                <handDesc>Magnús Ketilsson</handDesc>
+                <scope>Major (1r–9r, 71r–74r, 123r–152v)</scope>
+                <handDesc>Magnús Jónsson í Vigur</handDesc>
+                <scope>Major (10r–57v, 156r–163v, 176v–188v)</scope>
+                <handDesc>Þórður Jónsson</handDesc>
+                <scope>Major (86r–122v)</scope>
+                <handDesc>2nd Hand from Kvæðabók úr Vigur</handDesc>
+                <scope>Minor (58r–70v–152v–153v, 189r–192v)</scope>
+                <handDesc>7th Hand from Kvæðabók úr Vigur</handDesc>
+                <scope>Minor (153v–154v)</scope>
+                <handDesc>Unknown Hand 1</handDesc>
+                <scope>Minor (76r–85r)</scope>
+                <handDesc>Unknown Hand 2</handDesc>
+                <scope>Minor (164r–176r, 193r–199r)</scope>
+                <decoDesc>
+                    <list>
+                        <ul>
+                            <li>
+                            Large initials throughout, marking various divisions in the texts.
+                            </li>
+                        </ul>
+                    </list>
+                </decoDesc>
+                <additions>
+                    <list>
+                        <ul>
+                            <li>
+                                Fol. 1r title page, very small scribble on fol. 1v.
+                            </li>
+                            <li>
+                                Scribble on fols 74v, 198v.
+                            </li>
+                        </ul>
+                    </list>
+                </additions>
+                <bindingDesc>Leather bound with wooden covers and embossed spine.</bindingDesc>
+                <accMat>There are two loose notes with the manuscript, possibly order notes.</accMat>
+            </sourceDesc>
+            <history>
+                <origin>
+                    <origPlace>Iceland</origPlace>
+                    <origDate cert="medium" from="1660" to="1699">1660s–1690s</origDate>
+                </origin>
+                <provenance>
+                    <persName>Magnús Jónsson í Vigur</persName> (1637–1702): Commissioner, Owner (see title page, etc.)
+                    <persName>Arnfríður Þorláksdóttir á Hreggstöðum á Barðaströnd</persName> (1755–1822): Owner (see fols 70v, 162v)
+                    <persName>Jón Sigurðsson</persName> (1811–1879): Owner
+                </provenance>
+            </history>
+        </fileDesc>
+        <revisionDesc>
+            <change type="handrit">
+                <name type="person" key="OrnHra001">Örn Hrafnkelsson</name> lagaði skráningu, <date when="2009-08-10">10 August 2009</date>;
+                <name type="person" key="SigGud008">Sigrún Guðjónsdóttir</name> lagaði skráningu, <date when="2009-07-24">24 July 2009</date>; 
+                Handritaskrá, 2. b.; Sagnanet <date when="1998-12-18">18 December 1998.</date>
+            </change>
+            <change when="2017" who="SMW">Adapted from Handrit.org, adjusted according to own standards, and expanded significantly in detail.</change>
+            <change when="2018" who="SMW">Checked.</change>
+            Last update: 2018-10-05
+        </revisionDesc>
+    </teiHeader>
+</TEI>
